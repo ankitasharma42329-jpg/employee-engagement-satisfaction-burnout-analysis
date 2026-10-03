@@ -1,0 +1,1501 @@
+Employee_ID,Department,Job_Level,Age,Years_At_Company,Monthly_Income,Job_Satisfaction,Work_Life_Balance,Management_Support,Recognition,Career_Growth,Workload,Working_Hours,Overtime,Remote_Work,Team_Collaboration,Training_Opportunities,Engagement_Score,Burnout_Score,Burnout_Level,Engagement_Level,Employee_Status
+1001,HR,Entry,43,2,124503,4,1,3,5,3,3,49,Yes,Yes,3,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1002,Finance,Entry,35,11,32159,3,2,4,3,5,4,40,No,No,5,4,80.0,100.0,High Burnout,High Engagement,Moderate
+1003,Marketing,Mid,47,8,78940,1,3,5,2,5,3,56,No,No,2,4,63.33,89.0,High Burnout,Medium Engagement,Needs Attention
+1004,Finance,Senior,31,4,109436,2,5,4,5,2,5,46,No,Yes,1,3,56.67,92.33,High Burnout,Medium Engagement,Needs Attention
+1005,Finance,Manager,37,11,106976,1,3,1,1,2,5,63,No,Yes,5,3,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1006,Sales,Senior,34,9,44678,2,4,5,2,3,3,52,No,Yes,2,5,63.33,76.33,High Burnout,Medium Engagement,Needs Attention
+1007,Marketing,Senior,47,14,91075,4,3,3,4,4,5,61,Yes,No,1,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1008,Marketing,Mid,38,1,77204,1,5,1,4,2,5,54,No,No,4,5,56.67,97.67,High Burnout,Medium Engagement,Needs Attention
+1009,Marketing,Entry,48,6,42021,4,2,5,2,3,3,38,Yes,No,1,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1010,Finance,Manager,24,14,36772,5,2,5,4,1,1,64,Yes,Yes,5,5,83.33,94.33,High Burnout,High Engagement,Moderate
+1011,HR,Senior,27,1,97163,4,3,4,2,5,3,35,No,No,3,3,70.0,75.0,High Burnout,Medium Engagement,Moderate
+1012,Marketing,Mid,55,3,139968,4,1,1,1,4,1,49,Yes,Yes,1,1,40.0,94.33,High Burnout,Low Engagement,Needs Attention
+1013,Customer Support,Senior,29,11,103755,2,3,3,2,3,5,64,Yes,No,3,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1014,Finance,Senior,28,6,53464,5,4,3,5,1,1,52,Yes,Yes,3,4,70.0,66.33,High Burnout,Medium Engagement,Moderate
+1015,Sales,Mid,37,3,81137,4,2,1,5,5,5,48,Yes,No,1,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1016,HR,Manager,37,6,60232,4,2,1,3,1,1,37,No,No,4,2,50.0,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1017,Customer Support,Manager,53,15,91497,5,2,2,4,3,1,63,Yes,No,1,5,66.67,93.67,High Burnout,Medium Engagement,Needs Attention
+1018,Customer Support,Mid,52,6,138017,5,1,4,4,2,3,49,No,No,2,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1019,Sales,Senior,28,15,104024,1,1,1,2,5,1,61,No,No,3,5,56.67,82.33,High Burnout,Medium Engagement,Needs Attention
+1020,HR,Entry,39,0,130485,2,5,1,4,1,5,39,No,Yes,5,5,60.0,87.67,High Burnout,Medium Engagement,Needs Attention
+1021,Finance,Senior,58,5,139898,5,3,2,5,2,3,61,No,No,3,3,66.67,92.33,High Burnout,Medium Engagement,Needs Attention
+1022,Engineering,Entry,23,8,81448,5,3,2,1,4,1,58,No,No,5,1,60.0,60.33,High Burnout,Medium Engagement,Needs Attention
+1023,HR,Mid,25,1,135468,3,4,5,2,3,3,56,Yes,Yes,2,4,63.33,99.0,High Burnout,Medium Engagement,Needs Attention
+1024,Sales,Manager,33,13,114517,5,2,3,4,3,4,37,No,No,2,2,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1025,Customer Support,Mid,51,2,30901,2,1,4,5,5,3,56,No,No,2,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1026,Finance,Mid,36,9,117980,4,4,5,3,1,4,41,No,No,1,1,50.0,84.0,High Burnout,Medium Engagement,Needs Attention
+1027,HR,Mid,52,4,137594,4,4,1,4,4,4,40,No,No,3,1,56.67,83.33,High Burnout,Medium Engagement,Needs Attention
+1028,Engineering,Entry,42,8,113597,4,1,2,1,5,3,60,Yes,No,5,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1029,Engineering,Senior,49,3,32881,4,3,3,1,5,5,56,No,No,2,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1030,Marketing,Entry,42,0,59863,3,2,5,4,1,5,35,Yes,No,2,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1031,Marketing,Entry,23,3,141362,5,3,3,4,4,5,53,No,No,5,1,73.33,100.0,High Burnout,High Engagement,Moderate
+1032,Sales,Mid,30,5,35622,4,4,2,5,1,2,41,No,No,3,1,53.33,54.0,Medium Burnout,Medium Engagement,Needs Attention
+1033,HR,Senior,41,4,152740,1,2,5,4,3,4,38,No,Yes,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1034,HR,Senior,36,13,31378,4,5,5,3,2,3,46,No,Yes,5,4,76.67,62.33,High Burnout,High Engagement,Moderate
+1035,Customer Support,Entry,32,12,113168,5,4,3,5,3,5,54,No,Yes,4,2,73.33,100.0,High Burnout,High Engagement,Moderate
+1036,Customer Support,Mid,22,0,123847,4,3,2,2,3,5,57,No,No,3,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1037,Customer Support,Mid,44,3,101186,3,3,1,3,5,3,59,Yes,No,5,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1038,Marketing,Mid,55,5,75201,2,3,5,5,3,4,64,No,No,5,3,76.67,100.0,High Burnout,High Engagement,Moderate
+1039,HR,Senior,50,12,150767,2,1,1,5,4,3,61,No,No,2,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1040,HR,Mid,50,14,137760,5,4,2,1,3,2,63,No,Yes,5,2,60.0,68.67,High Burnout,Medium Engagement,Needs Attention
+1041,Engineering,Mid,55,9,89251,2,2,5,5,4,2,63,No,No,1,3,66.67,88.67,High Burnout,Medium Engagement,Needs Attention
+1042,Marketing,Mid,39,9,102572,2,3,5,3,1,3,52,No,No,2,3,53.33,86.33,High Burnout,Medium Engagement,Needs Attention
+1043,Finance,Senior,28,13,69255,1,3,1,4,5,4,43,No,Yes,2,5,60.0,95.33,High Burnout,Medium Engagement,Needs Attention
+1044,Marketing,Mid,46,3,93212,5,1,4,3,4,5,53,Yes,Yes,3,1,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1045,Finance,Mid,27,14,80210,5,2,1,2,3,2,56,No,No,4,2,56.67,84.0,High Burnout,Medium Engagement,Needs Attention
+1046,Engineering,Mid,50,13,155629,2,4,1,5,5,2,38,No,Yes,3,2,60.0,52.0,Medium Burnout,Medium Engagement,Needs Attention
+1047,Sales,Mid,27,8,146736,2,5,4,5,5,4,35,No,No,1,2,63.33,70.0,High Burnout,Medium Engagement,Needs Attention
+1048,HR,Senior,23,4,52499,2,1,2,5,4,2,43,No,Yes,2,1,53.33,85.33,High Burnout,Medium Engagement,Needs Attention
+1049,Engineering,Mid,21,7,132552,3,4,2,5,4,2,61,Yes,No,2,2,60.0,87.33,High Burnout,Medium Engagement,Needs Attention
+1050,HR,Senior,56,8,81628,4,5,5,1,2,4,49,No,Yes,5,4,70.0,79.33,High Burnout,Medium Engagement,Moderate
+1051,Customer Support,Senior,45,9,91360,3,3,3,1,2,3,56,No,Yes,4,4,56.67,89.0,High Burnout,Medium Engagement,Needs Attention
+1052,Sales,Mid,57,4,34603,5,3,3,4,5,5,42,No,No,4,1,73.33,100.0,High Burnout,High Engagement,Moderate
+1053,Sales,Mid,21,5,123309,1,2,5,5,2,5,49,No,No,5,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1054,Engineering,Senior,35,0,157466,4,5,3,2,3,2,49,Yes,No,1,5,60.0,69.33,High Burnout,Medium Engagement,Needs Attention
+1055,Sales,Mid,57,10,115473,1,3,1,4,1,5,52,Yes,Yes,4,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1056,Finance,Mid,33,15,42632,5,3,1,5,5,3,41,No,Yes,2,5,76.67,79.0,High Burnout,High Engagement,Moderate
+1057,Sales,Manager,28,11,60607,5,2,4,1,1,2,56,Yes,No,1,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1058,HR,Entry,25,14,121873,1,4,4,2,2,5,52,No,Yes,3,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1059,HR,Entry,29,6,95756,1,3,5,4,4,1,50,Yes,Yes,3,2,63.33,75.0,High Burnout,Medium Engagement,Needs Attention
+1060,HR,Mid,21,3,76994,1,1,5,2,5,1,36,Yes,No,1,2,53.33,85.67,High Burnout,Medium Engagement,Needs Attention
+1061,HR,Manager,56,10,93382,5,1,5,5,2,1,38,No,Yes,2,5,80.0,67.0,High Burnout,High Engagement,Moderate
+1062,Finance,Entry,55,1,100354,2,4,1,3,3,1,54,No,Yes,3,3,50.0,47.67,Medium Burnout,Medium Engagement,Needs Attention
+1063,Marketing,Entry,22,4,86344,1,5,3,2,5,1,50,Yes,Yes,2,5,60.0,55.0,Medium Burnout,Medium Engagement,Needs Attention
+1064,Customer Support,Entry,43,11,83775,4,2,5,2,5,2,37,Yes,No,5,3,80.0,91.33,High Burnout,High Engagement,Moderate
+1065,Engineering,Entry,29,2,37349,5,1,5,1,4,4,58,Yes,Yes,4,1,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1066,HR,Entry,54,5,101154,3,1,1,5,5,4,64,No,No,1,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1067,Sales,Mid,34,7,57464,3,4,1,2,4,2,57,Yes,Yes,4,2,53.33,84.67,High Burnout,Medium Engagement,Needs Attention
+1068,HR,Mid,24,6,72624,4,5,1,5,2,2,36,No,No,5,4,70.0,40.67,Medium Burnout,Medium Engagement,Moderate
+1069,Sales,Entry,50,15,151897,2,5,3,1,3,3,37,No,Yes,3,2,46.67,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1070,Customer Support,Mid,51,2,156866,1,4,5,5,3,4,60,No,No,2,2,60.0,96.67,High Burnout,Medium Engagement,Needs Attention
+1071,Customer Support,Entry,58,7,67344,5,1,2,1,5,1,59,Yes,No,2,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1072,Customer Support,Mid,31,1,155857,1,2,2,1,5,2,63,No,No,5,2,53.33,88.67,High Burnout,Medium Engagement,Needs Attention
+1073,Sales,Mid,55,9,113791,5,1,5,4,2,1,39,No,No,1,4,70.0,67.67,High Burnout,Medium Engagement,Moderate
+1074,HR,Senior,28,8,54299,3,5,5,5,4,4,36,Yes,No,4,2,76.67,90.67,High Burnout,High Engagement,Moderate
+1075,Customer Support,Entry,23,3,77975,1,1,5,3,3,5,53,Yes,Yes,3,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1076,Finance,Mid,34,0,31462,4,2,5,4,4,5,58,No,No,1,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1077,Sales,Entry,33,7,150209,2,3,3,1,2,2,54,Yes,No,5,2,50.0,92.67,High Burnout,Medium Engagement,Needs Attention
+1078,Sales,Senior,52,6,111441,4,1,2,3,3,3,64,No,No,5,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1079,HR,Senior,54,10,120456,2,4,4,2,3,1,36,No,Yes,2,5,60.0,35.67,Medium Burnout,Medium Engagement,Moderate
+1080,Sales,Mid,39,12,111788,1,3,2,2,1,2,36,No,No,3,2,36.67,60.67,High Burnout,Low Engagement,Critical Attention
+1081,Sales,Entry,58,15,136540,1,4,2,4,2,3,56,No,No,1,1,36.67,79.0,High Burnout,Low Engagement,Critical Attention
+1082,Customer Support,Manager,36,4,70581,2,4,1,3,2,1,58,No,No,2,4,46.67,50.33,Medium Burnout,Medium Engagement,Needs Attention
+1083,HR,Entry,22,9,130372,3,4,5,5,1,4,57,Yes,Yes,3,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1084,Customer Support,Entry,37,12,101289,5,1,5,3,4,5,54,Yes,Yes,4,3,80.0,100.0,High Burnout,High Engagement,Moderate
+1085,Customer Support,Mid,54,4,135541,4,5,5,4,1,3,52,No,No,4,4,73.33,66.33,High Burnout,High Engagement,Moderate
+1086,HR,Entry,36,6,44175,4,3,1,5,2,1,59,No,No,2,1,50.0,61.0,High Burnout,Medium Engagement,Needs Attention
+1087,Engineering,Manager,58,4,151704,4,2,3,5,4,2,54,No,No,1,1,60.0,82.67,High Burnout,Medium Engagement,Needs Attention
+1088,Customer Support,Senior,22,7,36191,1,5,3,2,3,1,59,No,No,3,1,43.33,41.0,Medium Burnout,Medium Engagement,Needs Attention
+1089,Finance,Entry,22,10,113434,4,1,4,3,1,2,55,Yes,No,4,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1090,Finance,Mid,46,12,114518,5,4,3,5,4,5,48,Yes,No,4,1,73.33,100.0,High Burnout,High Engagement,Moderate
+1091,Sales,Manager,33,5,110158,5,2,3,4,4,5,62,No,No,1,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1092,Finance,Senior,51,12,96537,2,3,5,2,4,1,49,Yes,No,2,3,60.0,74.33,High Burnout,Medium Engagement,Needs Attention
+1093,Sales,Mid,54,4,145721,1,5,2,5,1,1,46,No,Yes,5,1,50.0,32.33,Medium Burnout,Medium Engagement,Moderate
+1094,Engineering,Manager,59,8,77645,5,5,3,3,3,2,45,No,Yes,3,1,60.0,46.67,Medium Burnout,Medium Engagement,Needs Attention
+1095,HR,Manager,23,10,138536,3,2,3,2,4,2,45,No,No,4,5,70.0,76.67,High Burnout,Medium Engagement,Moderate
+1096,HR,Senior,28,15,53283,1,1,1,3,1,3,64,No,No,5,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1097,HR,Entry,43,1,153153,1,3,4,3,2,3,41,Yes,Yes,1,5,53.33,99.0,High Burnout,Medium Engagement,Needs Attention
+1098,Finance,Mid,34,0,116971,5,2,1,3,1,3,46,Yes,Yes,2,3,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1099,Engineering,Senior,47,7,122759,3,4,5,2,1,1,50,No,No,3,5,63.33,45.0,Medium Burnout,Medium Engagement,Needs Attention
+1100,Finance,Entry,49,11,89123,2,3,2,5,1,3,39,No,Yes,1,2,43.33,77.67,High Burnout,Medium Engagement,Needs Attention
+1101,Finance,Senior,59,2,132780,5,5,4,1,4,1,36,No,No,2,4,66.67,25.67,Low Burnout,Medium Engagement,Moderate
+1102,Engineering,Entry,59,13,60024,3,2,1,5,1,5,56,No,No,1,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1103,Engineering,Entry,21,10,79630,1,5,3,2,2,4,50,No,Yes,4,5,56.67,80.0,High Burnout,Medium Engagement,Needs Attention
+1104,Engineering,Mid,37,11,60734,3,5,3,1,4,5,57,Yes,No,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1105,Engineering,Entry,50,11,30515,1,5,4,1,2,1,64,Yes,No,5,1,46.67,64.33,High Burnout,Medium Engagement,Needs Attention
+1106,HR,Manager,33,11,140782,5,1,3,1,5,1,49,No,No,1,1,53.33,74.33,High Burnout,Medium Engagement,Needs Attention
+1107,Marketing,Senior,41,6,96727,5,5,1,4,1,4,45,Yes,Yes,4,3,60.0,96.67,High Burnout,Medium Engagement,Needs Attention
+1108,Marketing,Senior,39,9,127800,4,4,1,2,4,2,63,No,Yes,2,5,60.0,68.67,High Burnout,Medium Engagement,Needs Attention
+1109,Engineering,Mid,39,12,139164,4,4,3,4,4,2,40,No,No,5,5,83.33,53.33,Medium Burnout,High Engagement,Moderate
+1110,Marketing,Entry,45,10,76216,4,3,3,1,1,2,47,Yes,Yes,3,2,46.67,88.0,High Burnout,Medium Engagement,Needs Attention
+1111,Marketing,Mid,42,7,101833,5,5,5,4,3,3,64,No,Yes,1,2,66.67,74.33,High Burnout,Medium Engagement,Needs Attention
+1112,Engineering,Mid,51,14,88755,2,5,2,4,3,2,53,No,Yes,4,5,66.67,52.0,Medium Burnout,Medium Engagement,Needs Attention
+1113,Marketing,Mid,37,15,57856,5,2,4,2,2,3,44,No,Yes,2,2,56.67,91.0,High Burnout,Medium Engagement,Needs Attention
+1114,Finance,Entry,43,12,144959,3,1,1,3,1,3,58,Yes,Yes,1,5,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1115,Sales,Mid,52,12,103870,5,3,4,4,1,2,53,No,Yes,2,4,66.67,72.0,High Burnout,Medium Engagement,Needs Attention
+1116,Sales,Mid,30,5,54162,5,5,5,4,5,2,64,No,No,5,3,90.0,59.33,Medium Burnout,High Engagement,Moderate
+1117,Engineering,Manager,30,11,36008,1,2,1,1,3,4,39,No,No,4,2,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1118,HR,Senior,56,9,37987,1,1,5,1,3,4,59,Yes,Yes,4,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1119,Engineering,Mid,28,13,92532,1,3,5,1,1,3,61,No,No,5,2,50.0,92.33,High Burnout,Medium Engagement,Needs Attention
+1120,HR,Mid,40,8,126502,5,3,3,5,2,4,55,No,Yes,2,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1121,Sales,Senior,52,6,33332,2,5,4,4,1,3,41,No,No,1,4,53.33,59.0,Medium Burnout,Medium Engagement,Needs Attention
+1122,Engineering,Entry,34,14,96323,3,3,4,1,2,1,45,No,Yes,2,1,43.33,51.67,Medium Burnout,Medium Engagement,Needs Attention
+1123,Customer Support,Senior,48,9,68990,3,2,3,2,3,3,48,No,Yes,1,1,43.33,93.67,High Burnout,Medium Engagement,Needs Attention
+1124,Finance,Senior,44,4,39873,2,3,4,5,5,3,57,No,No,5,2,76.67,89.67,High Burnout,High Engagement,Moderate
+1125,Marketing,Mid,35,7,112542,2,4,3,3,4,4,55,Yes,Yes,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1126,HR,Mid,42,14,115761,3,2,1,4,3,1,50,No,No,1,3,50.0,65.0,High Burnout,Medium Engagement,Needs Attention
+1127,Customer Support,Entry,50,1,66444,4,1,5,4,2,5,52,Yes,Yes,4,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1128,Marketing,Mid,24,6,65340,1,1,5,2,1,5,55,No,Yes,4,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1129,Marketing,Entry,33,14,135219,1,5,4,3,3,5,57,No,No,4,4,63.33,99.67,High Burnout,Medium Engagement,Needs Attention
+1130,Engineering,Senior,43,3,35033,3,5,2,3,5,1,57,Yes,No,2,1,53.33,59.67,Medium Burnout,Medium Engagement,Needs Attention
+1131,Marketing,Entry,28,8,103324,2,4,5,5,2,2,38,No,Yes,2,3,63.33,52.0,Medium Burnout,Medium Engagement,Needs Attention
+1132,Finance,Mid,38,11,45689,4,1,3,4,1,1,35,No,Yes,2,1,50.0,65.0,High Burnout,Medium Engagement,Needs Attention
+1133,Customer Support,Manager,32,0,139756,3,1,2,1,4,4,56,Yes,Yes,4,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1134,Marketing,Senior,51,6,117134,1,1,2,2,2,3,63,No,No,1,4,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1135,Engineering,Entry,34,5,133016,5,1,5,2,1,3,49,No,No,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1136,Finance,Entry,54,7,125239,2,3,5,2,4,4,48,No,Yes,1,4,60.0,98.67,High Burnout,Medium Engagement,Needs Attention
+1137,Sales,Entry,38,4,30066,5,2,5,2,1,4,53,No,No,2,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1138,Customer Support,Senior,54,14,144159,3,2,3,1,4,3,61,No,Yes,3,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1139,Marketing,Entry,31,0,75246,1,4,2,1,4,2,39,No,Yes,2,1,36.67,52.67,Medium Burnout,Low Engagement,Needs Attention
+1140,Engineering,Mid,32,0,37533,4,3,4,5,4,2,38,No,Yes,5,4,86.67,62.0,High Burnout,High Engagement,Moderate
+1141,Sales,Manager,35,8,110639,5,1,3,4,1,2,47,No,No,1,3,56.67,88.0,High Burnout,Medium Engagement,Needs Attention
+1142,Sales,Entry,51,14,100152,4,1,1,1,4,4,52,No,Yes,3,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1143,HR,Senior,49,9,141581,1,5,5,5,2,3,46,No,No,2,2,56.67,62.33,High Burnout,Medium Engagement,Needs Attention
+1144,Finance,Manager,46,5,145828,5,5,2,3,5,3,57,No,No,3,4,73.33,69.67,High Burnout,High Engagement,Moderate
+1145,Marketing,Entry,38,9,89658,4,4,3,4,5,3,64,No,Yes,4,2,73.33,84.33,High Burnout,High Engagement,Moderate
+1146,Engineering,Senior,52,4,68498,4,1,1,1,4,1,55,No,Yes,1,2,43.33,78.33,High Burnout,Medium Engagement,Needs Attention
+1147,HR,Mid,42,14,139028,5,4,3,3,5,1,49,No,Yes,5,2,76.67,44.33,Medium Burnout,High Engagement,Moderate
+1148,Finance,Manager,58,0,41772,1,3,3,5,5,5,64,No,No,4,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1149,HR,Mid,37,5,119385,4,2,4,1,4,1,57,No,No,3,1,56.67,69.67,High Burnout,Medium Engagement,Needs Attention
+1150,Customer Support,Senior,43,5,79036,3,1,4,1,4,2,43,No,Yes,2,2,53.33,85.33,High Burnout,Medium Engagement,Needs Attention
+1151,Finance,Mid,44,2,88531,5,3,3,3,2,2,38,Yes,Yes,1,3,56.67,82.0,High Burnout,Medium Engagement,Needs Attention
+1152,Finance,Senior,28,12,149159,2,1,1,1,3,2,39,No,Yes,5,2,46.67,82.67,High Burnout,Medium Engagement,Needs Attention
+1153,Marketing,Senior,26,15,42940,2,5,2,2,1,2,43,No,Yes,2,1,33.33,45.33,Medium Burnout,Low Engagement,Needs Attention
+1154,Finance,Mid,25,7,148027,1,4,2,1,4,5,47,No,No,5,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1155,HR,Senior,49,13,46932,3,5,5,4,4,2,44,No,Yes,1,5,73.33,46.0,Medium Burnout,High Engagement,Moderate
+1156,Finance,Entry,48,14,125305,4,2,5,3,5,4,61,No,Yes,3,5,83.33,100.0,High Burnout,High Engagement,Moderate
+1157,Marketing,Entry,31,0,86827,2,5,2,4,2,4,50,No,No,5,4,63.33,80.0,High Burnout,Medium Engagement,Needs Attention
+1158,Marketing,Entry,21,0,91431,1,1,3,5,5,4,64,No,Yes,1,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1159,Customer Support,Mid,39,5,54648,3,5,3,4,4,1,47,No,No,5,1,66.67,33.0,Medium Burnout,Medium Engagement,Moderate
+1160,HR,Entry,29,9,142947,3,1,4,2,4,3,38,No,Yes,2,5,66.67,97.0,High Burnout,Medium Engagement,Needs Attention
+1161,Sales,Manager,47,12,62966,1,2,4,2,5,5,55,No,No,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1162,Sales,Entry,54,0,57777,1,5,5,4,4,4,47,No,Yes,2,1,56.67,78.0,High Burnout,Medium Engagement,Needs Attention
+1163,Finance,Senior,24,5,154661,4,4,2,5,3,4,55,No,No,2,4,66.67,93.33,High Burnout,Medium Engagement,Needs Attention
+1164,Customer Support,Entry,56,0,62567,1,4,3,1,1,2,42,Yes,Yes,1,5,40.0,74.67,High Burnout,Low Engagement,Needs Attention
+1165,Engineering,Senior,38,15,145259,4,4,2,2,1,4,47,Yes,No,4,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1166,Finance,Manager,35,13,47174,4,5,1,4,1,2,49,No,Yes,5,1,53.33,49.33,Medium Burnout,Medium Engagement,Needs Attention
+1167,Customer Support,Mid,33,12,72598,5,5,2,4,3,2,54,No,No,3,5,73.33,52.67,Medium Burnout,High Engagement,Moderate
+1168,HR,Senior,39,5,154711,3,5,1,4,4,3,54,No,Yes,2,1,50.0,67.67,High Burnout,Medium Engagement,Needs Attention
+1169,HR,Entry,26,2,89199,3,1,4,1,5,1,47,No,No,4,4,70.0,73.0,High Burnout,Medium Engagement,Moderate
+1170,HR,Senior,32,13,43798,3,2,4,3,2,2,57,Yes,No,2,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1171,HR,Entry,57,13,95364,5,4,5,5,4,2,61,Yes,No,4,2,83.33,87.33,High Burnout,High Engagement,Moderate
+1172,HR,Manager,37,14,47558,4,1,2,3,3,3,39,No,No,4,4,66.67,97.67,High Burnout,Medium Engagement,Needs Attention
+1173,Customer Support,Entry,43,7,91084,4,4,2,5,3,2,56,Yes,Yes,3,5,73.33,84.0,High Burnout,High Engagement,Moderate
+1174,Customer Support,Mid,46,12,74237,1,1,1,5,1,5,56,No,Yes,4,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1175,Marketing,Senior,49,14,95497,5,5,4,4,4,1,62,No,No,3,2,73.33,43.0,Medium Burnout,High Engagement,Moderate
+1176,Sales,Entry,53,5,30178,1,4,1,2,1,5,40,No,Yes,1,3,30.0,98.33,High Burnout,Low Engagement,Critical Attention
+1177,HR,Entry,47,12,146932,5,5,4,4,2,4,64,Yes,Yes,2,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1178,Engineering,Entry,45,10,116006,1,4,1,1,1,1,60,Yes,Yes,3,1,26.67,71.67,High Burnout,Low Engagement,Critical Attention
+1179,Customer Support,Mid,30,12,47118,2,3,4,5,2,4,39,No,Yes,2,5,66.67,92.67,High Burnout,Medium Engagement,Needs Attention
+1180,Engineering,Mid,43,0,52616,3,1,1,2,3,2,47,No,No,5,2,53.33,88.0,High Burnout,Medium Engagement,Needs Attention
+1181,Engineering,Entry,41,14,30798,3,3,4,5,1,3,63,Yes,No,1,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1182,Engineering,Mid,41,4,37601,4,1,1,5,1,5,39,No,No,5,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1183,Marketing,Entry,33,7,55363,2,2,2,4,5,4,59,Yes,Yes,5,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1184,Customer Support,Senior,57,2,32795,3,4,5,2,3,2,47,No,No,4,4,70.0,58.0,Medium Burnout,Medium Engagement,Moderate
+1185,Engineering,Entry,53,11,127462,4,2,1,2,5,5,58,Yes,No,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1186,HR,Entry,44,5,75264,2,2,5,5,2,5,54,No,No,5,1,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1187,Finance,Entry,31,4,132892,3,1,2,2,2,4,57,No,No,4,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1188,Engineering,Mid,37,5,102833,1,3,2,2,3,2,42,Yes,No,2,4,46.67,84.67,High Burnout,Medium Engagement,Needs Attention
+1189,Marketing,Senior,24,9,159688,5,5,4,4,2,3,62,No,Yes,4,3,73.33,73.0,High Burnout,High Engagement,Moderate
+1190,Customer Support,Mid,45,0,33084,2,1,5,3,3,4,43,No,Yes,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1191,Marketing,Entry,50,6,125865,4,5,3,1,2,5,55,No,Yes,4,3,56.67,98.33,High Burnout,Medium Engagement,Needs Attention
+1192,Engineering,Senior,29,8,106646,2,2,4,3,4,5,53,Yes,No,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1193,Customer Support,Senior,41,1,30731,4,5,5,2,1,1,63,No,No,3,1,53.33,43.67,Medium Burnout,Medium Engagement,Needs Attention
+1194,Finance,Entry,40,9,31129,2,3,1,5,4,2,54,Yes,No,3,3,60.0,92.67,High Burnout,Medium Engagement,Needs Attention
+1195,Engineering,Senior,39,14,58022,4,1,1,1,3,1,49,No,No,5,1,50.0,74.33,High Burnout,Medium Engagement,Needs Attention
+1196,Marketing,Manager,39,4,31605,3,3,2,1,3,3,60,No,No,2,1,40.0,91.67,High Burnout,Low Engagement,Needs Attention
+1197,Sales,Entry,32,9,107506,1,3,3,5,4,4,56,No,No,1,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1198,HR,Senior,57,3,139241,3,1,1,1,1,5,44,No,No,1,2,30.0,100.0,High Burnout,Low Engagement,Critical Attention
+1199,Marketing,Senior,37,5,74130,1,3,5,5,1,2,45,No,Yes,5,1,60.0,66.67,High Burnout,Medium Engagement,Needs Attention
+1200,Customer Support,Mid,57,5,59265,3,4,5,1,5,5,39,No,Yes,2,3,63.33,97.67,High Burnout,Medium Engagement,Needs Attention
+1201,Engineering,Entry,59,10,62330,3,4,1,3,2,1,43,Yes,Yes,2,5,53.33,60.33,High Burnout,Medium Engagement,Needs Attention
+1202,HR,Entry,48,15,98469,2,4,5,1,5,1,63,Yes,Yes,2,3,60.0,73.67,High Burnout,Medium Engagement,Needs Attention
+1203,Engineering,Senior,55,1,45187,5,5,5,4,1,4,45,No,No,3,2,66.67,76.67,High Burnout,Medium Engagement,Needs Attention
+1204,Customer Support,Manager,38,1,55791,4,3,2,5,4,2,61,No,Yes,5,4,80.0,77.33,High Burnout,High Engagement,Moderate
+1205,Engineering,Senior,34,3,120436,4,1,3,1,2,2,64,Yes,No,1,2,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1206,Sales,Mid,55,0,100610,4,1,2,5,4,4,53,No,Yes,2,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1207,HR,Mid,27,8,142341,1,5,3,4,5,1,36,No,Yes,5,2,66.67,25.67,Low Burnout,Medium Engagement,Moderate
+1208,HR,Mid,33,13,121962,4,1,5,1,3,1,40,No,No,1,2,53.33,68.33,High Burnout,Medium Engagement,Needs Attention
+1209,Customer Support,Mid,38,13,69867,4,4,3,1,4,1,63,Yes,No,3,5,66.67,73.67,High Burnout,Medium Engagement,Needs Attention
+1210,Sales,Entry,57,12,146178,2,3,5,4,5,5,57,No,Yes,4,5,83.33,100.0,High Burnout,High Engagement,Moderate
+1211,Marketing,Senior,33,6,30893,3,1,5,4,5,3,55,Yes,No,1,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1212,Engineering,Mid,56,15,129694,4,1,2,4,5,1,35,Yes,Yes,1,1,56.67,85.0,High Burnout,Medium Engagement,Needs Attention
+1213,Finance,Senior,51,11,49773,5,2,2,5,3,3,37,No,No,1,4,66.67,86.33,High Burnout,Medium Engagement,Needs Attention
+1214,Engineering,Entry,22,6,34239,4,2,4,4,3,3,37,Yes,No,4,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1215,Engineering,Entry,36,14,50863,1,2,1,5,3,2,62,Yes,Yes,2,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1216,Marketing,Entry,29,2,81415,1,3,4,3,2,4,48,Yes,No,4,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1217,Engineering,Mid,29,14,98968,1,4,4,1,3,5,54,No,No,1,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1218,Sales,Manager,58,10,130675,4,4,3,1,3,3,64,Yes,No,3,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1219,Sales,Entry,31,14,90430,2,4,5,2,3,5,60,Yes,No,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1220,HR,Senior,42,11,149000,5,3,5,3,4,2,56,No,Yes,3,1,70.0,74.0,High Burnout,Medium Engagement,Moderate
+1221,Customer Support,Mid,53,2,31515,4,3,5,4,3,1,39,No,No,5,5,86.67,47.67,Medium Burnout,High Engagement,Moderate
+1222,Finance,Senior,56,0,127206,2,2,1,4,2,3,51,No,No,3,5,56.67,95.67,High Burnout,Medium Engagement,Needs Attention
+1223,Engineering,Entry,43,2,144210,2,1,3,3,5,4,49,No,No,1,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1224,Engineering,Senior,54,2,134630,4,5,3,4,4,2,40,No,Yes,4,3,73.33,43.33,Medium Burnout,High Engagement,Moderate
+1225,Marketing,Senior,29,3,44605,4,5,5,2,1,5,48,No,No,1,4,56.67,93.67,High Burnout,Medium Engagement,Needs Attention
+1226,Customer Support,Entry,44,3,86240,2,1,4,5,3,1,48,Yes,No,1,2,56.67,93.67,High Burnout,Medium Engagement,Needs Attention
+1227,Sales,Entry,28,2,35586,2,2,1,1,5,5,59,No,No,5,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1228,Finance,Senior,27,15,131221,2,1,4,3,5,4,61,No,Yes,2,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1229,HR,Manager,56,9,150419,4,1,2,1,4,3,51,Yes,Yes,1,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1230,Sales,Entry,38,15,152374,2,5,3,5,1,4,42,No,Yes,5,2,60.0,74.67,High Burnout,Medium Engagement,Needs Attention
+1231,Customer Support,Senior,23,11,144205,1,2,3,3,2,5,42,Yes,No,4,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1232,HR,Manager,48,7,61186,4,3,4,5,5,5,53,No,No,5,5,93.33,100.0,High Burnout,High Engagement,Moderate
+1233,Marketing,Senior,26,7,56928,1,5,1,4,5,4,63,No,No,5,3,63.33,88.67,High Burnout,Medium Engagement,Needs Attention
+1234,Marketing,Manager,41,12,128264,3,3,3,4,5,4,43,No,No,3,5,76.67,95.33,High Burnout,High Engagement,Moderate
+1235,Engineering,Senior,48,12,113087,4,2,4,4,5,4,45,Yes,No,2,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1236,Customer Support,Mid,21,0,152990,3,1,1,5,4,1,47,Yes,Yes,2,2,56.67,93.0,High Burnout,Medium Engagement,Needs Attention
+1237,Finance,Mid,56,6,117029,2,4,4,5,1,5,47,Yes,Yes,4,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1238,HR,Mid,41,10,50711,2,4,1,5,5,2,61,Yes,No,5,4,73.33,87.33,High Burnout,High Engagement,Moderate
+1239,Sales,Senior,55,1,84962,5,2,5,1,2,1,58,No,No,4,1,60.0,70.33,High Burnout,Medium Engagement,Needs Attention
+1240,Customer Support,Senior,33,0,50039,2,4,1,5,2,1,53,No,No,4,3,56.67,47.0,Medium Burnout,Medium Engagement,Needs Attention
+1241,Customer Support,Entry,30,2,66561,3,3,2,4,3,1,60,No,No,2,4,60.0,61.67,High Burnout,Medium Engagement,Needs Attention
+1242,Marketing,Senior,30,15,105483,2,4,5,2,5,2,55,No,No,2,4,66.67,63.33,High Burnout,Medium Engagement,Needs Attention
+1243,Engineering,Senior,33,3,127871,4,2,4,5,5,4,53,No,Yes,2,3,76.67,100.0,High Burnout,High Engagement,Moderate
+1244,Engineering,Mid,57,12,111395,2,2,5,2,5,5,39,No,No,1,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1245,HR,Mid,58,5,118658,5,3,5,4,5,3,50,Yes,No,5,5,96.67,100.0,High Burnout,High Engagement,Moderate
+1246,Marketing,Mid,44,9,31577,2,4,4,5,5,3,43,No,No,4,1,70.0,70.33,High Burnout,Medium Engagement,Moderate
+1247,Customer Support,Entry,22,15,137792,3,4,4,1,2,5,62,No,Yes,5,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1248,Finance,Entry,42,13,58350,3,1,2,1,1,2,54,No,No,4,1,40.0,92.67,High Burnout,Low Engagement,Needs Attention
+1249,Marketing,Entry,37,4,146908,2,5,4,2,1,3,56,No,Yes,4,1,46.67,69.0,High Burnout,Medium Engagement,Needs Attention
+1250,HR,Entry,56,15,137468,3,2,3,1,3,1,37,No,Yes,4,2,53.33,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1251,HR,Mid,34,14,63798,3,1,3,1,2,3,53,Yes,No,4,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1252,Marketing,Mid,30,14,127434,5,2,2,1,5,5,39,No,Yes,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1253,HR,Entry,55,13,111417,4,1,1,4,1,1,42,Yes,No,3,4,56.67,89.67,High Burnout,Medium Engagement,Needs Attention
+1254,Marketing,Senior,45,3,40785,5,5,1,1,4,3,48,No,Yes,1,2,46.67,63.67,High Burnout,Medium Engagement,Needs Attention
+1255,Sales,Entry,23,7,102227,1,1,3,3,4,5,58,No,No,2,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1256,Marketing,Manager,58,10,148680,5,2,4,5,4,2,37,No,No,4,3,83.33,71.33,High Burnout,High Engagement,Moderate
+1257,Marketing,Manager,37,15,91957,2,4,2,1,5,5,58,No,Yes,5,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1258,HR,Entry,32,11,95431,4,2,1,1,5,2,47,No,No,3,1,50.0,78.0,High Burnout,Medium Engagement,Needs Attention
+1259,HR,Mid,44,15,47297,2,3,1,1,3,1,45,Yes,No,2,1,33.33,71.67,High Burnout,Low Engagement,Critical Attention
+1260,Engineering,Entry,49,13,101894,1,3,5,3,3,5,63,Yes,No,1,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1261,Engineering,Mid,45,3,146869,4,3,3,1,3,4,42,No,No,2,1,46.67,94.67,High Burnout,Medium Engagement,Needs Attention
+1262,Sales,Mid,56,12,93772,3,3,4,1,4,4,53,Yes,No,4,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1263,Engineering,Entry,46,9,49581,5,5,2,5,5,4,44,Yes,Yes,2,4,76.67,96.0,High Burnout,High Engagement,Moderate
+1264,Marketing,Mid,58,11,85192,2,4,1,3,4,4,63,Yes,Yes,4,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1265,HR,Entry,21,15,31462,1,4,5,3,3,4,60,No,Yes,3,1,53.33,96.67,High Burnout,Medium Engagement,Needs Attention
+1266,Engineering,Entry,40,12,158848,3,2,3,1,5,2,52,Yes,No,3,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1267,Engineering,Senior,48,1,94173,5,1,3,3,2,5,60,No,No,4,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1268,Sales,Mid,36,14,45511,3,2,2,2,1,1,52,No,No,5,1,46.67,66.33,High Burnout,Medium Engagement,Needs Attention
+1269,Customer Support,Mid,37,2,106106,5,2,1,3,1,4,59,No,No,3,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1270,Sales,Mid,48,5,78665,4,2,2,3,3,4,41,Yes,No,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1271,Marketing,Manager,32,7,74414,3,2,2,3,4,1,50,No,Yes,4,2,60.0,65.0,High Burnout,Medium Engagement,Needs Attention
+1272,HR,Entry,47,7,111010,3,4,5,4,2,1,40,No,Yes,4,5,76.67,38.33,Medium Burnout,High Engagement,Healthy
+1273,Sales,Mid,50,14,102573,3,1,3,4,5,4,50,No,No,3,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1274,Engineering,Senior,54,10,123665,4,2,4,4,4,2,50,No,Yes,5,5,86.67,80.0,High Burnout,High Engagement,Moderate
+1275,HR,Mid,57,14,137803,1,4,3,3,3,1,57,No,No,4,1,50.0,49.67,Medium Burnout,Medium Engagement,Needs Attention
+1276,HR,Manager,26,8,149682,5,2,3,2,4,5,58,Yes,Yes,3,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1277,Engineering,Senior,27,6,43386,3,3,5,3,3,5,62,No,Yes,4,4,73.33,100.0,High Burnout,High Engagement,Moderate
+1278,Sales,Senior,52,12,154069,4,2,4,1,1,2,35,Yes,No,2,5,56.67,90.0,High Burnout,Medium Engagement,Needs Attention
+1279,Engineering,Senior,52,1,84460,1,2,1,2,1,3,58,Yes,Yes,2,3,33.33,100.0,High Burnout,Low Engagement,Critical Attention
+1280,Customer Support,Manager,45,7,36221,5,5,4,4,4,2,53,No,No,3,3,76.67,52.0,Medium Burnout,High Engagement,Moderate
+1281,HR,Manager,53,6,53474,4,3,1,5,2,4,37,No,Yes,4,2,60.0,91.33,High Burnout,Medium Engagement,Needs Attention
+1282,Finance,Senior,27,7,136073,5,1,4,2,5,3,40,Yes,No,3,3,73.33,100.0,High Burnout,High Engagement,Moderate
+1283,Finance,Senior,32,11,145375,3,2,2,4,3,4,38,No,No,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1284,Marketing,Entry,36,2,142660,1,1,4,2,5,5,38,No,No,3,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1285,Engineering,Entry,36,6,51045,4,3,5,2,1,1,38,Yes,No,3,2,56.67,67.0,High Burnout,Medium Engagement,Needs Attention
+1286,Engineering,Mid,56,9,121319,1,2,1,3,2,4,44,No,Yes,2,1,33.33,100.0,High Burnout,Low Engagement,Critical Attention
+1287,Marketing,Entry,33,12,146582,3,5,3,1,2,5,43,No,Yes,2,3,46.67,90.33,High Burnout,Medium Engagement,Needs Attention
+1288,Marketing,Mid,27,8,135693,1,4,5,5,5,2,42,No,Yes,4,5,83.33,54.67,Medium Burnout,High Engagement,Moderate
+1289,Marketing,Entry,56,15,34922,1,5,1,4,1,4,53,Yes,No,3,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1290,HR,Mid,29,2,141943,2,5,1,2,5,5,51,Yes,No,3,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1291,Customer Support,Senior,52,13,52706,1,4,3,5,4,1,51,Yes,Yes,4,2,63.33,65.67,High Burnout,Medium Engagement,Needs Attention
+1292,Engineering,Manager,31,9,72771,5,4,2,2,2,4,35,Yes,No,5,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1293,HR,Entry,28,5,82335,4,4,5,1,2,5,54,No,Yes,4,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1294,Marketing,Mid,53,1,128015,2,2,3,5,4,4,48,No,Yes,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1295,Engineering,Senior,43,1,82949,4,1,3,4,1,1,56,No,No,2,1,50.0,79.0,High Burnout,Medium Engagement,Needs Attention
+1296,HR,Entry,45,4,100714,4,1,2,2,2,4,54,No,Yes,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1297,Customer Support,Senior,28,4,125558,3,4,5,1,3,4,61,Yes,No,2,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1298,HR,Mid,42,12,45240,3,5,3,5,3,5,45,No,No,4,5,76.67,91.67,High Burnout,High Engagement,Moderate
+1299,Customer Support,Mid,24,6,121756,2,3,2,2,1,3,37,No,No,3,2,40.0,76.33,High Burnout,Low Engagement,Needs Attention
+1300,Marketing,Manager,23,11,132272,3,4,5,2,4,4,58,Yes,No,4,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1301,Customer Support,Entry,49,1,32716,3,5,4,4,5,3,64,Yes,No,4,2,73.33,94.33,High Burnout,High Engagement,Moderate
+1302,Engineering,Senior,49,10,46574,3,5,1,1,1,2,42,No,No,3,5,46.67,44.67,Medium Burnout,Medium Engagement,Needs Attention
+1303,Marketing,Senior,54,13,141815,4,2,2,3,5,4,56,No,Yes,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1304,Engineering,Entry,54,12,113255,2,2,1,2,1,3,59,No,No,2,2,33.33,100.0,High Burnout,Low Engagement,Critical Attention
+1305,Finance,Senior,48,6,103717,4,1,4,5,3,2,62,Yes,Yes,1,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1306,Sales,Manager,33,4,141299,5,1,3,4,4,5,44,Yes,Yes,1,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1307,Customer Support,Entry,35,13,74066,4,3,3,4,3,4,51,No,No,1,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1308,Sales,Senior,43,5,145066,5,3,5,2,4,5,63,No,No,2,4,73.33,100.0,High Burnout,High Engagement,Moderate
+1309,Sales,Mid,46,7,91826,1,3,2,2,5,2,42,Yes,Yes,5,2,56.67,84.67,High Burnout,Medium Engagement,Needs Attention
+1310,Customer Support,Mid,24,9,50213,1,3,2,2,1,5,56,No,Yes,4,1,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1311,Marketing,Mid,46,12,101916,5,5,5,3,2,5,35,No,Yes,3,4,73.33,85.0,High Burnout,High Engagement,Moderate
+1312,Finance,Entry,29,13,96151,5,5,1,2,2,1,54,No,Yes,5,2,56.67,37.67,Medium Burnout,Medium Engagement,Moderate
+1313,Engineering,Manager,25,11,158518,4,1,3,1,4,2,55,Yes,No,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1314,HR,Manager,52,3,147018,5,2,3,5,4,5,41,No,Yes,2,3,73.33,100.0,High Burnout,High Engagement,Moderate
+1315,Engineering,Mid,40,12,159024,2,2,2,2,3,3,58,No,No,2,3,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1316,HR,Senior,31,6,80906,1,4,2,3,2,2,43,No,No,3,5,53.33,55.33,Medium Burnout,Medium Engagement,Needs Attention
+1317,Engineering,Mid,35,5,30463,1,5,5,5,3,1,62,Yes,No,4,1,63.33,63.0,High Burnout,Medium Engagement,Needs Attention
+1318,Customer Support,Mid,52,15,61973,5,3,4,4,5,4,46,Yes,No,5,5,93.33,100.0,High Burnout,High Engagement,Moderate
+1319,Finance,Senior,48,9,104694,3,3,1,2,2,5,56,No,Yes,5,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1320,HR,Mid,42,1,50651,3,4,4,5,5,3,60,No,Yes,5,1,76.67,81.67,High Burnout,High Engagement,Moderate
+1321,Marketing,Mid,37,14,98694,5,2,4,4,1,1,43,No,No,4,3,70.0,60.33,High Burnout,Medium Engagement,Moderate
+1322,Engineering,Senior,46,7,50008,2,3,2,3,3,2,54,No,Yes,4,2,53.33,72.67,High Burnout,Medium Engagement,Needs Attention
+1323,Engineering,Mid,27,9,141738,3,2,2,1,4,5,58,Yes,No,4,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1324,HR,Entry,46,15,100474,5,4,2,2,2,1,37,No,Yes,3,4,60.0,36.33,Medium Burnout,Medium Engagement,Moderate
+1325,Marketing,Entry,45,8,68185,2,2,4,1,3,1,38,No,Yes,2,4,53.33,57.0,Medium Burnout,Medium Engagement,Needs Attention
+1326,Marketing,Mid,30,4,117924,2,2,1,3,4,3,44,No,Yes,1,3,46.67,91.0,High Burnout,Medium Engagement,Needs Attention
+1327,Customer Support,Senior,39,9,104417,4,2,2,5,1,4,38,Yes,Yes,4,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1328,Customer Support,Mid,31,3,155502,2,3,3,5,2,4,56,No,No,2,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1329,Customer Support,Senior,33,5,101139,3,1,1,3,5,4,43,No,Yes,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1330,Customer Support,Mid,28,15,64980,3,5,3,3,1,2,56,No,No,1,2,43.33,54.0,Medium Burnout,Medium Engagement,Needs Attention
+1331,Customer Support,Mid,24,7,52504,5,2,1,2,4,1,35,No,No,4,2,60.0,55.0,Medium Burnout,Medium Engagement,Needs Attention
+1332,Customer Support,Mid,51,10,84970,5,2,2,4,2,2,39,No,No,2,4,63.33,72.67,High Burnout,Medium Engagement,Needs Attention
+1333,Finance,Mid,48,14,46766,2,2,5,1,2,1,43,No,No,3,1,46.67,60.33,High Burnout,Medium Engagement,Needs Attention
+1334,Marketing,Senior,31,2,146944,1,1,2,1,1,3,39,No,No,1,4,33.33,97.67,High Burnout,Low Engagement,Critical Attention
+1335,Customer Support,Senior,21,9,123922,4,4,4,5,2,3,40,No,Yes,2,2,63.33,68.33,High Burnout,Medium Engagement,Needs Attention
+1336,Marketing,Mid,58,10,41695,1,3,4,5,4,2,53,No,No,5,2,70.0,72.0,High Burnout,Medium Engagement,Moderate
+1337,Marketing,Entry,44,10,47796,2,1,1,2,1,2,42,No,Yes,5,5,53.33,84.67,High Burnout,Medium Engagement,Needs Attention
+1338,Sales,Entry,51,0,72543,2,2,4,3,5,3,44,Yes,Yes,5,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1339,Finance,Entry,46,15,44559,1,1,2,1,1,5,45,Yes,No,3,5,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1340,Customer Support,Senior,25,3,134450,4,1,3,2,1,4,47,No,No,4,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1341,Engineering,Mid,40,14,63139,1,1,2,5,5,4,54,No,Yes,4,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1342,HR,Mid,31,3,150494,5,4,1,5,4,3,38,No,Yes,4,5,80.0,67.0,High Burnout,High Engagement,Moderate
+1343,Engineering,Mid,53,0,133869,3,5,4,1,3,4,45,Yes,No,3,3,56.67,96.67,High Burnout,Medium Engagement,Needs Attention
+1344,Finance,Entry,58,8,38802,5,3,3,5,3,5,46,Yes,No,5,5,86.67,100.0,High Burnout,High Engagement,Moderate
+1345,HR,Mid,47,2,103843,3,4,5,5,5,5,39,Yes,Yes,4,4,86.67,100.0,High Burnout,High Engagement,Moderate
+1346,Finance,Entry,54,4,70205,2,4,3,4,4,1,64,No,No,3,1,56.67,54.33,Medium Burnout,Medium Engagement,Needs Attention
+1347,Marketing,Mid,35,15,128750,4,5,3,3,2,2,44,No,No,3,5,66.67,46.0,Medium Burnout,Medium Engagement,Needs Attention
+1348,HR,Entry,52,5,64159,1,4,2,5,5,4,59,No,No,2,1,53.33,96.0,High Burnout,Medium Engagement,Needs Attention
+1349,Marketing,Senior,41,7,41516,4,1,5,4,3,5,63,Yes,No,4,3,76.67,100.0,High Burnout,High Engagement,Moderate
+1350,Engineering,Entry,25,5,80492,1,1,1,2,4,2,58,No,Yes,5,2,50.0,95.33,High Burnout,Medium Engagement,Needs Attention
+1351,Engineering,Manager,26,2,59086,5,2,1,5,1,2,41,No,No,1,1,46.67,74.0,High Burnout,Medium Engagement,Needs Attention
+1352,HR,Mid,58,5,143758,5,4,3,2,4,1,55,Yes,Yes,3,5,73.33,68.33,High Burnout,High Engagement,Moderate
+1353,HR,Senior,42,0,60480,1,2,3,5,4,2,43,No,Yes,2,4,63.33,75.33,High Burnout,Medium Engagement,Needs Attention
+1354,Customer Support,Mid,38,3,82091,4,3,4,1,3,2,43,Yes,No,1,4,56.67,85.33,High Burnout,Medium Engagement,Needs Attention
+1355,Finance,Senior,34,5,158023,1,1,5,4,3,3,44,No,Yes,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1356,Customer Support,Senior,30,15,140195,2,3,3,4,2,1,44,No,No,2,4,56.67,51.0,Medium Burnout,Medium Engagement,Needs Attention
+1357,Finance,Mid,33,6,77766,5,5,4,1,2,1,36,No,Yes,4,1,56.67,25.67,Low Burnout,Medium Engagement,Moderate
+1358,Customer Support,Mid,51,10,68737,2,1,5,3,5,4,38,Yes,No,2,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1359,Marketing,Mid,50,12,39265,5,3,1,4,1,2,42,Yes,No,3,2,53.33,84.67,High Burnout,Medium Engagement,Needs Attention
+1360,HR,Mid,23,10,144165,5,5,4,2,2,4,63,No,Yes,4,3,66.67,88.67,High Burnout,Medium Engagement,Needs Attention
+1361,Engineering,Entry,50,9,149501,3,3,5,4,3,5,48,Yes,Yes,5,1,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1362,Finance,Mid,26,2,148257,2,5,4,3,4,2,51,No,No,2,1,53.33,50.67,Medium Burnout,Medium Engagement,Needs Attention
+1363,Finance,Mid,49,8,100990,2,5,3,2,5,5,47,No,No,1,4,56.67,93.0,High Burnout,Medium Engagement,Needs Attention
+1364,Engineering,Mid,28,11,131454,3,1,2,2,2,3,55,No,Yes,4,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1365,Customer Support,Senior,53,11,121717,4,2,1,1,4,2,58,No,No,4,1,50.0,85.33,High Burnout,Medium Engagement,Needs Attention
+1366,Finance,Senior,37,6,45386,2,5,3,5,4,4,52,No,Yes,5,4,76.67,81.33,High Burnout,High Engagement,Moderate
+1367,Marketing,Manager,31,13,134718,1,5,3,1,2,4,52,No,No,2,4,43.33,81.33,High Burnout,Medium Engagement,Needs Attention
+1368,HR,Entry,33,0,67425,3,1,5,5,1,2,47,No,Yes,1,4,63.33,88.0,High Burnout,Medium Engagement,Needs Attention
+1369,Engineering,Mid,31,1,151635,2,2,4,1,1,4,42,Yes,Yes,5,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1370,HR,Mid,51,0,73254,4,4,1,5,5,2,60,Yes,Yes,2,4,70.0,86.67,High Burnout,Medium Engagement,Moderate
+1371,Finance,Mid,48,10,119863,2,4,3,4,1,1,46,Yes,Yes,1,5,53.33,62.33,High Burnout,Medium Engagement,Needs Attention
+1372,Finance,Senior,26,8,148350,5,2,5,2,5,4,59,No,Yes,1,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1373,Engineering,Entry,36,8,83634,1,3,1,5,3,2,57,No,Yes,3,5,60.0,74.67,High Burnout,Medium Engagement,Needs Attention
+1374,Marketing,Senior,24,6,116717,3,1,4,4,2,2,58,No,Yes,1,1,50.0,95.33,High Burnout,Medium Engagement,Needs Attention
+1375,Sales,Mid,55,9,77662,5,2,3,3,4,4,55,No,Yes,2,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1376,Engineering,Mid,46,2,116988,4,4,3,1,5,1,35,No,No,5,1,63.33,35.0,Medium Burnout,Medium Engagement,Moderate
+1377,Sales,Mid,32,12,133784,5,5,3,3,1,4,54,No,No,5,5,73.33,82.67,High Burnout,High Engagement,Moderate
+1378,Customer Support,Mid,31,14,136337,5,4,1,4,5,2,52,Yes,Yes,3,1,63.33,81.33,High Burnout,Medium Engagement,Needs Attention
+1379,Sales,Mid,57,4,129287,4,5,1,3,5,1,37,No,No,2,3,60.0,26.33,Low Burnout,Medium Engagement,Moderate
+1380,Marketing,Mid,45,14,117527,5,1,1,3,1,5,46,No,No,1,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1381,Customer Support,Entry,38,3,136847,3,5,1,4,1,3,53,No,No,3,2,46.67,67.0,High Burnout,Medium Engagement,Needs Attention
+1382,Sales,Mid,39,15,105452,2,2,5,2,2,4,59,Yes,No,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1383,Customer Support,Entry,43,6,40143,5,5,2,5,4,2,47,No,No,2,5,76.67,48.0,Medium Burnout,High Engagement,Moderate
+1384,Sales,Mid,58,13,121391,3,3,5,1,2,1,44,No,Yes,3,3,56.67,51.0,Medium Burnout,Medium Engagement,Needs Attention
+1385,Marketing,Mid,38,8,45581,2,2,3,5,2,1,49,No,No,5,4,70.0,64.33,High Burnout,Medium Engagement,Moderate
+1386,Sales,Mid,46,11,97443,2,1,5,1,1,5,54,No,No,3,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1387,Sales,Senior,26,1,59424,5,2,4,5,1,4,36,No,Yes,4,2,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1388,Sales,Entry,24,12,118844,3,3,1,3,4,1,53,Yes,Yes,2,4,56.67,77.0,High Burnout,Medium Engagement,Needs Attention
+1389,Engineering,Senior,49,7,71984,5,1,4,2,5,5,37,Yes,No,3,3,73.33,100.0,High Burnout,High Engagement,Moderate
+1390,Engineering,Mid,54,15,71505,4,4,4,3,2,2,48,No,No,1,4,60.0,58.67,Medium Burnout,Medium Engagement,Needs Attention
+1391,Engineering,Mid,37,14,142061,2,3,3,2,4,5,41,Yes,Yes,2,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1392,Marketing,Senior,36,8,132478,5,1,1,4,2,4,42,No,Yes,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1393,Customer Support,Entry,22,9,92699,2,5,4,1,5,5,63,No,No,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1394,Finance,Mid,54,13,56957,3,2,3,1,2,1,45,No,Yes,2,5,53.33,61.67,High Burnout,Medium Engagement,Needs Attention
+1395,Sales,Mid,28,9,55464,1,1,1,4,3,1,63,Yes,No,5,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1396,Sales,Mid,33,8,144012,5,2,2,5,4,3,56,No,Yes,1,5,73.33,99.0,High Burnout,High Engagement,Moderate
+1397,Marketing,Entry,28,13,53649,5,5,3,4,1,5,54,Yes,Yes,2,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1398,Sales,Entry,50,9,72065,2,1,5,4,2,2,40,No,Yes,1,2,53.33,83.33,High Burnout,Medium Engagement,Needs Attention
+1399,Engineering,Senior,52,13,122661,3,4,1,2,4,4,63,No,Yes,1,4,50.0,98.67,High Burnout,Medium Engagement,Needs Attention
+1400,Finance,Mid,56,6,64758,4,3,4,4,4,3,45,No,Yes,2,5,76.67,81.67,High Burnout,High Engagement,Moderate
+1401,HR,Mid,50,14,35596,3,1,4,1,2,5,51,Yes,No,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1402,Sales,Mid,21,8,46374,5,5,5,3,1,2,63,No,No,5,1,66.67,58.67,Medium Burnout,Medium Engagement,Needs Attention
+1403,Engineering,Senior,59,8,148686,4,1,5,2,1,3,44,Yes,Yes,1,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1404,HR,Entry,37,13,33775,3,2,4,2,2,1,58,No,No,1,2,46.67,70.33,High Burnout,Medium Engagement,Needs Attention
+1405,Finance,Mid,40,2,57388,1,1,1,5,4,4,51,No,No,3,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1406,HR,Mid,44,3,153800,2,4,3,3,1,5,55,No,Yes,2,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1407,Engineering,Manager,42,15,51029,3,1,5,2,2,2,36,No,Yes,5,1,60.0,80.67,High Burnout,Medium Engagement,Needs Attention
+1408,Customer Support,Entry,49,1,113981,3,3,5,4,2,1,40,No,Yes,1,3,60.0,48.33,Medium Burnout,Medium Engagement,Needs Attention
+1409,Customer Support,Mid,42,9,83639,1,1,5,2,2,3,59,Yes,No,1,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1410,HR,Mid,29,2,144010,5,2,2,2,4,4,39,No,No,2,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1411,Marketing,Mid,57,10,44645,2,1,1,2,1,3,38,Yes,Yes,3,2,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1412,HR,Mid,30,10,61105,3,4,1,5,4,3,64,Yes,No,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1413,Sales,Mid,56,4,43668,4,5,1,2,3,2,36,Yes,Yes,3,2,50.0,60.67,High Burnout,Medium Engagement,Needs Attention
+1414,Sales,Senior,57,4,157949,3,1,1,2,1,1,46,Yes,Yes,1,3,36.67,92.33,High Burnout,Low Engagement,Critical Attention
+1415,Customer Support,Senior,48,5,45960,2,1,1,5,4,5,37,No,No,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1416,Marketing,Mid,48,12,156519,3,3,4,3,1,2,40,No,No,5,4,66.67,63.33,High Burnout,Medium Engagement,Needs Attention
+1417,Engineering,Senior,41,6,41357,1,4,5,1,3,4,58,Yes,Yes,3,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1418,Sales,Mid,44,6,94604,3,5,4,5,5,3,48,Yes,No,4,3,80.0,83.67,High Burnout,High Engagement,Moderate
+1419,Customer Support,Mid,22,0,132739,3,2,2,5,2,4,42,No,Yes,5,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1420,Finance,Entry,28,15,81796,4,1,3,2,4,2,55,No,Yes,4,1,60.0,93.33,High Burnout,Medium Engagement,Needs Attention
+1421,Customer Support,Manager,47,13,45804,1,5,5,2,3,2,55,No,No,5,5,70.0,53.33,Medium Burnout,Medium Engagement,Moderate
+1422,Sales,Entry,42,15,157732,1,2,2,1,3,5,60,No,No,3,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1423,Sales,Entry,57,1,145733,3,4,4,2,1,3,48,No,No,1,4,50.0,73.67,High Burnout,Medium Engagement,Needs Attention
+1424,Customer Support,Entry,47,11,44626,4,4,3,4,1,2,63,No,No,4,3,63.33,68.67,High Burnout,Medium Engagement,Needs Attention
+1425,Engineering,Mid,49,8,58132,3,5,2,2,2,4,37,No,No,3,1,43.33,71.33,High Burnout,Medium Engagement,Needs Attention
+1426,HR,Entry,23,9,37951,3,2,3,2,1,5,50,Yes,Yes,4,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1427,Sales,Entry,33,1,36449,2,4,2,4,4,4,49,No,Yes,3,4,63.33,89.33,High Burnout,Medium Engagement,Needs Attention
+1428,Customer Support,Entry,30,5,49065,2,5,4,1,4,3,41,Yes,No,5,5,70.0,79.0,High Burnout,Medium Engagement,Moderate
+1429,Customer Support,Entry,56,10,131503,4,4,3,4,4,5,49,No,No,3,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1430,Marketing,Mid,29,10,135072,5,4,2,5,5,5,47,No,No,5,3,83.33,100.0,High Burnout,High Engagement,Moderate
+1431,HR,Senior,47,15,39130,2,4,4,4,4,5,40,No,Yes,1,2,56.67,98.33,High Burnout,Medium Engagement,Needs Attention
+1432,Finance,Mid,54,0,119360,5,3,5,3,1,1,49,Yes,Yes,5,3,73.33,74.33,High Burnout,High Engagement,Moderate
+1433,Engineering,Mid,21,2,92287,1,2,4,5,1,5,51,No,No,2,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1434,Finance,Senior,52,1,136937,2,5,4,2,4,4,38,Yes,Yes,1,3,53.33,92.0,High Burnout,Medium Engagement,Needs Attention
+1435,HR,Entry,45,2,81702,2,5,5,5,3,4,56,Yes,Yes,3,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1436,HR,Mid,49,4,66993,4,2,4,1,3,3,61,No,Yes,3,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1437,HR,Manager,27,10,61875,5,2,5,1,3,2,56,Yes,Yes,2,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1438,Finance,Mid,23,9,145284,2,2,5,4,2,2,61,No,No,3,2,60.0,87.33,High Burnout,Medium Engagement,Needs Attention
+1439,HR,Entry,40,15,36054,2,2,5,5,5,1,48,No,No,1,1,63.33,63.67,High Burnout,Medium Engagement,Needs Attention
+1440,Customer Support,Mid,40,5,129809,4,1,2,2,4,5,49,No,Yes,1,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1441,Finance,Mid,50,8,137357,4,5,3,1,2,1,62,No,Yes,5,2,56.67,43.0,Medium Burnout,Medium Engagement,Needs Attention
+1442,HR,Mid,55,11,78517,5,1,2,2,3,3,46,No,No,4,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1443,Customer Support,Entry,55,10,106368,1,4,5,3,4,3,53,No,Yes,3,1,56.67,77.0,High Burnout,Medium Engagement,Needs Attention
+1444,Marketing,Entry,59,14,59670,1,4,3,1,2,2,56,No,No,2,2,36.67,64.0,High Burnout,Low Engagement,Critical Attention
+1445,HR,Entry,47,14,79112,3,5,3,4,1,3,62,No,No,1,4,53.33,73.0,High Burnout,Medium Engagement,Needs Attention
+1446,Finance,Manager,46,15,118388,2,4,5,3,3,5,44,No,No,1,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1447,Sales,Senior,34,9,119156,5,2,3,5,2,4,40,No,No,1,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1448,HR,Entry,37,11,58307,2,1,3,2,1,3,62,Yes,Yes,4,3,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1449,Sales,Entry,38,11,143087,5,2,2,1,3,1,59,No,No,4,5,66.67,71.0,High Burnout,Medium Engagement,Needs Attention
+1450,Customer Support,Senior,49,12,97087,5,4,3,3,5,5,43,No,Yes,3,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1451,Marketing,Entry,40,3,77922,5,1,5,3,3,3,36,Yes,Yes,2,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1452,Engineering,Entry,47,6,93080,2,2,1,1,5,3,38,No,Yes,4,1,46.67,87.0,High Burnout,Medium Engagement,Needs Attention
+1453,Marketing,Manager,38,5,123348,4,5,1,5,5,5,43,No,Yes,5,4,80.0,90.33,High Burnout,High Engagement,Moderate
+1454,HR,Entry,24,1,109335,2,2,1,5,5,3,49,No,Yes,4,4,70.0,94.33,High Burnout,Medium Engagement,Moderate
+1455,Sales,Senior,21,9,56312,5,4,5,4,4,4,64,No,Yes,1,1,66.67,99.33,High Burnout,Medium Engagement,Needs Attention
+1456,Sales,Manager,21,10,135156,3,1,1,5,4,2,47,Yes,No,2,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1457,Finance,Mid,46,10,96985,1,5,2,4,5,5,54,No,No,3,1,53.33,97.67,High Burnout,Medium Engagement,Needs Attention
+1458,Sales,Entry,40,10,150641,5,1,5,3,1,1,42,No,Yes,4,3,70.0,69.67,High Burnout,Medium Engagement,Moderate
+1459,Finance,Entry,43,14,87608,3,5,5,1,5,3,60,No,No,1,5,66.67,71.67,High Burnout,Medium Engagement,Needs Attention
+1460,Customer Support,Senior,30,14,119962,4,1,5,5,2,2,62,No,Yes,5,4,83.33,98.0,High Burnout,High Engagement,Moderate
+1461,Engineering,Senior,31,7,130963,5,4,3,4,5,1,53,Yes,No,5,4,86.67,67.0,High Burnout,High Engagement,Moderate
+1462,HR,Senior,25,6,70277,3,5,3,3,4,1,53,No,Yes,3,2,60.0,37.0,Medium Burnout,Medium Engagement,Moderate
+1463,Finance,Entry,21,14,61551,5,3,3,5,4,4,59,Yes,No,3,3,76.67,100.0,High Burnout,High Engagement,Moderate
+1464,Engineering,Senior,37,14,119813,2,1,4,2,2,2,50,Yes,Yes,4,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1465,Sales,Manager,42,6,86597,3,1,2,3,2,5,45,Yes,No,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1466,Sales,Mid,54,13,131025,2,2,5,5,3,2,44,Yes,Yes,1,3,63.33,96.0,High Burnout,Medium Engagement,Needs Attention
+1467,Engineering,Manager,49,14,154342,2,5,5,3,1,2,42,Yes,Yes,1,4,53.33,64.67,High Burnout,Medium Engagement,Needs Attention
+1468,Sales,Senior,24,7,75212,3,3,3,1,1,1,35,No,Yes,1,1,33.33,45.0,Medium Burnout,Low Engagement,Needs Attention
+1469,Customer Support,Senior,25,11,39637,1,4,5,1,1,4,44,No,Yes,4,2,46.67,86.0,High Burnout,Medium Engagement,Needs Attention
+1470,Customer Support,Mid,31,11,73258,3,2,5,1,4,4,64,Yes,No,4,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1471,Engineering,Mid,41,12,65693,1,3,1,2,1,2,52,Yes,No,3,5,43.33,91.33,High Burnout,Medium Engagement,Needs Attention
+1472,Finance,Entry,55,13,39824,5,5,5,1,3,2,37,No,Yes,4,3,70.0,41.33,Medium Burnout,Medium Engagement,Moderate
+1473,Finance,Mid,32,10,159553,5,3,4,2,3,3,64,No,No,1,4,63.33,94.33,High Burnout,Medium Engagement,Needs Attention
+1474,Engineering,Mid,46,0,56950,3,1,3,1,1,1,45,Yes,No,2,5,50.0,91.67,High Burnout,Medium Engagement,Needs Attention
+1475,Finance,Senior,39,14,53488,5,1,2,3,2,5,52,No,No,1,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1476,Finance,Manager,27,12,157870,4,2,2,5,3,5,37,No,Yes,2,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1477,Customer Support,Senior,27,0,134544,2,5,1,5,2,4,42,Yes,No,3,1,46.67,94.67,High Burnout,Medium Engagement,Needs Attention
+1478,Finance,Entry,46,7,145200,2,5,2,1,4,1,61,No,Yes,5,1,50.0,42.33,Medium Burnout,Medium Engagement,Needs Attention
+1479,Marketing,Entry,25,3,30215,1,3,2,5,3,4,61,No,No,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1480,HR,Entry,41,4,135603,5,2,3,1,2,5,62,Yes,Yes,4,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1481,Sales,Senior,34,7,41523,1,5,3,1,1,2,48,No,No,1,2,30.0,48.67,Medium Burnout,Low Engagement,Needs Attention
+1482,Marketing,Senior,24,4,105900,2,1,4,4,4,1,40,No,No,1,5,66.67,68.33,High Burnout,Medium Engagement,Needs Attention
+1483,Finance,Manager,43,9,98689,2,3,1,4,5,1,49,Yes,Yes,2,2,53.33,74.33,High Burnout,Medium Engagement,Needs Attention
+1484,Customer Support,Mid,40,15,53834,5,4,2,4,5,3,48,Yes,No,4,2,73.33,93.67,High Burnout,High Engagement,Moderate
+1485,Engineering,Manager,35,3,64474,4,1,4,2,1,2,41,Yes,No,3,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1486,Finance,Senior,49,11,73066,4,2,1,4,4,2,44,No,No,1,3,56.67,76.0,High Burnout,Medium Engagement,Needs Attention
+1487,Customer Support,Mid,28,5,129871,5,5,2,1,4,4,49,Yes,No,4,5,70.0,99.33,High Burnout,Medium Engagement,Moderate
+1488,HR,Senior,39,12,40400,5,1,2,3,4,1,63,No,No,5,3,73.33,83.67,High Burnout,High Engagement,Moderate
+1489,Finance,Mid,59,14,155211,1,4,3,4,4,4,44,Yes,No,2,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1490,Engineering,Entry,48,11,40345,5,4,5,4,5,2,56,No,No,1,4,80.0,64.0,High Burnout,High Engagement,Moderate
+1491,Customer Support,Mid,47,4,63896,4,2,1,3,2,3,51,No,Yes,1,1,40.0,95.67,High Burnout,Low Engagement,Needs Attention
+1492,Customer Support,Mid,24,13,115430,5,1,2,1,4,1,61,No,No,3,1,53.33,82.33,High Burnout,Medium Engagement,Needs Attention
+1493,Customer Support,Mid,35,6,58899,1,3,1,2,2,2,53,No,No,1,1,26.67,72.0,High Burnout,Low Engagement,Critical Attention
+1494,HR,Mid,55,15,136171,1,1,4,4,4,3,63,No,No,4,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1495,Finance,Mid,57,13,58229,1,4,4,3,3,5,51,No,Yes,4,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1496,HR,Mid,21,9,147053,1,2,5,1,3,2,46,No,Yes,4,2,53.33,77.33,High Burnout,Medium Engagement,Needs Attention
+1497,Sales,Mid,23,6,35583,3,2,2,5,3,5,49,No,No,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1498,Sales,Mid,44,12,34897,5,3,3,2,4,4,60,No,No,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1499,Finance,Mid,47,3,150406,2,2,2,3,2,5,46,Yes,Yes,1,1,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1500,HR,Mid,56,11,101537,5,2,1,3,5,2,59,Yes,Yes,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1501,Engineering,Entry,54,12,139417,3,2,4,3,1,5,63,No,Yes,5,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1502,Customer Support,Mid,49,4,34567,1,2,1,4,5,1,43,No,No,3,2,53.33,60.33,High Burnout,Medium Engagement,Needs Attention
+1503,Customer Support,Entry,44,12,104807,3,2,5,5,4,2,39,No,Yes,5,3,83.33,72.67,High Burnout,High Engagement,Moderate
+1504,Finance,Mid,44,2,159648,4,4,4,2,3,3,38,Yes,No,2,3,60.0,87.0,High Burnout,Medium Engagement,Needs Attention
+1505,Sales,Senior,24,14,142652,4,1,3,1,3,5,46,Yes,No,2,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1506,Sales,Mid,23,3,107239,5,5,4,1,2,1,50,No,No,2,4,60.0,35.0,Medium Burnout,Medium Engagement,Moderate
+1507,Customer Support,Mid,54,14,43329,5,2,2,5,4,4,43,Yes,Yes,1,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1508,Finance,Manager,43,13,131045,2,5,2,3,5,4,59,Yes,No,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1509,HR,Senior,43,3,147708,2,5,4,3,4,5,37,No,No,3,4,66.67,86.33,High Burnout,Medium Engagement,Needs Attention
+1510,Sales,Manager,25,2,101792,4,4,5,3,4,4,55,No,Yes,1,2,63.33,93.33,High Burnout,Medium Engagement,Needs Attention
+1511,HR,Senior,51,12,30228,1,2,2,3,3,3,37,No,No,4,5,60.0,86.33,High Burnout,Medium Engagement,Needs Attention
+1512,Sales,Entry,26,9,120282,3,5,2,3,5,2,60,No,No,3,5,70.0,56.67,Medium Burnout,Medium Engagement,Moderate
+1513,Sales,Entry,57,4,112214,2,2,3,5,1,1,52,Yes,No,3,5,63.33,86.33,High Burnout,Medium Engagement,Needs Attention
+1514,Marketing,Mid,30,15,67052,2,3,4,4,3,5,51,No,No,3,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1515,Sales,Entry,27,4,87769,1,3,2,2,5,4,62,Yes,Yes,2,2,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1516,Engineering,Mid,59,10,76032,1,3,5,3,2,2,44,No,Yes,2,5,60.0,66.0,High Burnout,Medium Engagement,Needs Attention
+1517,Finance,Mid,58,6,141694,5,5,1,4,3,3,36,No,Yes,2,4,63.33,55.67,Medium Burnout,Medium Engagement,Needs Attention
+1518,Finance,Mid,41,3,118721,3,3,4,1,2,4,58,Yes,No,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1519,HR,Senior,40,12,63686,1,4,3,5,3,4,45,No,No,3,1,53.33,86.67,High Burnout,Medium Engagement,Needs Attention
+1520,Sales,Senior,23,3,106981,2,4,2,4,4,1,58,No,Yes,2,2,53.33,50.33,Medium Burnout,Medium Engagement,Needs Attention
+1521,Engineering,Mid,42,8,128802,2,5,5,3,5,3,37,No,Yes,3,1,63.33,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1522,HR,Senior,24,5,93261,4,2,4,3,2,3,57,No,No,2,2,56.67,99.67,High Burnout,Medium Engagement,Needs Attention
+1523,Marketing,Mid,48,14,32809,1,1,5,3,3,5,57,Yes,No,2,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1524,HR,Senior,32,3,133265,5,2,5,4,2,1,36,Yes,Yes,2,3,70.0,75.67,High Burnout,Medium Engagement,Moderate
+1525,HR,Entry,58,1,71785,3,2,3,3,3,5,43,Yes,No,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1526,Sales,Manager,56,5,66547,5,2,4,4,3,1,53,Yes,No,3,2,70.0,87.0,High Burnout,Medium Engagement,Moderate
+1527,Marketing,Senior,25,15,72818,2,2,2,3,1,3,36,Yes,Yes,1,5,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1528,HR,Mid,33,15,130422,5,1,3,1,1,1,62,No,Yes,2,1,43.33,83.0,High Burnout,Medium Engagement,Needs Attention
+1529,Engineering,Entry,43,1,101927,2,3,2,1,1,1,53,Yes,Yes,1,4,36.67,77.0,High Burnout,Low Engagement,Critical Attention
+1530,Engineering,Mid,50,4,95681,2,2,1,2,2,1,36,No,Yes,4,5,53.33,55.67,Medium Burnout,Medium Engagement,Needs Attention
+1531,Finance,Entry,57,5,109465,2,4,5,3,4,2,49,Yes,No,3,3,66.67,79.33,High Burnout,Medium Engagement,Needs Attention
+1532,Marketing,Entry,45,3,119862,2,5,1,3,3,2,58,Yes,Yes,2,5,53.33,75.33,High Burnout,Medium Engagement,Needs Attention
+1533,Marketing,Mid,47,13,125527,2,5,5,4,5,3,55,Yes,Yes,2,1,63.33,88.33,High Burnout,Medium Engagement,Needs Attention
+1534,Finance,Mid,34,12,143221,4,4,3,4,1,1,37,No,No,2,3,56.67,36.33,Medium Burnout,Medium Engagement,Moderate
+1535,HR,Senior,56,2,67333,5,2,2,3,2,3,39,No,Yes,1,2,50.0,87.67,High Burnout,Medium Engagement,Needs Attention
+1536,Marketing,Manager,59,6,156457,4,1,2,2,2,2,45,No,No,4,4,60.0,86.67,High Burnout,Medium Engagement,Needs Attention
+1537,Engineering,Mid,36,1,46576,4,3,3,3,2,1,61,No,Yes,3,4,63.33,62.33,High Burnout,Medium Engagement,Needs Attention
+1538,Engineering,Mid,42,12,149875,1,5,4,4,5,5,58,No,No,4,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1539,Sales,Entry,41,10,69405,1,3,1,3,5,2,41,No,No,2,2,46.67,64.0,High Burnout,Medium Engagement,Needs Attention
+1540,Marketing,Senior,41,13,124000,1,1,1,4,1,2,40,Yes,Yes,4,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1541,HR,Mid,28,5,103779,3,5,2,3,5,2,48,No,No,1,4,60.0,48.67,Medium Burnout,Medium Engagement,Needs Attention
+1542,Finance,Manager,36,12,61601,1,3,2,5,1,1,63,No,Yes,5,3,56.67,63.67,High Burnout,Medium Engagement,Needs Attention
+1543,Finance,Senior,51,3,97946,5,1,2,4,5,4,35,No,No,5,4,83.33,100.0,High Burnout,High Engagement,Moderate
+1544,HR,Mid,30,5,97356,4,3,3,2,5,5,60,Yes,No,3,2,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1545,Customer Support,Entry,52,3,82116,5,2,4,5,5,5,51,No,Yes,3,1,76.67,100.0,High Burnout,High Engagement,Moderate
+1546,Sales,Senior,54,3,130825,1,1,1,3,1,3,51,Yes,No,4,2,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1547,Finance,Senior,29,14,154749,3,3,5,4,3,1,48,Yes,Yes,3,5,76.67,73.67,High Burnout,High Engagement,Moderate
+1548,Marketing,Entry,37,3,147256,3,2,3,5,1,2,44,No,No,1,2,50.0,76.0,High Burnout,Medium Engagement,Needs Attention
+1549,Sales,Entry,31,8,134186,4,2,1,2,3,4,64,No,Yes,2,2,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1550,Marketing,Senior,52,6,92894,5,1,4,4,2,1,42,No,No,2,4,70.0,69.67,High Burnout,Medium Engagement,Moderate
+1551,Engineering,Entry,30,2,64635,2,4,3,5,2,1,42,No,Yes,4,2,60.0,39.67,Medium Burnout,Medium Engagement,Moderate
+1552,Sales,Manager,42,2,37465,5,5,1,5,1,4,48,Yes,No,2,3,56.67,98.67,High Burnout,Medium Engagement,Needs Attention
+1553,Finance,Mid,37,5,86754,1,1,3,5,3,2,41,Yes,No,4,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1554,Sales,Entry,24,5,127975,2,2,1,1,3,1,40,No,No,3,4,46.67,58.33,Medium Burnout,Medium Engagement,Needs Attention
+1555,Sales,Senior,45,3,122850,3,2,1,3,3,5,38,No,Yes,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1556,Sales,Mid,41,14,139765,4,1,4,4,2,5,35,No,No,1,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1557,Customer Support,Mid,57,14,115119,4,4,5,4,1,4,49,Yes,Yes,2,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1558,Sales,Entry,58,8,122691,3,5,4,4,4,2,59,No,Yes,1,5,70.0,56.0,Medium Burnout,Medium Engagement,Moderate
+1559,Marketing,Entry,21,3,68871,1,3,1,5,3,4,49,No,Yes,5,3,60.0,99.33,High Burnout,Medium Engagement,Needs Attention
+1560,Engineering,Mid,45,8,92874,3,1,3,3,3,1,35,Yes,Yes,1,5,60.0,85.0,High Burnout,Medium Engagement,Needs Attention
+1561,HR,Mid,56,15,107733,1,5,4,2,4,5,54,No,No,4,1,53.33,97.67,High Burnout,Medium Engagement,Needs Attention
+1562,Sales,Mid,37,3,59511,2,5,5,4,1,3,37,No,Yes,4,2,60.0,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1563,Finance,Senior,44,1,110960,3,2,1,3,3,4,57,No,No,1,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1564,Sales,Mid,22,1,78821,1,3,4,3,1,3,39,No,Yes,3,1,43.33,77.67,High Burnout,Medium Engagement,Needs Attention
+1565,Finance,Entry,35,4,95776,2,1,4,1,3,3,39,Yes,Yes,5,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1566,Marketing,Mid,52,3,148128,3,2,4,4,5,5,38,No,No,1,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1567,Finance,Manager,59,6,100167,4,2,4,5,3,4,51,Yes,Yes,3,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1568,HR,Senior,26,13,105135,3,4,3,3,5,3,55,Yes,Yes,1,5,66.67,98.33,High Burnout,Medium Engagement,Needs Attention
+1569,Engineering,Mid,21,10,74462,5,5,5,3,1,1,54,No,Yes,2,5,70.0,37.67,Medium Burnout,Medium Engagement,Healthy
+1570,Finance,Entry,43,4,91382,3,1,5,2,3,2,48,No,No,4,4,70.0,88.67,High Burnout,Medium Engagement,Moderate
+1571,Finance,Mid,59,5,120194,5,1,1,1,2,2,60,No,No,2,5,53.33,96.67,High Burnout,Medium Engagement,Needs Attention
+1572,Engineering,Senior,37,9,133381,2,1,2,3,2,5,63,No,Yes,2,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1573,HR,Senior,54,3,62574,3,2,3,3,4,4,42,No,Yes,5,4,73.33,100.0,High Burnout,High Engagement,Moderate
+1574,Sales,Senior,49,12,132072,2,4,1,5,2,4,36,Yes,No,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1575,Finance,Senior,29,11,71910,2,3,1,5,5,2,42,Yes,No,4,2,63.33,84.67,High Burnout,Medium Engagement,Needs Attention
+1576,Engineering,Senior,33,1,103531,1,2,4,2,2,1,35,No,Yes,2,4,50.0,55.0,Medium Burnout,Medium Engagement,Needs Attention
+1577,Marketing,Entry,26,12,55186,2,3,2,2,2,2,63,Yes,No,4,3,50.0,98.67,High Burnout,Medium Engagement,Needs Attention
+1578,Engineering,Mid,26,9,124781,2,4,2,2,2,2,38,Yes,Yes,3,4,50.0,72.0,High Burnout,Medium Engagement,Needs Attention
+1579,Marketing,Entry,40,8,52813,3,5,3,5,3,4,53,No,Yes,1,3,60.0,82.0,High Burnout,Medium Engagement,Needs Attention
+1580,HR,Entry,23,9,108812,3,1,2,5,4,3,39,Yes,Yes,2,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1581,Sales,Senior,37,14,115525,4,3,1,1,1,1,63,No,No,3,3,43.33,63.67,High Burnout,Medium Engagement,Needs Attention
+1582,Engineering,Mid,32,6,108282,1,2,2,4,4,4,39,No,Yes,4,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1583,Customer Support,Mid,21,3,139779,2,3,2,4,5,2,55,No,No,3,1,56.67,73.33,High Burnout,Medium Engagement,Needs Attention
+1584,Finance,Entry,37,2,48557,1,5,5,1,3,3,62,No,No,1,1,40.0,73.0,High Burnout,Low Engagement,Needs Attention
+1585,HR,Mid,23,9,58060,5,1,1,4,3,1,54,No,Yes,3,3,63.33,77.67,High Burnout,Medium Engagement,Needs Attention
+1586,Engineering,Entry,46,13,88866,2,3,2,5,2,5,58,Yes,No,4,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1587,Finance,Entry,35,14,102104,1,5,2,4,2,1,53,Yes,Yes,2,1,40.0,57.0,Medium Burnout,Low Engagement,Needs Attention
+1588,Engineering,Mid,56,15,130905,4,2,4,5,5,1,46,No,Yes,2,1,70.0,62.33,High Burnout,Medium Engagement,Moderate
+1589,Marketing,Entry,52,2,114577,4,4,2,1,3,2,54,Yes,Yes,5,2,56.67,82.67,High Burnout,Medium Engagement,Needs Attention
+1590,Engineering,Mid,52,8,36080,2,2,2,2,1,2,35,Yes,Yes,4,1,40.0,90.0,High Burnout,Low Engagement,Needs Attention
+1591,Customer Support,Entry,24,4,43854,5,1,5,1,4,5,41,No,Yes,5,5,83.33,100.0,High Burnout,High Engagement,Moderate
+1592,Engineering,Entry,38,12,152013,4,2,1,4,3,5,51,No,Yes,5,2,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1593,Engineering,Entry,39,14,97695,4,2,3,5,1,5,36,No,Yes,1,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1594,Customer Support,Mid,55,2,57025,5,2,1,4,1,4,45,Yes,Yes,4,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1595,HR,Senior,34,14,82982,1,2,4,4,4,4,41,No,No,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1596,Engineering,Mid,53,4,71081,4,1,1,2,1,2,51,No,Yes,4,2,46.67,90.67,High Burnout,Medium Engagement,Needs Attention
+1597,Customer Support,Mid,34,15,34368,3,5,2,4,5,2,61,Yes,Yes,1,2,56.67,77.33,High Burnout,Medium Engagement,Needs Attention
+1598,Finance,Senior,54,1,129621,4,3,4,2,1,5,37,Yes,No,4,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1599,Marketing,Entry,24,10,149181,1,4,1,5,5,4,63,No,No,4,3,63.33,98.67,High Burnout,Medium Engagement,Needs Attention
+1600,Marketing,Mid,44,3,57094,1,3,4,5,1,3,56,No,No,5,1,56.67,89.0,High Burnout,Medium Engagement,Needs Attention
+1601,Engineering,Senior,49,9,76040,2,3,3,2,2,4,40,No,Yes,4,1,46.67,93.33,High Burnout,Medium Engagement,Needs Attention
+1602,HR,Mid,39,1,96766,3,4,1,1,1,2,56,Yes,No,5,4,50.0,84.0,High Burnout,Medium Engagement,Needs Attention
+1603,HR,Mid,26,1,113053,1,1,2,5,5,4,45,No,Yes,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1604,Finance,Manager,53,11,53991,5,4,4,1,1,2,63,No,No,3,3,56.67,68.67,High Burnout,Medium Engagement,Needs Attention
+1605,Engineering,Senior,39,7,31301,3,1,5,5,1,5,52,Yes,No,1,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1606,Marketing,Entry,21,0,58610,3,3,4,5,1,5,52,Yes,No,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1607,HR,Mid,25,15,111463,5,1,5,3,5,5,56,Yes,Yes,4,2,80.0,100.0,High Burnout,High Engagement,Moderate
+1608,Engineering,Mid,47,15,64678,4,5,2,4,1,3,44,No,No,5,5,70.0,61.0,High Burnout,Medium Engagement,Moderate
+1609,HR,Mid,36,15,54466,5,4,3,4,4,3,39,No,No,5,3,80.0,67.67,High Burnout,High Engagement,Moderate
+1610,Customer Support,Mid,26,13,110440,5,5,5,1,4,2,64,No,No,5,4,80.0,59.33,Medium Burnout,High Engagement,Moderate
+1611,HR,Mid,33,6,70875,4,3,3,4,5,1,57,No,No,2,3,70.0,59.67,Medium Burnout,Medium Engagement,Moderate
+1612,Marketing,Mid,55,4,56081,4,4,4,1,2,3,57,No,No,2,1,46.67,79.67,High Burnout,Medium Engagement,Needs Attention
+1613,Sales,Mid,39,14,54354,4,3,2,5,4,2,55,No,No,2,1,60.0,73.33,High Burnout,Medium Engagement,Needs Attention
+1614,Finance,Senior,32,10,123297,4,5,5,3,3,4,58,Yes,No,2,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1615,Finance,Senior,36,7,48300,4,3,4,3,4,5,60,Yes,No,3,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1616,Marketing,Entry,30,0,94384,5,4,1,5,3,5,56,No,Yes,5,1,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1617,HR,Mid,45,10,125027,2,4,4,2,5,5,49,Yes,No,3,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1618,Engineering,Entry,40,6,151684,2,3,3,2,2,2,55,No,Yes,4,2,50.0,73.33,High Burnout,Medium Engagement,Needs Attention
+1619,HR,Mid,51,4,90892,1,4,2,4,3,5,54,Yes,No,1,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1620,Marketing,Senior,24,3,65525,2,4,2,1,3,3,57,Yes,Yes,3,5,53.33,99.67,High Burnout,Medium Engagement,Needs Attention
+1621,Finance,Entry,43,6,56532,2,3,4,3,4,4,38,No,No,2,1,53.33,92.0,High Burnout,Medium Engagement,Needs Attention
+1622,HR,Mid,22,9,36464,5,5,1,4,3,5,55,No,No,2,4,63.33,98.33,High Burnout,Medium Engagement,Needs Attention
+1623,Finance,Entry,42,14,46562,4,4,3,5,5,2,55,No,Yes,4,2,76.67,63.33,High Burnout,High Engagement,Moderate
+1624,Engineering,Entry,57,1,137392,4,4,4,3,5,4,35,No,No,5,4,83.33,80.0,High Burnout,High Engagement,Moderate
+1625,Finance,Mid,28,11,85514,5,4,4,1,5,5,49,Yes,No,1,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1626,Finance,Mid,27,14,143428,2,4,2,1,4,1,51,Yes,Yes,3,1,43.33,65.67,High Burnout,Medium Engagement,Needs Attention
+1627,Sales,Manager,34,0,142564,5,3,3,2,2,5,53,No,Yes,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1628,Sales,Mid,23,0,138047,1,5,1,4,4,3,48,Yes,No,5,1,53.33,83.67,High Burnout,Medium Engagement,Needs Attention
+1629,Customer Support,Mid,36,10,104219,4,5,2,5,5,4,61,Yes,Yes,3,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1630,Sales,Mid,39,11,62634,3,1,4,3,4,3,53,No,No,3,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1631,Finance,Entry,38,15,30060,1,4,2,1,5,1,52,Yes,No,3,4,53.33,66.33,High Burnout,Medium Engagement,Needs Attention
+1632,Marketing,Manager,36,0,39269,1,4,2,3,1,1,62,No,No,3,5,50.0,53.0,Medium Burnout,Medium Engagement,Needs Attention
+1633,Finance,Mid,28,14,93143,5,1,5,5,1,3,36,No,No,2,2,66.67,95.67,High Burnout,Medium Engagement,Needs Attention
+1634,Marketing,Senior,53,11,53065,2,5,2,3,3,4,40,No,No,5,3,60.0,73.33,High Burnout,Medium Engagement,Needs Attention
+1635,Marketing,Entry,32,4,32895,4,2,2,4,2,1,47,No,No,5,2,63.33,63.0,High Burnout,Medium Engagement,Needs Attention
+1636,Sales,Mid,31,9,110859,3,2,3,2,1,1,51,Yes,No,2,5,53.33,85.67,High Burnout,Medium Engagement,Needs Attention
+1637,HR,Mid,25,6,42352,1,5,2,3,5,5,40,No,No,5,4,66.67,88.33,High Burnout,Medium Engagement,Needs Attention
+1638,Engineering,Senior,47,1,140179,3,4,1,2,4,2,55,Yes,Yes,3,4,56.67,83.33,High Burnout,Medium Engagement,Needs Attention
+1639,Sales,Entry,32,9,79737,2,2,4,5,4,1,56,Yes,Yes,1,1,56.67,89.0,High Burnout,Medium Engagement,Needs Attention
+1640,Sales,Mid,37,7,134127,2,3,3,2,3,4,39,No,No,5,1,53.33,92.67,High Burnout,Medium Engagement,Needs Attention
+1641,HR,Manager,26,3,126426,3,3,2,3,4,4,41,Yes,No,1,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1642,Engineering,Mid,53,11,62016,4,1,1,3,1,5,35,No,Yes,1,4,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1643,Finance,Mid,25,2,91304,2,5,4,1,4,4,47,No,Yes,2,1,46.67,78.0,High Burnout,Medium Engagement,Needs Attention
+1644,Customer Support,Entry,48,9,41962,3,5,3,3,1,5,53,No,No,4,1,50.0,97.0,High Burnout,Medium Engagement,Needs Attention
+1645,Customer Support,Manager,34,10,63302,1,2,1,2,1,1,56,No,Yes,5,2,40.0,69.0,High Burnout,Low Engagement,Needs Attention
+1646,Finance,Entry,25,7,115382,3,4,2,1,2,1,35,Yes,Yes,2,4,46.67,55.0,Medium Burnout,Medium Engagement,Needs Attention
+1647,Sales,Senior,53,1,34011,3,5,5,3,3,1,47,No,Yes,2,4,66.67,33.0,Medium Burnout,Medium Engagement,Moderate
+1648,Engineering,Senior,39,10,159716,5,2,5,3,5,1,45,Yes,No,1,5,80.0,81.67,High Burnout,High Engagement,Moderate
+1649,Sales,Entry,42,10,49782,2,2,3,5,1,2,61,No,No,5,2,60.0,87.33,High Burnout,Medium Engagement,Needs Attention
+1650,Marketing,Senior,25,12,97691,4,5,1,1,3,2,41,Yes,Yes,2,3,46.67,64.0,High Burnout,Medium Engagement,Needs Attention
+1651,Sales,Entry,22,2,150654,4,2,4,5,5,1,54,Yes,Yes,3,3,80.0,87.67,High Burnout,High Engagement,Moderate
+1652,Sales,Entry,50,11,152017,5,1,1,5,4,4,37,No,No,2,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1653,Finance,Senior,59,2,69725,4,1,5,5,3,5,60,No,No,3,1,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1654,Finance,Senior,24,9,39196,3,5,3,4,3,3,59,No,No,4,3,66.67,71.0,High Burnout,Medium Engagement,Needs Attention
+1655,Finance,Mid,53,10,73459,5,4,2,5,3,5,35,No,Yes,3,5,76.67,95.0,High Burnout,High Engagement,Moderate
+1656,Customer Support,Mid,33,0,117245,1,1,1,2,4,3,42,No,Yes,3,1,40.0,99.67,High Burnout,Low Engagement,Needs Attention
+1657,Marketing,Entry,40,5,159613,2,1,5,3,4,3,51,No,No,1,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1658,Finance,Entry,27,1,108863,2,5,4,4,3,1,47,No,Yes,2,3,60.0,33.0,Medium Burnout,Medium Engagement,Moderate
+1659,Engineering,Entry,35,0,153206,2,3,3,5,2,3,48,Yes,No,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1660,Customer Support,Entry,43,15,149391,3,2,2,3,1,1,39,No,Yes,2,2,43.33,57.67,Medium Burnout,Medium Engagement,Needs Attention
+1661,HR,Mid,34,1,131010,1,1,1,1,4,2,60,No,Yes,3,2,40.0,96.67,High Burnout,Low Engagement,Needs Attention
+1662,Engineering,Mid,43,11,62769,5,3,4,1,2,4,58,Yes,Yes,3,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1663,Engineering,Mid,39,5,137529,5,4,2,3,4,3,56,Yes,No,2,5,70.0,99.0,High Burnout,Medium Engagement,Moderate
+1664,Finance,Entry,49,13,155361,2,3,5,2,3,4,57,Yes,Yes,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1665,HR,Mid,40,3,54700,1,5,5,3,2,1,61,No,Yes,4,4,63.33,42.33,Medium Burnout,Medium Engagement,Needs Attention
+1666,HR,Senior,49,5,145792,1,4,4,3,5,3,58,No,Yes,1,3,56.67,80.33,High Burnout,Medium Engagement,Needs Attention
+1667,Customer Support,Entry,44,11,110356,1,4,5,4,1,5,63,Yes,Yes,3,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1668,HR,Manager,38,8,106427,4,3,3,1,1,2,40,No,Yes,3,3,50.0,63.33,High Burnout,Medium Engagement,Needs Attention
+1669,Marketing,Senior,30,15,130165,4,5,4,1,4,2,61,No,Yes,1,3,56.67,57.33,Medium Burnout,Medium Engagement,Needs Attention
+1670,Finance,Entry,28,12,35269,2,1,5,5,1,3,56,Yes,Yes,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1671,HR,Senior,46,9,151631,1,3,1,3,5,2,61,Yes,No,3,4,56.67,97.33,High Burnout,Medium Engagement,Needs Attention
+1672,Customer Support,Mid,49,11,73880,1,1,5,3,2,5,40,Yes,No,2,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1673,Marketing,Mid,30,9,144003,5,3,3,2,2,4,55,No,Yes,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1674,Sales,Mid,37,7,38320,5,1,2,1,3,5,42,No,Yes,5,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1675,Sales,Mid,22,0,79589,2,3,2,2,2,2,47,No,No,1,1,33.33,68.0,High Burnout,Low Engagement,Critical Attention
+1676,Marketing,Mid,26,12,149534,1,4,5,4,4,4,52,No,Yes,3,3,66.67,91.33,High Burnout,Medium Engagement,Needs Attention
+1677,Customer Support,Mid,25,7,106276,2,2,2,5,5,5,57,No,Yes,1,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1678,Marketing,Mid,48,8,65897,5,4,5,2,3,1,38,Yes,No,4,3,73.33,57.0,Medium Burnout,High Engagement,Moderate
+1679,Finance,Senior,25,5,88565,5,1,3,1,4,1,51,No,No,4,2,63.33,75.67,High Burnout,Medium Engagement,Needs Attention
+1680,Finance,Mid,38,9,60930,4,5,2,4,4,4,63,Yes,No,4,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1681,Sales,Senior,46,14,87233,2,4,1,3,4,4,39,No,Yes,4,4,60.0,82.67,High Burnout,Medium Engagement,Needs Attention
+1682,HR,Entry,40,4,112821,2,2,5,4,1,4,37,Yes,No,5,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1683,Customer Support,Entry,47,5,44380,1,1,2,2,4,1,38,No,Yes,2,1,40.0,67.0,High Burnout,Low Engagement,Needs Attention
+1684,Sales,Senior,32,15,106896,1,4,3,1,1,5,57,Yes,No,2,5,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1685,HR,Mid,27,12,100934,4,3,3,2,2,4,39,No,Yes,5,5,70.0,92.67,High Burnout,Medium Engagement,Moderate
+1686,HR,Entry,23,5,85830,3,5,1,3,1,1,48,Yes,Yes,2,2,40.0,53.67,Medium Burnout,Low Engagement,Needs Attention
+1687,Finance,Entry,30,8,35529,3,1,3,3,4,4,49,No,No,4,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1688,Engineering,Entry,54,3,151292,3,4,3,1,5,4,54,Yes,No,2,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1689,Engineering,Manager,45,1,124598,2,1,2,5,5,4,51,No,No,1,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1690,Marketing,Mid,55,10,132222,2,3,5,4,2,1,40,No,No,2,3,60.0,48.33,Medium Burnout,Medium Engagement,Needs Attention
+1691,Finance,Manager,36,10,112987,5,2,4,4,4,5,61,Yes,No,1,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1692,HR,Mid,22,8,79178,2,4,3,3,1,1,44,No,No,3,4,53.33,41.0,Medium Burnout,Medium Engagement,Needs Attention
+1693,Customer Support,Mid,44,15,36937,2,1,3,2,5,1,56,No,No,1,1,46.67,79.0,High Burnout,Medium Engagement,Needs Attention
+1694,Engineering,Mid,30,1,151952,2,1,4,2,3,4,57,No,No,1,2,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1695,HR,Mid,58,15,69886,4,1,3,5,4,3,50,No,Yes,4,5,83.33,100.0,High Burnout,High Engagement,Moderate
+1696,Engineering,Entry,42,9,79699,2,2,2,2,4,3,51,Yes,Yes,4,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1697,Engineering,Senior,46,8,106396,1,1,2,4,3,3,48,No,No,4,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1698,Engineering,Senior,59,1,120678,1,5,4,2,5,1,54,Yes,No,1,2,50.0,57.67,Medium Burnout,Medium Engagement,Needs Attention
+1699,Customer Support,Mid,47,11,55279,5,5,3,5,3,4,46,Yes,Yes,5,3,80.0,97.33,High Burnout,High Engagement,Moderate
+1700,Finance,Manager,49,7,68106,4,1,3,4,2,3,43,No,Yes,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1701,Customer Support,Senior,58,8,140776,1,5,5,2,1,2,49,No,No,4,5,60.0,49.33,Medium Burnout,Medium Engagement,Needs Attention
+1702,Sales,Senior,40,11,131444,4,4,3,4,1,2,46,Yes,No,1,5,60.0,77.33,High Burnout,Medium Engagement,Needs Attention
+1703,HR,Entry,47,9,136300,4,5,2,3,5,2,48,Yes,No,3,4,70.0,68.67,High Burnout,Medium Engagement,Moderate
+1704,Finance,Mid,40,8,143793,5,1,1,3,3,5,60,No,Yes,3,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1705,Finance,Mid,39,9,146278,4,3,1,3,4,4,56,Yes,No,2,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1706,Finance,Entry,40,15,109737,2,4,1,2,4,1,52,No,Yes,3,2,46.67,46.33,Medium Burnout,Medium Engagement,Needs Attention
+1707,Finance,Entry,55,8,70544,4,2,1,5,4,1,54,No,Yes,4,1,63.33,67.67,High Burnout,Medium Engagement,Needs Attention
+1708,Customer Support,Senior,22,1,133247,5,1,3,4,2,4,40,Yes,Yes,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1709,Finance,Entry,50,15,141190,5,2,3,1,2,5,38,No,No,2,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1710,Marketing,Mid,54,3,38997,5,3,5,3,4,4,60,No,No,5,4,86.67,100.0,High Burnout,High Engagement,Moderate
+1711,HR,Manager,42,6,136102,1,2,3,3,5,5,57,No,No,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1712,Finance,Senior,23,11,115711,2,1,1,1,2,3,46,No,Yes,4,3,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1713,HR,Entry,26,1,146045,1,1,4,1,2,3,47,No,No,1,2,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1714,Marketing,Senior,35,0,70860,3,3,4,2,1,5,53,No,No,1,3,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1715,Marketing,Entry,47,2,33225,2,1,2,4,1,4,56,No,No,1,3,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1716,HR,Entry,30,11,140114,4,3,2,3,5,3,47,Yes,No,3,2,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1717,Engineering,Mid,29,3,89470,5,3,3,5,2,4,46,No,Yes,1,5,70.0,97.33,High Burnout,Medium Engagement,Moderate
+1718,Sales,Mid,53,7,143218,3,1,4,2,2,3,54,No,No,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1719,Engineering,Mid,52,5,158854,2,5,1,2,3,4,37,No,No,3,3,46.67,71.33,High Burnout,Medium Engagement,Needs Attention
+1720,Engineering,Mid,26,10,130764,1,3,1,5,5,4,62,Yes,No,1,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1721,Customer Support,Entry,56,1,137041,5,1,1,5,5,2,37,No,No,5,4,83.33,81.33,High Burnout,High Engagement,Moderate
+1722,Engineering,Entry,22,14,142224,1,5,3,5,3,5,48,Yes,Yes,4,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1723,Finance,Mid,49,8,93656,2,3,3,1,3,1,52,No,No,4,2,50.0,56.33,Medium Burnout,Medium Engagement,Needs Attention
+1724,Customer Support,Senior,24,13,81880,2,5,5,3,1,5,61,No,No,2,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1725,Customer Support,Mid,21,1,91078,3,4,1,1,5,4,53,No,Yes,4,3,56.67,92.0,High Burnout,Medium Engagement,Needs Attention
+1726,Marketing,Entry,39,12,118646,4,4,1,3,5,4,63,No,No,5,4,73.33,98.67,High Burnout,High Engagement,Moderate
+1727,Engineering,Mid,46,14,106290,1,5,3,1,3,5,62,No,Yes,4,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1728,Marketing,Entry,45,11,86633,3,3,3,4,4,4,64,Yes,Yes,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1729,HR,Entry,30,4,56655,5,1,5,3,4,3,44,No,No,4,1,73.33,100.0,High Burnout,High Engagement,Moderate
+1730,Sales,Senior,35,11,151118,4,2,5,2,1,4,51,Yes,No,4,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1731,Customer Support,Entry,42,3,73601,3,1,2,3,4,5,49,No,Yes,2,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1732,HR,Entry,41,12,33114,1,2,4,3,4,5,53,Yes,Yes,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1733,HR,Senior,42,6,56502,2,2,1,3,4,5,43,No,Yes,3,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1734,Finance,Mid,56,7,79768,5,3,1,4,2,2,38,No,Yes,4,4,66.67,62.0,High Burnout,Medium Engagement,Needs Attention
+1735,Sales,Mid,54,4,78128,1,5,5,1,1,2,49,No,Yes,1,4,43.33,49.33,Medium Burnout,Medium Engagement,Needs Attention
+1736,HR,Entry,50,9,50028,4,1,5,2,3,2,53,No,Yes,1,5,66.67,92.0,High Burnout,Medium Engagement,Needs Attention
+1737,HR,Entry,45,13,85565,4,5,2,1,4,2,50,No,Yes,3,2,53.33,50.0,Medium Burnout,Medium Engagement,Needs Attention
+1738,Sales,Entry,48,13,113123,2,4,4,1,2,2,42,Yes,No,4,1,46.67,74.67,High Burnout,Medium Engagement,Needs Attention
+1739,Sales,Entry,21,4,138255,2,3,2,5,4,2,51,No,No,5,2,66.67,70.67,High Burnout,Medium Engagement,Needs Attention
+1740,HR,Senior,24,1,65333,5,3,4,4,2,2,55,No,No,4,4,76.67,73.33,High Burnout,High Engagement,Moderate
+1741,Sales,Senior,27,7,33174,5,4,1,5,1,5,35,Yes,No,1,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1742,HR,Senior,29,13,147769,2,1,2,4,4,1,41,Yes,Yes,2,5,63.33,89.0,High Burnout,Medium Engagement,Needs Attention
+1743,HR,Senior,56,1,65398,2,4,5,1,2,2,55,Yes,No,3,2,50.0,83.33,High Burnout,Medium Engagement,Needs Attention
+1744,Finance,Mid,39,15,65929,4,1,2,1,5,5,52,Yes,No,2,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1745,Engineering,Senior,21,9,34321,2,2,2,4,5,1,46,No,No,5,4,73.33,62.33,High Burnout,High Engagement,Moderate
+1746,HR,Mid,30,11,153549,3,3,1,1,2,2,50,Yes,Yes,4,4,50.0,90.0,High Burnout,Medium Engagement,Needs Attention
+1747,Marketing,Mid,56,5,125971,1,1,5,1,4,1,64,No,Yes,5,4,66.67,84.33,High Burnout,Medium Engagement,Needs Attention
+1748,Customer Support,Mid,29,7,141508,2,5,5,2,4,1,35,Yes,No,2,4,63.33,45.0,Medium Burnout,Medium Engagement,Needs Attention
+1749,Engineering,Entry,52,5,85421,5,5,3,5,1,3,61,Yes,Yes,4,5,76.67,92.33,High Burnout,High Engagement,Moderate
+1750,Engineering,Mid,52,3,102635,3,3,3,5,1,4,49,No,No,5,5,73.33,99.33,High Burnout,High Engagement,Moderate
+1751,Engineering,Manager,26,12,53760,5,4,3,5,3,3,41,No,Yes,1,2,63.33,69.0,High Burnout,Medium Engagement,Needs Attention
+1752,Finance,Entry,58,3,41360,3,4,1,3,1,1,62,Yes,Yes,1,4,43.33,73.0,High Burnout,Medium Engagement,Needs Attention
+1753,HR,Entry,37,5,40313,2,1,2,2,4,5,51,No,No,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1754,Finance,Mid,30,13,141806,1,4,5,5,3,2,37,Yes,No,1,3,60.0,71.33,High Burnout,Medium Engagement,Needs Attention
+1755,HR,Senior,47,14,115998,5,3,5,5,1,4,45,Yes,Yes,1,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1756,Finance,Mid,55,15,35801,3,1,2,2,2,2,40,Yes,No,2,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1757,Finance,Senior,41,12,44130,4,2,5,1,5,5,40,No,Yes,1,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1758,Customer Support,Entry,45,3,44271,2,4,2,5,1,4,49,No,No,1,5,53.33,89.33,High Burnout,Medium Engagement,Needs Attention
+1759,Marketing,Mid,48,7,46075,1,4,1,1,1,3,41,No,No,2,3,30.0,69.0,High Burnout,Low Engagement,Critical Attention
+1760,Finance,Mid,35,8,132455,2,1,1,5,2,1,45,No,No,1,4,50.0,71.67,High Burnout,Medium Engagement,Needs Attention
+1761,Customer Support,Senior,24,15,137215,4,5,1,4,4,5,64,No,Yes,1,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1762,Sales,Mid,49,0,48984,1,4,2,3,2,1,61,No,Yes,3,2,43.33,52.33,Medium Burnout,Medium Engagement,Needs Attention
+1763,Marketing,Entry,29,12,118095,4,3,2,5,1,1,51,No,No,1,3,53.33,55.67,Medium Burnout,Medium Engagement,Needs Attention
+1764,Finance,Entry,47,3,90942,2,4,4,4,4,2,57,Yes,Yes,1,2,56.67,84.67,High Burnout,Medium Engagement,Needs Attention
+1765,Engineering,Entry,46,3,42861,3,2,5,2,3,5,52,Yes,No,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1766,Sales,Mid,39,1,128970,2,4,5,4,1,1,56,No,No,2,5,63.33,49.0,Medium Burnout,Medium Engagement,Needs Attention
+1767,Sales,Entry,48,5,112203,2,5,4,2,2,3,63,No,Yes,1,5,53.33,73.67,High Burnout,Medium Engagement,Needs Attention
+1768,Customer Support,Mid,37,2,101376,2,4,4,5,3,4,58,No,No,5,3,73.33,95.33,High Burnout,High Engagement,Moderate
+1769,Sales,Mid,40,6,91247,5,1,1,2,5,5,63,No,Yes,2,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1770,Marketing,Entry,59,15,99101,4,4,4,4,3,2,55,No,No,2,1,60.0,63.33,High Burnout,Medium Engagement,Needs Attention
+1771,Finance,Entry,43,12,138730,4,5,2,3,2,5,60,No,No,1,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1772,Finance,Entry,52,10,50977,4,1,3,1,3,2,53,Yes,No,3,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1773,Engineering,Senior,53,15,80617,5,3,2,1,2,4,61,No,Yes,2,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1774,Customer Support,Entry,25,10,87473,3,1,4,3,1,3,42,No,No,3,4,60.0,99.67,High Burnout,Medium Engagement,Needs Attention
+1775,Engineering,Senior,54,4,116654,2,2,5,1,4,1,58,No,No,5,3,66.67,70.33,High Burnout,Medium Engagement,Needs Attention
+1776,Sales,Senior,31,3,118177,3,1,2,5,5,5,54,No,Yes,3,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1777,Engineering,Mid,23,4,102902,5,3,5,5,4,2,42,Yes,Yes,4,3,86.67,84.67,High Burnout,High Engagement,Moderate
+1778,Marketing,Senior,53,7,122172,4,4,2,4,4,4,55,No,Yes,3,2,63.33,93.33,High Burnout,Medium Engagement,Needs Attention
+1779,Finance,Mid,31,2,45630,2,1,5,4,4,1,63,No,No,2,4,70.0,83.67,High Burnout,Medium Engagement,Moderate
+1780,Sales,Manager,36,13,50056,1,1,2,2,2,4,45,No,No,3,1,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1781,Engineering,Entry,38,6,37382,1,1,5,4,2,3,55,No,No,3,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1782,Customer Support,Entry,50,14,85739,3,1,3,5,5,1,37,Yes,No,4,5,83.33,86.33,High Burnout,High Engagement,Moderate
+1783,Marketing,Senior,30,13,111685,4,3,1,4,2,1,57,Yes,No,4,2,56.67,79.67,High Burnout,Medium Engagement,Needs Attention
+1784,Marketing,Manager,38,5,78639,1,5,2,1,2,1,61,Yes,Yes,1,3,33.33,62.33,High Burnout,Low Engagement,Critical Attention
+1785,Engineering,Senior,58,11,89838,3,5,3,2,2,2,48,No,Yes,2,5,56.67,48.67,Medium Burnout,Medium Engagement,Needs Attention
+1786,Finance,Entry,39,15,76041,5,1,1,2,2,1,61,No,Yes,1,1,40.0,82.33,High Burnout,Low Engagement,Needs Attention
+1787,Engineering,Entry,56,0,30992,3,3,2,5,1,4,43,No,No,4,1,53.33,95.33,High Burnout,Medium Engagement,Needs Attention
+1788,Sales,Manager,33,12,102394,3,3,3,4,5,2,59,Yes,No,3,2,66.67,96.0,High Burnout,Medium Engagement,Needs Attention
+1789,Engineering,Entry,23,6,97657,3,1,3,1,2,1,35,Yes,No,4,5,60.0,85.0,High Burnout,Medium Engagement,Needs Attention
+1790,Marketing,Senior,30,13,57160,2,2,3,4,5,4,35,No,Yes,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1791,Engineering,Senior,58,12,75156,3,1,4,3,3,4,60,No,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1792,Finance,Mid,21,6,81375,3,2,5,4,1,5,62,No,No,1,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1793,Customer Support,Mid,47,13,116442,2,1,1,5,2,4,46,No,No,3,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1794,HR,Mid,28,15,49572,2,2,5,4,1,3,45,No,No,5,3,66.67,91.67,High Burnout,Medium Engagement,Needs Attention
+1795,Engineering,Entry,37,14,147925,5,2,5,2,1,1,55,Yes,Yes,4,3,66.67,88.33,High Burnout,Medium Engagement,Needs Attention
+1796,Finance,Senior,29,11,34136,4,1,5,1,3,1,35,No,No,2,1,53.33,65.0,High Burnout,Medium Engagement,Needs Attention
+1797,Finance,Mid,26,0,91868,1,2,3,5,5,1,54,Yes,No,2,4,66.67,87.67,High Burnout,Medium Engagement,Needs Attention
+1798,Customer Support,Senior,45,8,112263,1,4,5,3,1,4,46,No,No,2,3,50.0,87.33,High Burnout,Medium Engagement,Needs Attention
+1799,Marketing,Entry,59,5,62167,3,5,4,1,4,4,51,No,Yes,4,5,70.0,80.67,High Burnout,Medium Engagement,Moderate
+1800,Finance,Manager,48,14,140957,5,3,2,1,3,1,49,No,Yes,2,5,60.0,54.33,Medium Burnout,Medium Engagement,Needs Attention
+1801,Finance,Mid,53,11,45479,3,2,3,2,4,2,36,Yes,Yes,5,5,73.33,90.67,High Burnout,High Engagement,Moderate
+1802,Finance,Entry,57,1,149392,1,2,1,2,3,2,52,Yes,No,4,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1803,Finance,Entry,29,4,61376,2,3,2,2,4,3,50,No,No,2,4,53.33,85.0,High Burnout,Medium Engagement,Needs Attention
+1804,Sales,Senior,38,12,34823,4,2,2,5,4,5,38,Yes,Yes,1,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1805,Sales,Senior,41,10,155156,5,3,2,4,1,3,42,Yes,No,4,4,66.67,99.67,High Burnout,Medium Engagement,Needs Attention
+1806,Marketing,Senior,22,3,100456,2,1,5,1,1,1,36,No,No,4,1,46.67,65.67,High Burnout,Medium Engagement,Needs Attention
+1807,Engineering,Entry,58,6,49585,4,4,5,4,3,1,48,No,Yes,3,1,66.67,43.67,Medium Burnout,Medium Engagement,Needs Attention
+1808,Finance,Entry,56,7,133775,5,4,3,4,5,1,59,No,No,2,5,80.0,51.0,Medium Burnout,High Engagement,Moderate
+1809,Customer Support,Mid,57,15,47272,5,5,5,2,1,5,49,Yes,No,1,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1810,Engineering,Mid,35,10,56619,1,2,5,4,1,4,62,No,Yes,5,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1811,Customer Support,Mid,48,13,105069,2,5,5,1,2,5,43,Yes,Yes,4,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1812,Engineering,Manager,38,14,69895,5,1,3,1,1,3,36,No,No,5,3,60.0,95.67,High Burnout,Medium Engagement,Needs Attention
+1813,Marketing,Manager,54,10,33720,5,4,3,3,5,4,51,No,Yes,5,1,73.33,90.67,High Burnout,High Engagement,Moderate
+1814,Finance,Manager,42,0,49267,4,1,4,5,2,4,60,No,No,5,5,83.33,100.0,High Burnout,High Engagement,Moderate
+1815,Finance,Senior,31,4,45696,1,1,4,4,4,3,44,No,No,3,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1816,HR,Mid,33,14,59968,3,2,4,5,4,4,43,Yes,Yes,5,3,80.0,100.0,High Burnout,High Engagement,Moderate
+1817,Customer Support,Mid,24,2,83364,1,1,4,5,2,2,36,Yes,Yes,2,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1818,Engineering,Mid,42,0,53345,3,4,2,5,2,3,58,No,No,2,4,60.0,80.33,High Burnout,Medium Engagement,Needs Attention
+1819,Engineering,Senior,27,11,81567,2,5,2,5,2,3,64,Yes,No,1,5,56.67,94.33,High Burnout,Medium Engagement,Needs Attention
+1820,Sales,Entry,44,2,121229,2,4,4,1,3,2,53,No,No,1,4,50.0,62.0,High Burnout,Medium Engagement,Needs Attention
+1821,HR,Mid,24,13,91607,5,2,4,4,5,5,51,Yes,Yes,5,2,83.33,100.0,High Burnout,High Engagement,Moderate
+1822,Sales,Entry,48,5,49385,2,4,1,3,5,5,45,No,No,5,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1823,Sales,Mid,35,13,113658,5,3,2,5,4,5,51,No,Yes,3,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1824,Sales,Senior,21,6,96900,1,5,1,3,4,4,44,Yes,No,5,2,53.33,96.0,High Burnout,Medium Engagement,Needs Attention
+1825,Customer Support,Senior,23,15,98244,2,3,1,1,4,2,52,No,No,5,4,56.67,71.33,High Burnout,Medium Engagement,Needs Attention
+1826,Customer Support,Entry,34,7,95425,1,3,5,1,1,3,57,Yes,Yes,5,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1827,Marketing,Manager,58,12,108518,1,2,3,2,4,3,62,Yes,No,4,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1828,Marketing,Senior,21,10,112844,2,1,2,5,2,3,40,No,Yes,4,2,56.67,98.33,High Burnout,Medium Engagement,Needs Attention
+1829,Sales,Entry,58,3,62919,1,3,4,2,4,4,50,No,No,3,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1830,HR,Entry,58,2,120697,2,4,4,3,2,4,62,No,Yes,3,5,63.33,98.0,High Burnout,Medium Engagement,Needs Attention
+1831,Engineering,Entry,41,4,87196,2,1,3,4,3,5,61,No,No,2,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1832,Customer Support,Entry,49,8,145600,2,4,2,2,1,4,52,Yes,Yes,3,2,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1833,HR,Manager,25,12,130625,3,4,4,1,1,5,54,No,No,2,3,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1834,Finance,Mid,30,5,109401,1,1,4,5,5,5,52,No,No,5,2,73.33,100.0,High Burnout,High Engagement,Moderate
+1835,Customer Support,Senior,48,14,30495,4,1,5,3,3,3,35,Yes,No,3,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1836,Customer Support,Mid,41,8,74755,2,4,1,1,2,4,62,No,No,3,4,43.33,98.0,High Burnout,Medium Engagement,Needs Attention
+1837,Marketing,Entry,27,14,97684,1,2,4,4,3,5,37,No,No,3,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1838,Engineering,Mid,23,5,63324,5,5,2,5,1,2,49,Yes,Yes,2,3,60.0,69.33,High Burnout,Medium Engagement,Needs Attention
+1839,Engineering,Entry,40,1,108929,2,5,3,4,2,2,54,Yes,Yes,2,1,46.67,72.67,High Burnout,Medium Engagement,Needs Attention
+1840,Finance,Mid,39,12,31552,2,2,5,4,3,4,44,Yes,No,1,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1841,Finance,Manager,55,4,81272,4,1,2,5,1,3,55,No,Yes,2,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1842,Customer Support,Mid,24,11,65853,3,4,5,5,2,3,39,No,Yes,2,4,70.0,67.67,High Burnout,Medium Engagement,Moderate
+1843,Sales,Mid,25,10,148192,3,5,1,4,2,5,49,Yes,Yes,4,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1844,Marketing,Entry,21,8,62924,2,4,4,3,1,4,57,Yes,No,3,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1845,Marketing,Entry,24,7,104462,1,2,2,5,2,2,48,No,Yes,2,4,53.33,78.67,High Burnout,Medium Engagement,Needs Attention
+1846,Customer Support,Entry,32,6,126387,5,4,3,1,1,5,49,No,Yes,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1847,HR,Mid,47,0,53889,5,2,1,2,4,5,44,No,Yes,3,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1848,Sales,Entry,43,3,135466,1,1,1,3,4,1,58,No,No,4,5,60.0,80.33,High Burnout,Medium Engagement,Needs Attention
+1849,Customer Support,Mid,45,11,84675,2,2,5,5,2,4,43,No,No,3,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1850,Sales,Mid,41,6,152231,5,2,1,5,2,5,46,No,No,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1851,Sales,Mid,44,15,103591,3,5,2,3,1,2,41,No,No,3,2,46.67,44.0,Medium Burnout,Medium Engagement,Needs Attention
+1852,Sales,Entry,45,10,100190,1,4,5,2,2,1,39,No,Yes,1,2,43.33,37.67,Medium Burnout,Medium Engagement,Moderate
+1853,Customer Support,Entry,52,6,52634,4,5,1,4,5,2,59,Yes,Yes,1,1,53.33,76.0,High Burnout,Medium Engagement,Needs Attention
+1854,Marketing,Manager,52,14,62363,2,3,3,1,4,3,58,Yes,Yes,4,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1855,Marketing,Senior,25,5,93752,1,2,2,5,2,1,44,No,No,2,1,43.33,61.0,High Burnout,Medium Engagement,Needs Attention
+1856,Sales,Mid,56,7,107004,5,3,3,2,2,1,59,Yes,No,4,5,70.0,81.0,High Burnout,Medium Engagement,Moderate
+1857,HR,Entry,59,10,86398,2,5,3,1,3,5,60,Yes,Yes,1,1,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+1858,Engineering,Manager,36,12,128458,3,4,5,3,2,3,42,No,No,2,2,56.67,69.67,High Burnout,Medium Engagement,Needs Attention
+1859,Customer Support,Senior,53,5,70718,2,5,4,5,5,5,56,Yes,No,3,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1860,Engineering,Mid,41,9,143627,2,4,5,4,4,4,54,Yes,No,2,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1861,HR,Senior,29,15,112916,3,4,2,3,3,2,59,No,No,5,2,60.0,66.0,High Burnout,Medium Engagement,Needs Attention
+1862,Customer Support,Entry,26,2,56870,3,1,2,5,1,2,50,No,No,2,4,56.67,90.0,High Burnout,Medium Engagement,Needs Attention
+1863,Sales,Mid,55,3,67394,2,2,5,2,1,5,46,Yes,No,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1864,Marketing,Mid,59,13,82057,3,5,4,1,4,2,43,No,No,5,5,73.33,45.33,Medium Burnout,High Engagement,Moderate
+1865,Engineering,Entry,42,2,109795,1,4,5,1,1,2,44,Yes,No,4,5,56.67,76.0,High Burnout,Medium Engagement,Needs Attention
+1866,Finance,Manager,25,0,110409,3,5,2,5,5,4,50,No,No,2,1,60.0,80.0,High Burnout,Medium Engagement,Needs Attention
+1867,Finance,Senior,43,14,43016,3,5,4,3,2,3,44,Yes,No,4,5,70.0,81.0,High Burnout,Medium Engagement,Moderate
+1868,HR,Mid,37,9,72137,2,4,2,4,4,1,43,No,No,2,5,63.33,40.33,Medium Burnout,Medium Engagement,Needs Attention
+1869,Sales,Entry,32,4,30153,1,3,4,2,3,5,64,Yes,Yes,1,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1870,Engineering,Entry,43,14,37853,4,2,4,5,2,5,60,Yes,No,1,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1871,Sales,Mid,36,0,42379,4,2,5,2,1,4,37,Yes,Yes,3,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1872,Engineering,Senior,23,0,45792,5,1,5,1,1,4,61,No,No,1,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1873,HR,Entry,50,1,151169,3,1,5,4,3,1,62,No,No,5,5,83.33,83.0,High Burnout,High Engagement,Moderate
+1874,HR,Mid,42,12,68367,3,1,4,2,5,3,53,Yes,No,5,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1875,Finance,Senior,29,3,48100,1,2,4,5,3,5,45,No,No,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1876,Sales,Entry,49,5,156082,4,3,2,4,4,4,40,Yes,No,4,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1877,Customer Support,Senior,57,7,143089,5,2,3,3,3,5,40,No,Yes,5,1,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1878,Finance,Entry,43,12,93456,1,2,5,5,1,2,49,Yes,No,2,1,50.0,99.33,High Burnout,Medium Engagement,Needs Attention
+1879,Sales,Manager,33,15,41049,3,2,2,2,5,5,63,No,No,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1880,Finance,Mid,52,2,30786,4,2,2,4,5,3,49,No,Yes,1,2,60.0,94.33,High Burnout,Medium Engagement,Needs Attention
+1881,Customer Support,Entry,43,0,99904,5,3,1,5,3,3,47,No,No,2,5,70.0,83.0,High Burnout,Medium Engagement,Moderate
+1882,Marketing,Mid,37,2,60699,2,1,5,4,4,5,56,Yes,Yes,4,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1883,Marketing,Mid,41,11,152784,4,5,2,4,1,2,39,Yes,No,3,5,63.33,62.67,High Burnout,Medium Engagement,Needs Attention
+1884,Marketing,Senior,22,2,77691,5,1,1,4,2,3,48,No,Yes,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1885,Marketing,Senior,57,4,67040,1,1,5,2,5,4,55,Yes,No,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1886,Engineering,Mid,26,10,148455,2,5,4,5,3,5,36,No,Yes,4,5,76.67,85.67,High Burnout,High Engagement,Moderate
+1887,Marketing,Entry,38,11,122990,5,2,1,1,4,2,64,Yes,No,3,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1888,Customer Support,Entry,50,11,87986,5,3,4,1,4,4,57,Yes,Yes,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1889,HR,Entry,42,3,68762,3,3,3,2,1,5,46,Yes,Yes,2,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1890,HR,Mid,53,12,53600,4,1,3,2,5,2,54,No,No,2,4,66.67,92.67,High Burnout,Medium Engagement,Needs Attention
+1891,Engineering,Senior,50,3,124774,3,5,3,4,1,4,48,No,Yes,4,5,66.67,78.67,High Burnout,Medium Engagement,Needs Attention
+1892,Marketing,Mid,37,8,120777,2,4,3,5,2,3,53,No,No,4,4,66.67,77.0,High Burnout,Medium Engagement,Needs Attention
+1893,Marketing,Entry,52,6,49810,5,2,2,5,2,5,58,Yes,Yes,4,5,76.67,100.0,High Burnout,High Engagement,Moderate
+1894,Marketing,Mid,34,3,115703,3,1,3,3,2,5,54,No,Yes,4,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1895,Finance,Senior,30,2,117347,4,3,2,3,4,3,49,No,No,3,3,63.33,84.33,High Burnout,Medium Engagement,Needs Attention
+1896,Sales,Senior,56,5,135315,2,5,2,1,5,1,61,No,No,3,4,56.67,42.33,Medium Burnout,Medium Engagement,Needs Attention
+1897,Finance,Senior,54,2,87204,1,5,5,3,1,4,54,Yes,No,5,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1898,Sales,Entry,29,5,50085,3,1,2,3,1,3,58,No,No,3,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1899,Marketing,Entry,48,10,76854,2,4,2,1,2,5,51,No,Yes,2,4,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1900,Marketing,Senior,31,12,104797,1,3,3,1,5,4,59,No,Yes,5,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1901,Finance,Senior,34,10,114269,3,1,2,3,5,4,48,Yes,Yes,3,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1902,Finance,Mid,59,12,69779,2,4,4,5,3,1,57,Yes,No,4,4,73.33,69.67,High Burnout,High Engagement,Moderate
+1903,Sales,Senior,39,12,86207,2,5,3,3,5,5,62,Yes,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1904,HR,Senior,35,11,124615,3,2,1,4,5,2,52,No,Yes,1,3,56.67,81.33,High Burnout,Medium Engagement,Needs Attention
+1905,Sales,Mid,48,8,63980,2,3,3,4,1,1,61,Yes,Yes,5,1,53.33,82.33,High Burnout,Medium Engagement,Needs Attention
+1906,Finance,Senior,44,5,86117,5,3,2,4,5,1,62,No,Yes,3,2,70.0,63.0,High Burnout,Medium Engagement,Moderate
+1907,Customer Support,Mid,28,11,44141,3,4,4,2,5,2,56,No,No,3,4,70.0,64.0,High Burnout,Medium Engagement,Moderate
+1908,Finance,Mid,29,3,39344,2,1,3,4,1,2,58,No,No,2,3,50.0,95.33,High Burnout,Medium Engagement,Needs Attention
+1909,Customer Support,Mid,53,14,135008,1,5,4,5,5,1,61,No,Yes,4,1,66.67,42.33,Medium Burnout,Medium Engagement,Needs Attention
+1910,Engineering,Senior,53,4,45896,1,4,1,2,1,4,39,No,No,4,3,40.0,82.67,High Burnout,Low Engagement,Needs Attention
+1911,Finance,Senior,39,12,119353,5,2,1,2,3,3,56,No,Yes,2,5,60.0,99.0,High Burnout,Medium Engagement,Needs Attention
+1912,Engineering,Senior,23,5,59813,3,2,5,4,4,3,46,No,No,2,1,63.33,92.33,High Burnout,Medium Engagement,Needs Attention
+1913,HR,Entry,30,10,114431,2,2,5,3,1,1,44,No,No,1,5,56.67,61.0,High Burnout,Medium Engagement,Needs Attention
+1914,Sales,Senior,21,2,95679,2,4,3,1,1,4,42,No,Yes,5,3,50.0,84.67,High Burnout,Medium Engagement,Needs Attention
+1915,Customer Support,Senior,49,7,40681,1,5,5,3,5,2,63,Yes,No,4,4,73.33,78.67,High Burnout,High Engagement,Moderate
+1916,Sales,Senior,54,3,102903,5,3,4,3,1,1,40,No,No,2,4,63.33,48.33,Medium Burnout,Medium Engagement,Needs Attention
+1917,Engineering,Senior,33,7,33228,1,1,5,2,2,5,62,Yes,Yes,2,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1918,Customer Support,Senior,21,9,34582,1,3,4,2,2,4,59,Yes,No,5,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1919,Sales,Mid,54,9,108683,5,5,5,2,3,5,49,Yes,No,2,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1920,Finance,Mid,49,15,41397,3,3,5,5,1,5,46,Yes,No,1,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1921,Marketing,Entry,33,2,68799,2,4,5,5,5,1,59,No,Yes,5,1,76.67,51.0,Medium Burnout,High Engagement,Moderate
+1922,Engineering,Mid,49,9,67011,3,2,2,1,5,4,59,No,Yes,1,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1923,Sales,Mid,59,6,109183,4,5,2,2,4,5,40,No,No,3,3,60.0,88.33,High Burnout,Medium Engagement,Needs Attention
+1924,Engineering,Senior,44,10,123254,4,5,5,4,3,4,46,No,No,4,5,83.33,77.33,High Burnout,High Engagement,Moderate
+1925,Engineering,Entry,46,12,74264,4,3,4,2,5,3,49,Yes,Yes,2,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1926,Customer Support,Entry,37,11,72317,5,4,3,5,4,5,46,Yes,No,5,5,90.0,100.0,High Burnout,High Engagement,Moderate
+1927,Customer Support,Senior,27,8,77914,1,3,1,2,5,5,43,No,Yes,1,3,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1928,Marketing,Entry,33,3,114633,3,3,2,5,4,4,53,No,Yes,4,4,73.33,100.0,High Burnout,High Engagement,Moderate
+1929,Finance,Entry,25,7,132489,2,5,5,2,2,3,55,Yes,No,4,3,60.0,88.33,High Burnout,Medium Engagement,Needs Attention
+1930,Engineering,Entry,46,2,154237,4,3,1,4,2,5,36,No,Yes,2,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1931,Sales,Entry,23,15,75254,3,2,2,1,5,1,62,No,Yes,4,4,63.33,73.0,High Burnout,Medium Engagement,Needs Attention
+1932,HR,Entry,27,6,70096,4,3,3,4,3,4,47,No,No,2,4,66.67,98.0,High Burnout,Medium Engagement,Needs Attention
+1933,Engineering,Mid,59,2,83785,4,2,4,5,1,4,47,No,Yes,3,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+1934,Engineering,Mid,21,11,82344,2,5,5,3,3,5,42,No,No,2,3,60.0,89.67,High Burnout,Medium Engagement,Needs Attention
+1935,Marketing,Senior,37,14,144988,5,4,3,4,3,3,61,No,No,1,2,60.0,82.33,High Burnout,Medium Engagement,Needs Attention
+1936,Finance,Mid,45,14,112643,1,2,2,2,1,5,47,No,No,4,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1937,HR,Senior,23,6,150382,5,4,5,1,2,2,38,Yes,Yes,4,3,66.67,72.0,High Burnout,Medium Engagement,Needs Attention
+1938,Customer Support,Entry,35,13,98546,3,4,1,2,2,5,40,No,Yes,4,1,43.33,98.33,High Burnout,Medium Engagement,Needs Attention
+1939,Customer Support,Entry,49,10,101091,5,2,4,2,1,2,40,No,No,2,1,50.0,73.33,High Burnout,Medium Engagement,Needs Attention
+1940,Sales,Senior,52,9,95603,3,5,2,4,4,1,55,Yes,No,5,3,70.0,58.33,Medium Burnout,Medium Engagement,Moderate
+1941,HR,Entry,46,9,58412,3,1,4,1,3,4,46,Yes,No,2,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1942,Customer Support,Mid,36,10,140489,1,4,5,3,5,4,46,No,Yes,1,1,53.33,87.33,High Burnout,Medium Engagement,Needs Attention
+1943,Sales,Mid,45,10,81658,2,4,3,2,2,3,51,No,No,2,5,53.33,75.67,High Burnout,Medium Engagement,Needs Attention
+1944,Finance,Mid,48,5,129841,1,5,4,1,5,5,61,No,Yes,4,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1945,Sales,Entry,29,1,79549,5,5,1,3,1,1,41,Yes,No,3,3,53.33,49.0,Medium Burnout,Medium Engagement,Needs Attention
+1946,Customer Support,Mid,21,10,157595,3,3,2,2,5,2,60,No,No,1,4,56.67,76.67,High Burnout,Medium Engagement,Needs Attention
+1947,Marketing,Mid,49,2,41549,4,5,1,1,5,3,49,No,Yes,3,1,50.0,64.33,High Burnout,Medium Engagement,Needs Attention
+1948,Marketing,Entry,42,15,101216,4,4,4,4,3,1,58,Yes,No,1,5,70.0,70.33,High Burnout,Medium Engagement,Moderate
+1949,Marketing,Senior,36,5,55739,3,2,3,2,1,1,51,No,Yes,1,4,46.67,65.67,High Burnout,Medium Engagement,Needs Attention
+1950,Customer Support,Senior,27,13,51209,1,1,3,2,5,2,44,Yes,No,4,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1951,Marketing,Manager,34,3,137051,2,3,1,1,2,2,57,Yes,No,2,2,33.33,94.67,High Burnout,Low Engagement,Critical Attention
+1952,HR,Entry,49,5,117968,1,2,5,2,1,4,54,No,Yes,4,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1953,Finance,Senior,39,0,45116,3,1,5,3,2,5,40,No,No,4,2,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1954,Sales,Mid,39,9,50045,3,1,3,2,4,3,43,Yes,No,4,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1955,Sales,Mid,22,11,56327,2,1,1,5,5,5,49,No,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1956,Customer Support,Entry,35,0,65709,5,2,1,3,1,3,50,Yes,Yes,1,3,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1957,Marketing,Senior,23,2,73617,5,3,1,1,2,1,55,Yes,No,5,5,63.33,78.33,High Burnout,Medium Engagement,Needs Attention
+1958,Marketing,Entry,31,7,90139,2,3,4,3,5,2,42,No,Yes,2,1,56.67,64.67,High Burnout,Medium Engagement,Needs Attention
+1959,Engineering,Mid,50,7,56905,5,1,5,5,3,2,50,No,No,4,4,86.67,90.0,High Burnout,High Engagement,Moderate
+1960,Finance,Entry,38,10,94148,4,2,5,5,2,1,39,Yes,No,1,5,73.33,77.67,High Burnout,High Engagement,Moderate
+1961,HR,Senior,22,3,102603,5,1,4,2,2,1,52,No,Yes,2,3,60.0,76.33,High Burnout,Medium Engagement,Needs Attention
+1962,Sales,Senior,52,5,128095,5,5,2,2,4,3,54,Yes,Yes,5,1,63.33,87.67,High Burnout,Medium Engagement,Needs Attention
+1963,Engineering,Senior,28,14,149779,5,3,4,4,3,1,48,No,No,5,3,80.0,53.67,Medium Burnout,High Engagement,Moderate
+1964,Engineering,Entry,42,7,72919,4,4,1,3,4,3,36,No,No,4,4,66.67,65.67,High Burnout,Medium Engagement,Needs Attention
+1965,Customer Support,Entry,26,6,113521,5,1,4,4,3,5,57,No,No,5,1,73.33,100.0,High Burnout,High Engagement,Moderate
+1966,Sales,Mid,32,10,122905,4,5,1,5,2,2,57,Yes,Yes,5,4,70.0,74.67,High Burnout,Medium Engagement,Moderate
+1967,Customer Support,Mid,56,6,113400,2,3,3,2,4,2,64,No,No,2,5,60.0,79.33,High Burnout,Medium Engagement,Needs Attention
+1968,HR,Entry,35,12,118150,1,2,1,2,5,2,37,No,Yes,2,5,53.33,71.33,High Burnout,Medium Engagement,Needs Attention
+1969,Engineering,Senior,48,3,88446,2,3,5,2,3,5,48,No,No,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1970,Engineering,Manager,38,8,82428,1,2,4,1,2,5,63,No,No,1,3,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+1971,Finance,Senior,22,11,77894,2,2,1,5,1,4,41,No,No,4,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1972,HR,Senior,33,9,111149,1,1,2,2,3,3,49,No,Yes,3,2,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1973,Engineering,Manager,35,5,36447,1,1,3,5,3,3,51,No,No,5,5,73.33,100.0,High Burnout,High Engagement,Moderate
+1974,HR,Entry,40,13,35499,3,3,2,2,5,4,35,No,No,1,1,46.67,90.0,High Burnout,Medium Engagement,Needs Attention
+1975,Sales,Mid,49,11,69041,1,5,2,3,3,2,43,No,No,2,4,50.0,45.33,Medium Burnout,Medium Engagement,Needs Attention
+1976,Marketing,Manager,49,10,61315,1,3,2,5,3,3,56,No,Yes,3,5,63.33,89.0,High Burnout,Medium Engagement,Needs Attention
+1977,Engineering,Entry,23,2,31299,3,4,3,4,5,3,63,No,No,3,5,76.67,83.67,High Burnout,High Engagement,Moderate
+1978,Finance,Senior,39,4,150506,5,2,3,1,5,2,48,No,No,5,4,76.67,78.67,High Burnout,High Engagement,Moderate
+1979,Sales,Mid,23,4,135005,5,2,3,4,4,1,50,No,Yes,2,4,73.33,65.0,High Burnout,High Engagement,Moderate
+1980,HR,Mid,34,13,34994,3,1,3,5,2,1,62,Yes,Yes,1,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1981,Customer Support,Senior,24,4,125414,4,5,2,2,2,4,55,No,Yes,2,4,53.33,83.33,High Burnout,Medium Engagement,Needs Attention
+1982,Sales,Manager,31,7,111163,1,1,5,5,4,5,47,No,Yes,5,3,76.67,100.0,High Burnout,High Engagement,Moderate
+1983,Engineering,Senior,51,15,156759,1,4,5,1,2,3,40,Yes,Yes,3,5,56.67,88.33,High Burnout,Medium Engagement,Needs Attention
+1984,HR,Entry,52,8,37489,3,3,3,5,3,3,56,Yes,No,5,4,76.67,100.0,High Burnout,High Engagement,Moderate
+1985,Marketing,Senior,47,12,121647,3,3,4,2,4,4,35,No,No,4,1,60.0,90.0,High Burnout,Medium Engagement,Needs Attention
+1986,Sales,Entry,50,8,62355,4,5,1,4,4,4,55,No,No,3,4,66.67,83.33,High Burnout,Medium Engagement,Needs Attention
+1987,Engineering,Mid,22,12,103805,5,1,4,3,2,3,59,Yes,Yes,5,5,80.0,100.0,High Burnout,High Engagement,Moderate
+1988,Finance,Mid,29,5,98367,2,1,4,4,1,2,38,No,No,1,2,46.67,82.0,High Burnout,Medium Engagement,Needs Attention
+1989,Customer Support,Mid,48,5,139906,5,4,4,2,2,2,37,No,No,1,4,60.0,51.33,Medium Burnout,Medium Engagement,Needs Attention
+1990,HR,Mid,51,8,147409,1,3,5,2,1,5,51,No,Yes,1,3,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+1991,Sales,Manager,54,3,107355,3,1,1,1,4,3,64,Yes,Yes,4,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+1992,Sales,Senior,35,5,146220,4,5,4,5,1,3,36,No,No,2,1,56.67,55.67,Medium Burnout,Medium Engagement,Needs Attention
+1993,Marketing,Mid,45,3,120349,5,3,3,5,3,3,53,No,No,1,5,73.33,87.0,High Burnout,High Engagement,Moderate
+1994,Marketing,Entry,56,10,117173,4,4,5,4,5,3,54,Yes,No,4,2,80.0,97.67,High Burnout,High Engagement,Moderate
+1995,Finance,Manager,28,15,31996,5,5,3,3,1,4,57,Yes,No,1,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+1996,Customer Support,Manager,29,0,149999,1,2,3,3,5,1,56,No,Yes,4,2,60.0,69.0,High Burnout,Medium Engagement,Needs Attention
+1997,Finance,Senior,57,6,74387,2,4,4,1,3,3,61,No,No,1,2,43.33,82.33,High Burnout,Medium Engagement,Needs Attention
+1998,Engineering,Entry,59,13,144965,4,5,3,2,5,1,42,Yes,Yes,2,3,63.33,49.67,Medium Burnout,Medium Engagement,Needs Attention
+1999,Engineering,Entry,52,9,33089,4,1,1,1,3,2,64,No,Yes,5,4,60.0,99.33,High Burnout,Medium Engagement,Needs Attention
+2000,Finance,Entry,37,10,128827,2,2,3,5,5,5,59,No,Yes,1,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2001,Customer Support,Entry,55,11,50659,4,4,4,2,5,2,49,No,Yes,5,3,76.67,59.33,Medium Burnout,High Engagement,Moderate
+2002,Finance,Mid,57,5,75178,4,1,3,1,2,3,40,No,No,1,3,46.67,98.33,High Burnout,Medium Engagement,Needs Attention
+2003,Customer Support,Manager,39,8,150053,5,2,5,4,1,2,57,No,No,2,1,60.0,84.67,High Burnout,Medium Engagement,Needs Attention
+2004,Customer Support,Mid,49,6,125965,5,3,5,5,5,4,54,No,No,5,4,96.67,100.0,High Burnout,High Engagement,Moderate
+2005,HR,Entry,27,12,111268,2,1,5,3,4,1,36,Yes,Yes,4,4,73.33,85.67,High Burnout,High Engagement,Moderate
+2006,Customer Support,Entry,48,6,115042,1,5,2,1,2,3,59,Yes,No,1,1,26.67,91.0,High Burnout,Low Engagement,Critical Attention
+2007,Marketing,Entry,29,1,136471,4,4,5,5,1,4,59,No,No,1,3,63.33,96.0,High Burnout,Medium Engagement,Needs Attention
+2008,Customer Support,Entry,48,11,100726,1,2,5,5,2,1,49,Yes,No,4,3,66.67,84.33,High Burnout,Medium Engagement,Needs Attention
+2009,Customer Support,Entry,26,10,100111,2,1,2,3,1,4,54,No,No,2,2,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+2010,Customer Support,Entry,49,14,136031,2,3,5,3,3,2,46,Yes,No,3,2,60.0,87.33,High Burnout,Medium Engagement,Needs Attention
+2011,Engineering,Senior,37,8,143682,5,4,4,3,5,3,37,Yes,Yes,1,5,76.67,86.33,High Burnout,High Engagement,Moderate
+2012,Marketing,Manager,36,9,64565,4,4,5,1,4,2,44,No,No,4,2,66.67,56.0,Medium Burnout,Medium Engagement,Needs Attention
+2013,Marketing,Mid,43,8,130435,3,1,5,3,2,5,48,No,No,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2014,Finance,Mid,51,5,119242,2,3,2,4,2,3,61,No,No,1,1,40.0,92.33,High Burnout,Low Engagement,Needs Attention
+2015,HR,Senior,23,12,143204,4,2,4,5,2,2,56,Yes,No,5,3,76.67,100.0,High Burnout,High Engagement,Moderate
+2016,Customer Support,Entry,41,2,159642,1,1,3,3,2,3,64,Yes,Yes,4,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2017,Sales,Entry,46,0,52884,5,2,1,5,5,1,48,No,No,5,2,76.67,63.67,High Burnout,High Engagement,Moderate
+2018,HR,Senior,56,3,47199,1,4,4,2,1,3,37,No,No,2,5,50.0,66.33,High Burnout,Medium Engagement,Needs Attention
+2019,HR,Entry,57,13,90038,2,2,3,2,5,3,35,No,No,3,1,53.33,85.0,High Burnout,Medium Engagement,Needs Attention
+2020,Marketing,Mid,42,13,87786,2,3,4,3,3,1,54,Yes,Yes,4,1,56.67,77.67,High Burnout,Medium Engagement,Needs Attention
+2021,HR,Mid,32,2,139636,1,5,3,5,5,2,35,No,No,1,5,66.67,40.0,Medium Burnout,Medium Engagement,Needs Attention
+2022,Customer Support,Mid,33,13,134970,2,3,3,2,5,3,36,No,Yes,1,5,60.0,75.67,High Burnout,Medium Engagement,Needs Attention
+2023,Customer Support,Mid,31,11,79294,4,2,4,3,3,4,53,No,No,3,5,73.33,100.0,High Burnout,High Engagement,Moderate
+2024,Engineering,Senior,36,0,108015,2,1,2,5,5,3,58,No,No,5,3,73.33,100.0,High Burnout,High Engagement,Moderate
+2025,Customer Support,Entry,28,2,64178,5,4,4,3,1,2,44,No,Yes,5,4,73.33,56.0,Medium Burnout,High Engagement,Moderate
+2026,Customer Support,Entry,22,15,42665,4,5,4,5,4,1,38,No,Yes,4,2,76.67,27.0,Low Burnout,High Engagement,Healthy
+2027,Marketing,Senior,50,13,159604,3,1,3,2,3,2,38,No,Yes,4,2,56.67,82.0,High Burnout,Medium Engagement,Needs Attention
+2028,Customer Support,Mid,50,13,30534,2,1,1,3,2,5,47,No,No,5,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2029,Engineering,Entry,32,3,121828,2,3,3,2,1,3,60,Yes,No,4,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2030,Sales,Senior,30,12,66132,5,2,5,3,4,3,43,Yes,No,5,5,90.0,100.0,High Burnout,High Engagement,Moderate
+2031,Marketing,Mid,31,12,145720,5,3,4,1,1,1,41,No,Yes,3,5,63.33,49.0,Medium Burnout,Medium Engagement,Needs Attention
+2032,Sales,Senior,35,14,66110,1,2,4,2,1,3,50,Yes,No,4,3,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2033,Marketing,Senior,36,13,88754,1,3,2,2,2,4,52,Yes,No,5,3,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2034,Finance,Mid,37,7,93580,1,1,3,4,4,4,37,No,Yes,4,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2035,HR,Mid,46,8,52469,5,4,2,2,1,2,54,No,No,1,3,46.67,62.67,High Burnout,Medium Engagement,Needs Attention
+2036,Finance,Manager,22,2,94016,1,2,4,5,2,1,54,No,Yes,1,1,46.67,67.67,High Burnout,Medium Engagement,Needs Attention
+2037,Customer Support,Entry,32,5,76233,1,5,3,3,3,5,44,No,No,2,3,50.0,91.0,High Burnout,Medium Engagement,Needs Attention
+2038,Sales,Senior,46,9,132804,3,5,3,1,2,2,58,No,Yes,5,3,56.67,55.33,Medium Burnout,Medium Engagement,Needs Attention
+2039,Customer Support,Entry,43,10,159863,1,1,5,5,5,1,60,No,Yes,2,3,70.0,81.67,High Burnout,Medium Engagement,Moderate
+2040,HR,Mid,38,14,96708,2,3,5,5,2,1,64,No,No,5,2,70.0,64.33,High Burnout,Medium Engagement,Moderate
+2041,Marketing,Mid,52,4,88232,5,3,1,5,2,2,60,Yes,No,4,2,63.33,96.67,High Burnout,Medium Engagement,Needs Attention
+2042,HR,Manager,58,15,123450,4,1,5,5,2,2,56,Yes,Yes,5,2,76.67,100.0,High Burnout,High Engagement,Moderate
+2043,Engineering,Manager,23,5,116437,3,5,3,1,1,3,50,No,No,1,4,43.33,65.0,High Burnout,Medium Engagement,Needs Attention
+2044,HR,Entry,58,3,136311,5,5,5,4,4,5,37,Yes,No,4,1,76.67,100.0,High Burnout,High Engagement,Moderate
+2045,Engineering,Entry,23,9,64409,5,3,1,2,2,4,45,Yes,Yes,1,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2046,HR,Senior,50,5,145159,2,2,4,5,2,3,59,Yes,No,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2047,Engineering,Mid,21,15,49324,1,4,5,2,5,1,44,No,No,5,2,66.67,41.0,Medium Burnout,Medium Engagement,Needs Attention
+2048,Sales,Entry,50,6,38738,2,2,3,2,5,5,50,No,No,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2049,Customer Support,Senior,52,8,133030,1,5,4,5,3,5,42,No,Yes,1,3,56.67,89.67,High Burnout,Medium Engagement,Needs Attention
+2050,Customer Support,Mid,48,9,140093,1,2,3,4,3,2,43,Yes,No,3,4,60.0,95.33,High Burnout,Medium Engagement,Needs Attention
+2051,Finance,Manager,41,6,54054,5,4,4,2,5,5,49,No,No,5,5,86.67,100.0,High Burnout,High Engagement,Moderate
+2052,Customer Support,Entry,33,5,59709,1,2,3,3,4,5,55,Yes,No,3,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2053,Marketing,Mid,47,0,139321,3,2,5,2,3,1,37,No,Yes,4,5,73.33,56.33,Medium Burnout,High Engagement,Moderate
+2054,HR,Mid,56,1,115643,3,2,5,5,4,3,38,No,No,3,3,76.67,87.0,High Burnout,High Engagement,Moderate
+2055,Finance,Senior,27,0,158805,3,2,1,1,5,5,64,No,Yes,1,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2056,Marketing,Mid,42,8,30363,5,1,4,2,3,2,47,No,No,2,1,56.67,88.0,High Burnout,Medium Engagement,Needs Attention
+2057,Marketing,Mid,30,9,40358,2,5,1,4,2,3,46,No,No,2,5,53.33,62.33,High Burnout,Medium Engagement,Needs Attention
+2058,Engineering,Entry,59,9,131613,4,4,2,3,5,2,55,No,Yes,1,5,66.67,63.33,High Burnout,Medium Engagement,Needs Attention
+2059,Customer Support,Senior,35,8,145233,1,5,5,3,3,5,43,No,Yes,2,1,50.0,90.33,High Burnout,Medium Engagement,Needs Attention
+2060,Sales,Mid,35,6,33240,4,1,4,1,4,3,59,No,No,1,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2061,Sales,Entry,24,15,102201,2,1,1,1,4,5,48,No,No,5,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2062,Finance,Senior,52,12,75689,2,1,1,2,3,1,53,No,Yes,3,1,40.0,77.0,High Burnout,Low Engagement,Needs Attention
+2063,Sales,Entry,43,1,31936,5,1,2,5,4,3,41,No,No,2,4,73.33,99.0,High Burnout,High Engagement,Moderate
+2064,HR,Entry,26,5,142272,3,2,1,4,3,2,50,No,No,5,3,63.33,80.0,High Burnout,Medium Engagement,Needs Attention
+2065,Sales,Senior,44,10,121074,3,5,3,3,3,1,56,Yes,No,2,3,56.67,59.0,Medium Burnout,Medium Engagement,Needs Attention
+2066,Finance,Mid,40,3,73965,2,3,5,1,4,4,54,No,No,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2067,Sales,Senior,57,0,107534,5,4,1,4,1,2,39,No,Yes,1,2,46.67,52.67,Medium Burnout,Medium Engagement,Needs Attention
+2068,HR,Entry,40,0,30882,5,1,1,5,2,5,64,No,No,1,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2069,Engineering,Senior,32,11,50224,1,5,2,3,5,2,44,Yes,Yes,5,3,63.33,66.0,High Burnout,Medium Engagement,Needs Attention
+2070,Finance,Entry,53,4,135227,3,1,3,3,2,4,52,No,Yes,4,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2071,Engineering,Mid,48,11,153750,2,1,1,5,5,2,45,No,Yes,3,2,60.0,86.67,High Burnout,Medium Engagement,Needs Attention
+2072,Engineering,Manager,28,1,149299,4,1,5,3,5,1,41,No,No,4,5,86.67,69.0,High Burnout,High Engagement,Moderate
+2073,Engineering,Senior,21,3,155865,3,1,5,5,2,2,48,No,No,4,1,66.67,88.67,High Burnout,Medium Engagement,Needs Attention
+2074,Marketing,Mid,57,0,142012,1,1,1,3,3,3,54,No,Yes,3,2,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2075,Customer Support,Mid,42,3,153745,5,4,3,2,4,4,52,No,No,3,2,63.33,91.33,High Burnout,Medium Engagement,Needs Attention
+2076,Marketing,Senior,26,10,60825,2,5,5,5,1,2,45,Yes,No,4,2,63.33,66.67,High Burnout,Medium Engagement,Needs Attention
+2077,Customer Support,Mid,41,5,100740,3,1,5,4,1,4,56,No,No,2,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2078,Engineering,Senior,52,9,58885,4,1,3,2,1,1,61,Yes,No,2,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2079,Finance,Senior,55,3,70056,1,1,3,4,2,3,46,No,Yes,4,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2080,Customer Support,Entry,35,0,33203,1,1,1,3,2,5,52,No,Yes,2,2,36.67,100.0,High Burnout,Low Engagement,Critical Attention
+2081,HR,Entry,25,6,90241,3,2,4,4,3,2,60,No,No,3,2,63.33,86.67,High Burnout,Medium Engagement,Needs Attention
+2082,HR,Senior,26,13,32244,4,2,2,2,1,1,36,No,No,3,1,43.33,55.67,Medium Burnout,Medium Engagement,Needs Attention
+2083,Sales,Entry,45,1,128322,1,3,4,5,3,4,57,No,Yes,2,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2084,Customer Support,Entry,49,8,145329,2,1,4,1,1,4,35,No,No,3,5,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2085,Finance,Manager,27,12,98619,1,3,5,4,2,1,57,No,No,1,2,50.0,59.67,Medium Burnout,Medium Engagement,Needs Attention
+2086,Marketing,Mid,33,2,51584,4,4,3,1,4,2,44,No,No,3,4,63.33,56.0,Medium Burnout,Medium Engagement,Needs Attention
+2087,Engineering,Senior,58,7,38521,5,3,5,4,4,5,55,No,Yes,4,4,86.67,100.0,High Burnout,High Engagement,Moderate
+2088,Sales,Mid,38,12,80017,5,5,2,4,4,2,35,Yes,No,5,4,80.0,60.0,Medium Burnout,High Engagement,Moderate
+2089,HR,Mid,22,7,63541,3,2,1,5,4,3,40,No,No,2,1,53.33,88.33,High Burnout,Medium Engagement,Needs Attention
+2090,Marketing,Entry,28,2,59063,4,2,2,3,5,2,41,No,Yes,2,4,66.67,74.0,High Burnout,Medium Engagement,Needs Attention
+2091,Marketing,Mid,31,3,100268,1,1,5,2,1,3,51,Yes,Yes,3,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2092,Engineering,Entry,53,1,155234,1,1,5,2,4,4,43,No,No,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2093,Customer Support,Mid,58,3,156218,5,4,5,2,5,3,41,No,No,5,4,86.67,69.0,High Burnout,High Engagement,Moderate
+2094,HR,Senior,47,10,148206,5,4,5,3,5,5,51,No,Yes,5,3,86.67,100.0,High Burnout,High Engagement,Moderate
+2095,Finance,Mid,40,10,94952,2,5,4,1,5,1,37,No,Yes,4,2,60.0,26.33,Low Burnout,Medium Engagement,Moderate
+2096,Marketing,Mid,32,10,123054,5,1,1,2,3,3,50,No,Yes,1,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2097,Engineering,Mid,51,15,69563,2,1,4,1,3,2,39,No,Yes,4,3,56.67,82.67,High Burnout,Medium Engagement,Needs Attention
+2098,Finance,Entry,47,13,69752,1,4,5,3,5,3,54,No,Yes,2,5,70.0,77.67,High Burnout,Medium Engagement,Moderate
+2099,Customer Support,Mid,52,8,125233,2,4,3,3,4,4,52,No,No,3,4,63.33,91.33,High Burnout,Medium Engagement,Needs Attention
+2100,HR,Entry,30,1,32567,2,4,4,5,1,3,35,No,No,4,5,70.0,65.0,High Burnout,Medium Engagement,Moderate
+2101,Customer Support,Entry,23,11,46121,3,2,5,2,2,5,38,No,No,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2102,Marketing,Entry,47,11,31674,5,3,5,5,3,3,57,No,Yes,3,5,86.67,89.67,High Burnout,High Engagement,Moderate
+2103,Finance,Mid,55,12,106411,2,3,1,2,4,5,45,Yes,Yes,4,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2104,Finance,Senior,51,15,139876,1,1,2,3,4,2,54,Yes,Yes,4,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2105,Finance,Entry,35,2,96275,4,2,4,3,2,4,43,No,Yes,5,4,73.33,100.0,High Burnout,High Engagement,Moderate
+2106,Marketing,Mid,36,14,97081,2,4,4,4,2,1,64,Yes,Yes,1,2,50.0,74.33,High Burnout,Medium Engagement,Needs Attention
+2107,Marketing,Mid,33,10,59140,5,1,4,4,4,2,42,No,Yes,5,4,86.67,84.67,High Burnout,High Engagement,Moderate
+2108,Customer Support,Entry,55,10,155139,3,2,5,3,2,2,42,No,No,1,4,60.0,74.67,High Burnout,Medium Engagement,Needs Attention
+2109,Sales,Senior,31,14,39327,1,5,1,3,4,1,39,Yes,Yes,4,1,46.67,47.67,Medium Burnout,Medium Engagement,Needs Attention
+2110,Customer Support,Mid,41,3,100663,3,2,5,1,2,3,46,Yes,No,1,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2111,HR,Mid,31,4,53331,4,1,5,1,2,3,35,No,Yes,2,5,63.33,95.0,High Burnout,Medium Engagement,Needs Attention
+2112,Engineering,Mid,50,0,53004,2,3,3,5,4,3,49,No,Yes,5,4,76.67,84.33,High Burnout,High Engagement,Moderate
+2113,Finance,Entry,55,6,137369,2,4,1,4,5,4,59,No,No,5,3,66.67,96.0,High Burnout,Medium Engagement,Needs Attention
+2114,Sales,Mid,42,15,149243,5,5,4,4,4,2,52,No,Yes,5,1,76.67,51.33,Medium Burnout,High Engagement,Moderate
+2115,Engineering,Mid,58,13,40492,2,2,2,3,1,5,40,Yes,Yes,3,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+2116,Sales,Senior,51,9,84797,1,1,4,3,2,1,44,Yes,No,3,3,53.33,91.0,High Burnout,Medium Engagement,Needs Attention
+2117,Customer Support,Entry,34,15,88095,4,1,5,5,3,2,48,No,No,4,1,73.33,88.67,High Burnout,High Engagement,Moderate
+2118,Marketing,Mid,44,6,43749,3,4,1,4,2,3,55,No,Yes,4,3,56.67,78.33,High Burnout,Medium Engagement,Needs Attention
+2119,Finance,Mid,52,8,93217,4,1,1,1,1,1,60,No,Yes,3,2,40.0,81.67,High Burnout,Low Engagement,Needs Attention
+2120,Customer Support,Entry,56,3,119044,2,1,1,2,3,5,63,No,No,5,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2121,Engineering,Mid,52,13,39045,3,4,3,5,3,2,42,No,No,3,2,63.33,54.67,Medium Burnout,Medium Engagement,Needs Attention
+2122,Engineering,Senior,35,13,50116,5,5,4,2,4,2,61,Yes,No,1,5,70.0,77.33,High Burnout,Medium Engagement,Moderate
+2123,Engineering,Senior,55,5,48667,4,3,3,1,5,4,37,Yes,Yes,5,5,76.67,100.0,High Burnout,High Engagement,Moderate
+2124,Engineering,Mid,23,10,105057,3,3,2,1,4,2,56,No,No,3,1,46.67,74.0,High Burnout,Medium Engagement,Needs Attention
+2125,Engineering,Senior,36,1,104205,3,2,5,2,3,2,56,Yes,Yes,4,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2126,Sales,Manager,25,11,57302,3,5,3,5,3,5,60,Yes,Yes,3,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2127,Customer Support,Senior,41,11,41283,1,2,3,2,5,5,53,No,No,2,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2128,Finance,Entry,30,13,60935,4,3,5,5,2,1,46,No,Yes,3,1,66.67,52.33,Medium Burnout,Medium Engagement,Needs Attention
+2129,Marketing,Senior,39,3,102534,3,4,1,5,5,3,46,No,No,5,5,80.0,72.33,High Burnout,High Engagement,Moderate
+2130,Marketing,Mid,45,1,124342,4,1,5,3,4,5,49,Yes,No,3,5,80.0,100.0,High Burnout,High Engagement,Moderate
+2131,Customer Support,Manager,24,9,61624,3,3,4,4,2,1,62,No,No,4,1,60.0,63.0,High Burnout,Medium Engagement,Needs Attention
+2132,Customer Support,Mid,49,4,43440,5,5,5,4,4,2,41,No,Yes,1,3,73.33,44.0,Medium Burnout,High Engagement,Moderate
+2133,Marketing,Entry,39,14,141001,5,3,1,1,5,1,61,Yes,Yes,2,4,60.0,82.33,High Burnout,Medium Engagement,Needs Attention
+2134,Marketing,Senior,22,6,76501,5,5,5,3,2,1,38,Yes,Yes,5,3,76.67,47.0,Medium Burnout,High Engagement,Moderate
+2135,Sales,Mid,30,12,117333,2,5,3,4,5,1,55,No,Yes,4,1,63.33,38.33,Medium Burnout,Medium Engagement,Moderate
+2136,HR,Manager,45,0,31269,3,5,2,5,1,1,43,No,No,2,3,53.33,30.33,Medium Burnout,Medium Engagement,Moderate
+2137,Finance,Manager,40,14,37868,2,2,3,5,3,5,56,No,Yes,3,2,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2138,Engineering,Senior,39,9,60251,4,4,2,2,2,3,50,Yes,Yes,2,3,50.0,95.0,High Burnout,Medium Engagement,Needs Attention
+2139,HR,Entry,43,9,107909,2,3,5,2,3,1,60,No,Yes,1,5,60.0,61.67,High Burnout,Medium Engagement,Needs Attention
+2140,Customer Support,Senior,44,6,114523,4,4,4,5,1,4,47,No,Yes,2,5,70.0,88.0,High Burnout,Medium Engagement,Moderate
+2141,Marketing,Entry,31,9,68729,4,1,5,5,2,2,38,No,No,2,2,66.67,82.0,High Burnout,Medium Engagement,Needs Attention
+2142,HR,Entry,54,12,45734,4,3,1,2,3,2,58,No,No,3,3,53.33,75.33,High Burnout,Medium Engagement,Needs Attention
+2143,Finance,Senior,48,5,72429,2,4,5,4,3,2,43,Yes,No,3,4,70.0,75.33,High Burnout,Medium Engagement,Moderate
+2144,Customer Support,Entry,25,5,71337,3,4,2,1,2,2,60,No,No,5,3,53.33,66.67,High Burnout,Medium Engagement,Needs Attention
+2145,Engineering,Mid,25,11,70325,2,1,3,2,3,2,55,Yes,No,3,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2146,Engineering,Manager,41,7,113600,3,5,4,4,3,1,52,Yes,Yes,2,5,70.0,56.33,Medium Burnout,Medium Engagement,Moderate
+2147,Finance,Mid,32,7,92514,3,3,5,4,2,3,49,No,Yes,1,1,53.33,84.33,High Burnout,Medium Engagement,Needs Attention
+2148,Finance,Entry,24,5,38433,4,3,5,4,3,4,49,No,No,3,5,80.0,99.33,High Burnout,High Engagement,Moderate
+2149,Marketing,Manager,40,2,143957,2,1,3,3,3,5,40,Yes,Yes,5,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2150,Engineering,Entry,58,4,39111,3,5,4,3,4,4,45,No,Yes,5,5,80.0,76.67,High Burnout,High Engagement,Moderate
+2151,Customer Support,Senior,45,1,133986,5,3,5,4,4,5,62,Yes,No,2,5,83.33,100.0,High Burnout,High Engagement,Moderate
+2152,HR,Manager,34,14,93753,3,3,5,5,1,5,42,No,Yes,3,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2153,Customer Support,Manager,31,13,143783,5,3,2,3,4,4,63,No,No,3,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2154,Sales,Senior,52,4,110583,2,5,2,2,4,1,55,Yes,No,5,1,53.33,58.33,Medium Burnout,Medium Engagement,Needs Attention
+2155,Sales,Mid,31,13,103620,2,1,1,3,1,2,51,Yes,Yes,3,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2156,Finance,Entry,38,8,51751,2,3,3,5,3,1,58,No,Yes,2,1,53.33,60.33,High Burnout,Medium Engagement,Needs Attention
+2157,Marketing,Senior,47,9,46453,3,4,4,1,3,2,59,Yes,No,1,5,56.67,86.0,High Burnout,Medium Engagement,Needs Attention
+2158,Sales,Senior,38,0,115844,1,5,5,3,4,3,51,Yes,Yes,2,5,66.67,85.67,High Burnout,Medium Engagement,Needs Attention
+2159,Engineering,Mid,43,9,68968,3,2,5,4,1,5,58,No,Yes,3,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2160,Customer Support,Entry,31,4,60077,3,1,1,4,3,4,60,No,No,2,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2161,Customer Support,Entry,41,11,138582,4,4,5,4,5,3,62,No,No,4,2,80.0,83.0,High Burnout,High Engagement,Moderate
+2162,Finance,Entry,25,5,64775,4,3,3,1,2,2,52,Yes,Yes,4,1,50.0,91.33,High Burnout,Medium Engagement,Needs Attention
+2163,HR,Senior,43,13,88144,3,2,1,5,2,1,38,No,Yes,3,1,50.0,57.0,Medium Burnout,Medium Engagement,Needs Attention
+2164,Finance,Mid,45,10,78570,5,1,3,2,2,4,63,No,No,3,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2165,HR,Manager,30,6,76097,4,5,1,5,4,5,49,Yes,Yes,1,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2166,Finance,Senior,42,8,54503,3,2,5,1,2,3,36,No,Yes,2,2,50.0,85.67,High Burnout,Medium Engagement,Needs Attention
+2167,Finance,Entry,39,5,32779,1,2,1,4,2,5,36,Yes,Yes,1,4,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2168,Finance,Mid,21,4,116840,5,4,2,5,5,2,44,No,Yes,3,4,80.0,56.0,Medium Burnout,High Engagement,Moderate
+2169,HR,Mid,27,11,30755,2,1,4,2,3,5,37,No,No,3,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2170,HR,Mid,24,6,69263,3,4,5,4,5,1,64,No,No,5,3,83.33,54.33,Medium Burnout,High Engagement,Moderate
+2171,Finance,Senior,21,12,138491,3,4,4,2,4,3,42,Yes,Yes,1,4,60.0,89.67,High Burnout,Medium Engagement,Needs Attention
+2172,Sales,Senior,35,0,85087,5,3,5,3,2,3,54,Yes,Yes,3,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2173,Marketing,Senior,32,10,72281,4,5,4,2,3,1,41,No,Yes,4,2,63.33,29.0,Low Burnout,Medium Engagement,Moderate
+2174,Marketing,Entry,42,13,81482,4,2,2,4,2,5,46,No,No,5,1,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2175,Marketing,Entry,42,4,84857,4,1,4,3,2,1,60,Yes,Yes,2,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2176,HR,Senior,37,14,152989,2,5,1,4,4,4,53,Yes,Yes,5,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2177,HR,Entry,49,1,47400,5,5,4,4,2,1,60,Yes,No,2,4,70.0,61.67,High Burnout,Medium Engagement,Moderate
+2178,Sales,Mid,34,3,70115,5,1,5,3,1,5,62,No,Yes,4,4,73.33,100.0,High Burnout,High Engagement,Moderate
+2179,Marketing,Entry,40,6,44249,4,5,3,2,3,1,64,Yes,No,2,1,50.0,64.33,High Burnout,Medium Engagement,Needs Attention
+2180,Marketing,Senior,53,4,143183,4,3,4,1,3,2,49,No,Yes,1,3,53.33,69.33,High Burnout,Medium Engagement,Needs Attention
+2181,Finance,Entry,35,11,76825,1,5,4,1,1,1,48,Yes,Yes,2,2,36.67,53.67,Medium Burnout,Low Engagement,Needs Attention
+2182,HR,Senior,32,5,140361,1,3,4,1,4,1,50,No,No,2,2,46.67,55.0,Medium Burnout,Medium Engagement,Needs Attention
+2183,Marketing,Manager,40,1,54600,3,2,5,1,2,5,63,Yes,Yes,5,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2184,Customer Support,Entry,50,2,67706,3,2,4,5,2,4,61,No,Yes,4,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2185,Sales,Entry,58,6,49222,5,4,5,1,3,4,48,Yes,Yes,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2186,Customer Support,Mid,23,10,129041,5,3,5,3,4,5,37,Yes,No,1,5,76.67,100.0,High Burnout,High Engagement,Moderate
+2187,Customer Support,Senior,48,1,134504,2,2,3,1,4,5,52,No,Yes,5,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2188,Sales,Entry,46,11,71139,2,5,1,4,4,5,63,No,No,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2189,Customer Support,Mid,50,5,144919,1,1,5,1,2,2,62,No,No,4,3,53.33,98.0,High Burnout,Medium Engagement,Needs Attention
+2190,Marketing,Entry,33,4,146605,3,1,2,2,4,3,56,No,No,3,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2191,HR,Senior,33,9,71302,1,3,4,3,1,1,40,No,No,1,1,36.67,48.33,Medium Burnout,Low Engagement,Needs Attention
+2192,Sales,Mid,22,0,124684,1,4,2,3,5,5,51,Yes,Yes,5,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2193,Finance,Senior,57,11,117838,3,5,4,5,4,5,57,No,Yes,5,5,86.67,99.67,High Burnout,High Engagement,Moderate
+2194,Customer Support,Manager,58,10,98159,2,3,3,4,5,5,62,No,Yes,1,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2195,Sales,Entry,22,14,38646,3,1,5,3,2,4,48,Yes,Yes,4,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2196,Engineering,Senior,56,9,43543,4,3,1,2,4,5,48,No,Yes,2,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2197,Engineering,Entry,46,10,124496,4,5,5,1,3,1,54,No,Yes,1,1,50.0,37.67,Medium Burnout,Medium Engagement,Moderate
+2198,HR,Senior,31,3,158212,4,2,4,3,2,5,47,No,No,5,4,73.33,100.0,High Burnout,High Engagement,Moderate
+2199,Marketing,Senior,28,10,52785,5,5,1,2,1,1,61,Yes,No,1,4,46.67,62.33,High Burnout,Medium Engagement,Needs Attention
+2200,HR,Senior,42,1,108353,2,2,5,1,1,2,62,Yes,Yes,4,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2201,HR,Entry,40,3,61406,2,2,1,5,5,3,37,No,Yes,3,2,60.0,86.33,High Burnout,Medium Engagement,Needs Attention
+2202,HR,Entry,28,0,118992,5,2,4,3,5,4,47,No,Yes,3,4,80.0,100.0,High Burnout,High Engagement,Moderate
+2203,HR,Mid,49,1,81428,1,3,3,3,3,1,63,Yes,Yes,2,3,50.0,83.67,High Burnout,Medium Engagement,Needs Attention
+2204,Finance,Mid,46,12,53777,4,1,3,2,3,2,58,No,Yes,2,1,50.0,95.33,High Burnout,Medium Engagement,Needs Attention
+2205,Finance,Entry,50,7,87939,4,3,5,4,1,3,36,No,No,4,4,73.33,75.67,High Burnout,High Engagement,Moderate
+2206,Sales,Mid,37,5,83026,1,1,2,5,4,3,43,No,Yes,2,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2207,Engineering,Entry,40,1,116450,3,5,4,4,1,3,47,No,Yes,3,3,60.0,63.0,High Burnout,Medium Engagement,Needs Attention
+2208,HR,Mid,36,11,59553,3,4,5,3,1,1,42,No,Yes,4,4,66.67,39.67,Medium Burnout,Medium Engagement,Moderate
+2209,Sales,Senior,27,14,53548,2,5,5,4,3,2,50,Yes,No,4,3,70.0,70.0,High Burnout,Medium Engagement,Moderate
+2210,Engineering,Mid,36,5,93221,5,3,3,1,5,5,58,No,No,4,5,76.67,100.0,High Burnout,High Engagement,Moderate
+2211,Customer Support,Entry,47,9,67265,2,3,1,5,3,2,63,No,No,1,3,50.0,78.67,High Burnout,Medium Engagement,Needs Attention
+2212,Marketing,Mid,43,8,155549,3,1,4,4,3,2,37,Yes,Yes,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2213,Finance,Entry,44,6,70701,1,3,1,1,3,2,47,No,Yes,5,3,46.67,68.0,High Burnout,Medium Engagement,Needs Attention
+2214,Customer Support,Manager,29,8,81287,2,2,4,2,1,1,38,No,Yes,3,4,53.33,57.0,Medium Burnout,Medium Engagement,Needs Attention
+2215,Engineering,Entry,55,4,36727,4,3,2,4,4,1,52,No,Yes,2,2,60.0,56.33,Medium Burnout,Medium Engagement,Needs Attention
+2216,Customer Support,Senior,40,6,140460,4,1,3,5,1,1,36,No,No,3,4,66.67,65.67,High Burnout,Medium Engagement,Needs Attention
+2217,Marketing,Manager,57,10,80717,1,1,2,1,2,2,54,No,Yes,2,3,36.67,92.67,High Burnout,Low Engagement,Critical Attention
+2218,Engineering,Senior,37,15,62427,3,2,5,4,3,1,56,No,Yes,5,4,80.0,69.0,High Burnout,High Engagement,Moderate
+2219,Customer Support,Senior,51,14,46692,4,1,3,2,3,3,55,Yes,No,3,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2220,Finance,Senior,28,13,61625,4,4,5,4,2,1,49,No,Yes,5,4,80.0,44.33,Medium Burnout,High Engagement,Moderate
+2221,Finance,Manager,35,6,54918,5,5,2,1,3,4,51,No,No,3,4,60.0,80.67,High Burnout,Medium Engagement,Needs Attention
+2222,Sales,Mid,51,11,136931,2,3,4,4,3,1,63,Yes,Yes,1,1,50.0,83.67,High Burnout,Medium Engagement,Needs Attention
+2223,Customer Support,Mid,50,15,71136,3,4,5,5,3,1,44,No,Yes,1,1,60.0,41.0,Medium Burnout,Medium Engagement,Needs Attention
+2224,HR,Mid,40,11,144826,2,3,1,3,2,1,35,No,Yes,3,1,40.0,45.0,Medium Burnout,Low Engagement,Needs Attention
+2225,Customer Support,Mid,59,2,144881,3,4,4,1,1,1,40,No,No,3,5,56.67,38.33,Medium Burnout,Medium Engagement,Moderate
+2226,Engineering,Mid,32,6,82409,4,3,4,1,3,4,37,Yes,Yes,5,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2227,Engineering,Mid,37,0,45577,5,2,2,1,4,5,53,No,Yes,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2228,Customer Support,Entry,50,8,115155,2,1,2,1,2,1,41,Yes,Yes,3,1,36.67,89.0,High Burnout,Low Engagement,Critical Attention
+2229,Marketing,Entry,49,9,141776,4,1,3,4,5,3,47,No,No,2,2,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2230,Finance,Entry,39,12,129246,3,2,3,5,2,4,47,No,No,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2231,Engineering,Entry,31,5,132924,2,4,1,2,1,5,51,No,Yes,2,4,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+2232,Finance,Entry,54,15,156759,2,5,4,5,2,1,35,No,Yes,1,3,56.67,25.0,Low Burnout,Medium Engagement,Moderate
+2233,Engineering,Mid,27,4,150408,4,4,1,1,5,5,48,Yes,No,5,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2234,Sales,Entry,54,6,111731,2,1,1,4,4,3,63,No,No,1,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2235,HR,Senior,40,4,57689,5,5,2,4,5,4,60,No,No,2,2,66.67,86.67,High Burnout,Medium Engagement,Needs Attention
+2236,Engineering,Entry,58,9,41154,5,3,1,1,2,4,37,No,Yes,3,4,53.33,91.33,High Burnout,Medium Engagement,Needs Attention
+2237,Finance,Entry,44,4,134657,4,5,1,4,5,5,48,No,Yes,2,4,66.67,93.67,High Burnout,Medium Engagement,Needs Attention
+2238,Sales,Senior,30,15,124948,3,4,5,1,2,1,58,Yes,No,3,1,50.0,70.33,High Burnout,Medium Engagement,Needs Attention
+2239,Engineering,Mid,52,10,51341,4,2,3,5,4,2,35,Yes,No,5,1,73.33,90.0,High Burnout,High Engagement,Moderate
+2240,Marketing,Entry,35,9,127554,5,3,3,3,4,4,50,Yes,No,4,5,80.0,100.0,High Burnout,High Engagement,Moderate
+2241,HR,Senior,57,10,104681,1,4,4,4,1,2,44,No,Yes,3,2,50.0,56.0,Medium Burnout,Medium Engagement,Needs Attention
+2242,Engineering,Senior,40,6,137798,1,3,3,1,4,4,47,Yes,No,1,4,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2243,Sales,Mid,23,9,76330,2,5,4,1,3,1,38,Yes,No,2,2,46.67,47.0,Medium Burnout,Medium Engagement,Needs Attention
+2244,Marketing,Mid,57,14,148069,2,1,5,4,5,1,43,No,No,2,3,70.0,70.33,High Burnout,Medium Engagement,Moderate
+2245,Customer Support,Manager,28,6,117759,1,4,3,2,5,4,48,Yes,Yes,2,4,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2246,Sales,Mid,43,12,98416,5,2,5,1,2,5,38,No,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2247,Sales,Mid,31,10,155067,2,5,3,4,4,1,44,No,No,5,5,76.67,31.0,Medium Burnout,High Engagement,Healthy
+2248,Marketing,Senior,28,14,116807,4,4,3,1,1,1,42,No,No,3,2,46.67,39.67,Medium Burnout,Medium Engagement,Moderate
+2249,Sales,Entry,49,2,63313,4,2,5,2,1,3,57,No,No,1,1,46.67,99.67,High Burnout,Medium Engagement,Needs Attention
+2250,Marketing,Mid,50,2,76900,5,4,1,3,1,1,37,No,No,2,5,56.67,36.33,Medium Burnout,Medium Engagement,Moderate
+2251,Engineering,Entry,30,9,108840,2,5,1,2,3,3,57,Yes,No,3,1,40.0,89.67,High Burnout,Low Engagement,Needs Attention
+2252,Marketing,Senior,59,11,64695,4,4,1,5,4,1,41,Yes,Yes,2,4,66.67,59.0,Medium Burnout,Medium Engagement,Needs Attention
+2253,Marketing,Mid,48,12,60225,2,3,1,4,1,1,44,Yes,No,1,2,36.67,71.0,High Burnout,Low Engagement,Critical Attention
+2254,HR,Senior,56,14,116072,2,5,3,2,3,5,37,Yes,No,4,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2255,Marketing,Entry,33,2,126367,4,4,2,3,5,5,36,No,Yes,4,1,63.33,95.67,High Burnout,Medium Engagement,Needs Attention
+2256,Marketing,Entry,52,5,79156,1,1,5,1,2,1,49,No,Yes,4,2,50.0,74.33,High Burnout,Medium Engagement,Needs Attention
+2257,Customer Support,Mid,56,11,107209,4,4,2,4,4,4,43,No,Yes,2,4,66.67,85.33,High Burnout,Medium Engagement,Needs Attention
+2258,Engineering,Senior,57,14,117453,5,3,2,2,4,4,49,Yes,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2259,HR,Mid,46,5,57829,3,2,4,3,5,1,51,No,Yes,2,4,70.0,65.67,High Burnout,Medium Engagement,Moderate
+2260,Customer Support,Entry,42,12,110908,4,2,1,2,4,4,64,Yes,No,5,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2261,Finance,Senior,24,12,55938,2,2,3,5,4,1,41,No,No,3,3,66.67,59.0,Medium Burnout,Medium Engagement,Needs Attention
+2262,Engineering,Entry,51,2,89164,2,1,1,4,4,5,54,Yes,No,1,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2263,Engineering,Manager,38,2,84530,4,3,1,1,4,2,52,Yes,Yes,4,5,63.33,91.33,High Burnout,Medium Engagement,Needs Attention
+2264,Finance,Entry,58,7,150921,3,5,2,3,3,3,49,No,No,3,5,63.33,64.33,High Burnout,Medium Engagement,Needs Attention
+2265,Marketing,Senior,44,7,98199,4,2,4,2,3,4,52,No,Yes,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2266,Customer Support,Entry,43,6,90282,3,3,1,4,2,4,58,Yes,Yes,4,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2267,Sales,Manager,42,9,77801,3,4,5,2,4,5,57,Yes,No,1,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2268,HR,Mid,22,3,39465,5,1,5,4,5,4,46,No,No,2,4,83.33,100.0,High Burnout,High Engagement,Moderate
+2269,Sales,Entry,51,14,33326,2,3,1,5,1,1,57,No,Yes,2,4,50.0,59.67,Medium Burnout,Medium Engagement,Needs Attention
+2270,Finance,Mid,31,3,33659,2,3,2,2,2,1,55,Yes,No,3,5,53.33,78.33,High Burnout,Medium Engagement,Needs Attention
+2271,Engineering,Entry,48,2,90289,3,5,2,5,1,2,64,No,Yes,4,5,66.67,59.33,Medium Burnout,Medium Engagement,Needs Attention
+2272,Engineering,Entry,52,4,57594,2,3,3,3,1,2,60,Yes,Yes,5,4,60.0,96.67,High Burnout,Medium Engagement,Needs Attention
+2273,HR,Manager,25,2,145819,1,5,4,5,4,2,42,No,No,1,3,60.0,44.67,Medium Burnout,Medium Engagement,Needs Attention
+2274,Engineering,Mid,58,12,34763,3,1,2,4,5,1,64,No,Yes,2,3,63.33,84.33,High Burnout,Medium Engagement,Needs Attention
+2275,Engineering,Senior,30,7,118657,2,1,3,3,1,2,36,No,No,1,5,50.0,80.67,High Burnout,Medium Engagement,Needs Attention
+2276,HR,Mid,44,6,40828,1,4,5,2,1,2,36,No,No,1,3,43.33,50.67,Medium Burnout,Medium Engagement,Needs Attention
+2277,Customer Support,Senior,55,15,77588,5,5,5,2,2,1,39,No,No,1,2,56.67,27.67,Low Burnout,Medium Engagement,Moderate
+2278,Customer Support,Entry,43,12,41221,2,5,5,4,5,5,35,No,Yes,4,2,73.33,85.0,High Burnout,High Engagement,Moderate
+2279,HR,Entry,37,2,41211,1,2,1,1,5,4,56,No,Yes,4,2,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2280,Finance,Senior,21,15,43569,4,2,4,1,1,3,38,No,Yes,4,4,60.0,87.0,High Burnout,Medium Engagement,Needs Attention
+2281,Engineering,Manager,51,8,126894,4,4,3,2,5,1,40,No,No,3,4,70.0,38.33,Medium Burnout,Medium Engagement,Healthy
+2282,Engineering,Entry,51,11,67860,1,1,4,4,2,1,57,Yes,Yes,4,4,63.33,99.67,High Burnout,Medium Engagement,Needs Attention
+2283,Finance,Entry,54,13,101558,3,2,1,1,2,3,47,No,Yes,3,4,46.67,93.0,High Burnout,Medium Engagement,Needs Attention
+2284,Customer Support,Mid,29,12,75337,3,3,3,5,2,3,53,No,No,2,4,63.33,87.0,High Burnout,Medium Engagement,Needs Attention
+2285,Marketing,Manager,42,4,82311,2,1,3,2,4,2,45,No,No,2,5,60.0,86.67,High Burnout,Medium Engagement,Needs Attention
+2286,Marketing,Entry,33,8,43515,4,3,2,5,1,3,47,No,No,2,3,56.67,83.0,High Burnout,Medium Engagement,Needs Attention
+2287,Marketing,Mid,45,6,101695,3,5,4,4,5,4,42,Yes,No,2,5,76.67,94.67,High Burnout,High Engagement,Moderate
+2288,Customer Support,Senior,38,14,152006,3,1,4,5,2,4,41,No,Yes,2,3,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2289,Customer Support,Entry,32,6,141527,4,4,2,1,1,4,47,Yes,Yes,4,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2290,Finance,Entry,37,5,136749,5,5,5,1,1,4,35,No,Yes,5,2,63.33,70.0,High Burnout,Medium Engagement,Needs Attention
+2291,Engineering,Mid,35,1,117227,3,5,1,3,4,4,40,No,Yes,4,1,53.33,73.33,High Burnout,Medium Engagement,Needs Attention
+2292,Finance,Manager,35,8,54904,1,3,4,2,5,2,41,Yes,No,5,4,70.0,84.0,High Burnout,Medium Engagement,Moderate
+2293,Finance,Entry,35,5,89935,2,5,2,4,5,1,50,No,Yes,4,1,60.0,35.0,Medium Burnout,Medium Engagement,Moderate
+2294,Customer Support,Mid,59,7,73790,3,2,3,2,2,3,64,No,No,2,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2295,Marketing,Mid,33,0,98580,3,1,2,5,2,1,61,Yes,Yes,1,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2296,Sales,Mid,37,4,105148,5,2,5,4,1,3,49,No,Yes,5,1,70.0,94.33,High Burnout,Medium Engagement,Moderate
+2297,Engineering,Mid,52,11,35636,1,3,1,4,5,2,54,No,No,1,1,43.33,72.67,High Burnout,Medium Engagement,Needs Attention
+2298,Customer Support,Mid,29,0,107129,2,3,5,1,5,2,64,No,Yes,2,2,56.67,79.33,High Burnout,Medium Engagement,Needs Attention
+2299,Marketing,Mid,40,9,144483,3,1,3,5,2,5,36,Yes,No,5,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2300,Sales,Mid,46,10,32892,2,5,3,1,3,5,60,No,No,1,5,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2301,Sales,Mid,47,15,51672,4,4,3,1,1,2,59,No,No,4,1,46.67,66.0,High Burnout,Medium Engagement,Needs Attention
+2302,Customer Support,Mid,41,13,35812,3,3,3,3,5,2,57,No,Yes,2,4,66.67,74.67,High Burnout,Medium Engagement,Needs Attention
+2303,HR,Senior,38,7,126621,3,1,2,1,4,3,50,No,No,4,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2304,Engineering,Entry,33,7,158177,4,4,3,2,4,2,51,No,Yes,4,1,60.0,60.67,High Burnout,Medium Engagement,Needs Attention
+2305,Sales,Senior,36,0,30654,5,5,3,4,3,1,58,No,No,2,3,66.67,40.33,Medium Burnout,Medium Engagement,Needs Attention
+2306,Customer Support,Senior,29,8,84633,3,3,2,1,2,3,49,No,Yes,5,3,53.33,84.33,High Burnout,Medium Engagement,Needs Attention
+2307,Customer Support,Entry,32,1,47143,2,1,3,2,2,2,37,No,Yes,3,4,53.33,81.33,High Burnout,Medium Engagement,Needs Attention
+2308,Marketing,Mid,58,11,85934,1,1,5,5,2,3,38,Yes,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2309,HR,Mid,39,8,97334,2,1,5,4,4,3,46,No,Yes,2,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2310,Engineering,Entry,27,0,133463,5,3,4,5,2,4,39,No,No,3,3,73.33,92.67,High Burnout,High Engagement,Moderate
+2311,Finance,Mid,55,11,155851,1,4,5,2,4,5,51,No,Yes,1,3,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2312,Marketing,Entry,38,9,59087,2,1,1,5,3,3,40,No,No,5,5,70.0,98.33,High Burnout,Medium Engagement,Moderate
+2313,Sales,Entry,36,13,41618,2,5,1,5,1,3,44,No,No,4,3,53.33,61.0,High Burnout,Medium Engagement,Needs Attention
+2314,Sales,Senior,59,15,38446,4,1,1,5,5,4,56,Yes,Yes,4,2,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2315,Marketing,Entry,24,13,117182,5,4,2,1,3,2,52,Yes,No,2,5,60.0,81.33,High Burnout,Medium Engagement,Needs Attention
+2316,Customer Support,Senior,45,8,132127,4,3,5,1,4,3,61,Yes,No,4,4,73.33,100.0,High Burnout,High Engagement,Moderate
+2317,Sales,Mid,52,3,78867,1,1,1,1,3,4,44,No,No,1,3,33.33,100.0,High Burnout,Low Engagement,Critical Attention
+2318,HR,Senior,33,8,81028,4,1,4,4,5,1,40,Yes,Yes,1,2,66.67,88.33,High Burnout,Medium Engagement,Needs Attention
+2319,Engineering,Mid,37,6,90101,5,5,2,2,1,4,58,No,No,2,5,56.67,85.33,High Burnout,Medium Engagement,Needs Attention
+2320,HR,Entry,57,10,57200,3,5,4,1,5,5,40,No,Yes,4,2,63.33,88.33,High Burnout,Medium Engagement,Needs Attention
+2321,Sales,Senior,26,5,125107,3,1,5,5,4,5,54,No,Yes,3,5,83.33,100.0,High Burnout,High Engagement,Moderate
+2322,Finance,Entry,39,14,118074,1,1,3,5,5,2,49,No,Yes,3,5,73.33,89.33,High Burnout,High Engagement,Moderate
+2323,Engineering,Mid,33,4,136091,3,5,4,5,3,2,38,No,No,5,5,83.33,42.0,Medium Burnout,High Engagement,Moderate
+2324,Engineering,Manager,46,10,91465,4,4,3,5,2,5,59,Yes,No,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2325,Marketing,Entry,34,8,139500,1,2,2,3,3,5,50,No,Yes,5,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2326,Marketing,Mid,51,1,116436,5,2,4,4,4,3,56,Yes,No,3,5,83.33,100.0,High Burnout,High Engagement,Moderate
+2327,Finance,Senior,24,13,148422,1,1,4,2,1,5,58,Yes,No,3,2,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2328,Customer Support,Senior,59,12,154124,1,5,2,2,5,2,42,Yes,Yes,3,5,60.0,64.67,High Burnout,Medium Engagement,Needs Attention
+2329,Engineering,Senior,28,10,117892,2,3,2,1,1,5,41,Yes,No,5,4,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2330,Finance,Entry,45,13,118559,2,3,1,3,4,2,53,Yes,Yes,2,2,46.67,92.0,High Burnout,Medium Engagement,Needs Attention
+2331,Marketing,Senior,33,11,150044,1,2,5,2,5,1,60,Yes,Yes,1,5,63.33,91.67,High Burnout,Medium Engagement,Needs Attention
+2332,Marketing,Entry,52,1,69148,3,4,4,4,3,5,51,Yes,Yes,1,2,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2333,Engineering,Senior,58,10,112928,2,2,4,5,3,2,55,No,No,3,4,70.0,83.33,High Burnout,Medium Engagement,Moderate
+2334,HR,Manager,58,11,50698,5,1,2,1,4,4,47,No,No,2,2,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2335,Sales,Senior,48,14,72470,4,4,2,4,5,3,49,No,Yes,2,4,70.0,74.33,High Burnout,Medium Engagement,Moderate
+2336,Marketing,Senior,50,8,122071,2,3,5,2,3,2,60,Yes,Yes,4,3,63.33,96.67,High Burnout,Medium Engagement,Needs Attention
+2337,Customer Support,Entry,23,11,81660,1,5,2,3,4,5,60,No,No,4,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2338,Customer Support,Senior,48,2,83910,3,5,3,1,4,5,36,No,No,5,4,66.67,85.67,High Burnout,Medium Engagement,Needs Attention
+2339,Marketing,Senior,23,7,65450,4,1,3,2,1,1,62,Yes,No,4,5,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2340,HR,Entry,54,10,86463,2,2,3,1,3,4,44,No,No,5,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2341,HR,Senior,36,15,63757,3,1,3,2,5,2,47,No,No,1,1,50.0,88.0,High Burnout,Medium Engagement,Needs Attention
+2342,Finance,Entry,42,14,108012,3,5,5,5,3,4,52,No,No,3,1,66.67,81.33,High Burnout,Medium Engagement,Needs Attention
+2343,Customer Support,Senior,52,8,136750,3,3,4,3,3,1,64,No,No,2,1,53.33,64.33,High Burnout,Medium Engagement,Needs Attention
+2344,Finance,Senior,58,7,157043,1,5,3,5,3,3,57,No,Yes,1,4,56.67,69.67,High Burnout,Medium Engagement,Needs Attention
+2345,Customer Support,Senior,28,15,100247,5,4,2,2,4,4,45,No,No,1,5,63.33,86.67,High Burnout,Medium Engagement,Needs Attention
+2346,Sales,Entry,28,3,102015,3,5,3,4,2,1,47,Yes,Yes,5,1,60.0,53.0,Medium Burnout,Medium Engagement,Needs Attention
+2347,Sales,Mid,26,11,61390,4,5,5,5,2,2,53,Yes,Yes,3,5,80.0,72.0,High Burnout,High Engagement,Moderate
+2348,Engineering,Mid,34,0,86116,2,4,2,4,1,3,63,No,Yes,5,4,60.0,83.67,High Burnout,Medium Engagement,Needs Attention
+2349,Finance,Manager,52,3,43161,4,2,3,2,3,5,58,Yes,No,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2350,Marketing,Mid,55,13,62152,1,5,4,3,2,1,59,Yes,No,2,5,56.67,61.0,High Burnout,Medium Engagement,Needs Attention
+2351,Finance,Mid,30,8,110171,1,1,2,4,1,5,64,Yes,No,4,1,43.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2352,Marketing,Senior,23,1,136379,4,5,2,2,4,3,63,No,Yes,5,2,63.33,73.67,High Burnout,Medium Engagement,Needs Attention
+2353,HR,Mid,32,15,125833,5,1,4,4,3,1,58,Yes,No,1,3,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2354,Finance,Mid,51,2,50836,1,4,2,5,5,1,56,Yes,Yes,4,4,70.0,69.0,High Burnout,Medium Engagement,Moderate
+2355,HR,Mid,49,9,120367,1,5,3,2,4,3,39,No,No,4,4,60.0,57.67,Medium Burnout,Medium Engagement,Needs Attention
+2356,Sales,Senior,25,7,96543,4,4,2,5,1,2,37,No,Yes,1,4,56.67,51.33,Medium Burnout,Medium Engagement,Needs Attention
+2357,Sales,Mid,45,5,85648,1,4,3,1,4,1,53,Yes,No,3,3,50.0,67.0,High Burnout,Medium Engagement,Needs Attention
+2358,Engineering,Mid,51,15,56331,5,2,4,2,5,3,57,No,No,1,2,63.33,99.67,High Burnout,Medium Engagement,Needs Attention
+2359,Finance,Entry,41,7,135992,5,5,1,4,4,4,47,No,No,2,5,70.0,78.0,High Burnout,Medium Engagement,Moderate
+2360,HR,Entry,40,15,40763,5,1,4,1,1,5,39,No,No,4,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2361,Marketing,Entry,59,6,99444,2,1,3,5,5,1,46,Yes,No,2,5,73.33,92.33,High Burnout,High Engagement,Moderate
+2362,Sales,Entry,42,13,123109,5,5,5,5,5,4,48,No,Yes,5,1,86.67,78.67,High Burnout,High Engagement,Moderate
+2363,Sales,Mid,24,12,49187,5,2,4,4,4,1,40,No,No,4,1,73.33,58.33,Medium Burnout,High Engagement,Moderate
+2364,Marketing,Senior,33,12,41957,2,2,5,1,5,2,64,Yes,No,3,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2365,HR,Mid,40,4,34379,3,2,5,3,4,3,56,No,No,1,4,66.67,99.0,High Burnout,Medium Engagement,Needs Attention
+2366,HR,Senior,33,8,57959,1,1,3,4,3,1,43,Yes,Yes,5,3,63.33,90.33,High Burnout,Medium Engagement,Needs Attention
+2367,Finance,Manager,37,3,112018,5,4,3,5,5,3,51,No,No,2,4,80.0,75.67,High Burnout,High Engagement,Moderate
+2368,Finance,Senior,56,5,153076,1,2,1,2,4,1,42,Yes,Yes,5,1,46.67,79.67,High Burnout,Medium Engagement,Needs Attention
+2369,Customer Support,Senior,53,1,57105,4,1,2,1,3,2,60,No,Yes,3,1,46.67,96.67,High Burnout,Medium Engagement,Needs Attention
+2370,Customer Support,Mid,21,14,30877,1,1,4,3,5,2,47,Yes,No,1,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2371,Engineering,Mid,35,1,78353,2,4,3,2,3,4,63,No,No,5,3,60.0,98.67,High Burnout,Medium Engagement,Needs Attention
+2372,Sales,Entry,33,1,113788,1,5,4,1,5,2,39,No,Yes,2,3,53.33,42.67,Medium Burnout,Medium Engagement,Needs Attention
+2373,Finance,Mid,37,9,126870,1,5,5,4,1,3,63,Yes,No,5,5,70.0,93.67,High Burnout,Medium Engagement,Moderate
+2374,HR,Manager,44,6,114585,1,2,2,4,1,2,56,No,Yes,1,2,36.67,84.0,High Burnout,Low Engagement,Critical Attention
+2375,Marketing,Senior,28,12,113308,3,2,1,1,4,1,56,Yes,No,5,1,50.0,89.0,High Burnout,Medium Engagement,Needs Attention
+2376,HR,Entry,47,1,81567,3,4,4,3,2,2,51,Yes,No,2,3,56.67,80.67,High Burnout,Medium Engagement,Needs Attention
+2377,Sales,Mid,43,14,87913,4,2,2,1,1,3,37,No,No,1,1,33.33,86.33,High Burnout,Low Engagement,Critical Attention
+2378,Customer Support,Senior,28,14,32637,2,4,1,2,2,1,62,Yes,No,3,2,40.0,73.0,High Burnout,Low Engagement,Needs Attention
+2379,HR,Entry,28,11,102778,1,1,4,2,3,4,40,No,Yes,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2380,Engineering,Mid,46,14,72025,1,2,2,4,3,4,48,Yes,Yes,4,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2381,Sales,Senior,33,12,136917,1,1,3,1,2,4,49,Yes,No,5,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2382,Customer Support,Mid,59,1,131187,1,3,4,4,4,1,48,No,Yes,2,4,63.33,53.67,Medium Burnout,Medium Engagement,Needs Attention
+2383,Marketing,Entry,57,14,129508,3,4,2,3,5,4,45,No,No,5,4,73.33,86.67,High Burnout,High Engagement,Moderate
+2384,Customer Support,Mid,48,8,112464,4,3,1,2,2,2,45,Yes,No,1,3,43.33,86.67,High Burnout,Medium Engagement,Needs Attention
+2385,Engineering,Senior,45,6,58742,5,2,2,5,2,1,43,No,Yes,4,3,70.0,60.33,High Burnout,Medium Engagement,Moderate
+2386,Sales,Mid,36,10,41831,2,1,3,5,2,1,40,Yes,No,2,2,53.33,88.33,High Burnout,Medium Engagement,Needs Attention
+2387,Marketing,Entry,22,2,143768,1,2,4,1,2,1,49,No,Yes,5,1,46.67,64.33,High Burnout,Medium Engagement,Needs Attention
+2388,Engineering,Mid,38,2,145911,4,3,4,1,2,5,46,Yes,Yes,2,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2389,Customer Support,Mid,37,6,115092,5,2,4,5,4,3,63,Yes,Yes,1,4,76.67,100.0,High Burnout,High Engagement,Moderate
+2390,Engineering,Mid,50,4,120879,4,5,3,1,1,5,40,No,No,4,1,46.67,88.33,High Burnout,Medium Engagement,Needs Attention
+2391,Sales,Senior,59,9,118370,3,3,1,2,5,5,35,Yes,Yes,2,2,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2392,Finance,Entry,33,13,156537,5,2,4,3,1,5,59,Yes,Yes,1,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2393,Engineering,Senior,52,13,76762,4,1,1,3,2,3,50,No,Yes,3,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2394,Engineering,Entry,49,5,134824,3,2,2,4,1,5,54,No,Yes,2,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2395,Customer Support,Mid,50,12,128958,4,1,1,2,4,4,49,No,Yes,4,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2396,Customer Support,Entry,38,11,118741,4,5,1,1,3,1,36,No,No,2,2,43.33,25.67,Low Burnout,Medium Engagement,Moderate
+2397,Marketing,Mid,33,7,48830,5,2,4,1,1,1,51,No,No,2,3,53.33,65.67,High Burnout,Medium Engagement,Needs Attention
+2398,Customer Support,Mid,41,8,85044,3,5,5,4,5,2,37,No,Yes,1,1,63.33,41.33,Medium Burnout,Medium Engagement,Needs Attention
+2399,HR,Mid,50,0,103948,1,3,5,4,4,4,37,No,No,5,2,70.0,91.33,High Burnout,Medium Engagement,Moderate
+2400,Sales,Entry,41,2,99202,2,1,3,1,3,3,39,Yes,No,5,3,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2401,Sales,Mid,37,10,67045,5,3,3,1,4,1,51,No,Yes,2,3,60.0,55.67,Medium Burnout,Medium Engagement,Needs Attention
+2402,Finance,Entry,39,6,116322,3,1,5,2,2,5,57,Yes,Yes,4,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2403,Finance,Senior,35,5,147257,4,5,2,4,3,2,63,Yes,No,4,1,60.0,78.67,High Burnout,Medium Engagement,Needs Attention
+2404,Sales,Manager,29,6,101051,3,4,4,2,5,2,51,No,No,1,3,60.0,60.67,High Burnout,Medium Engagement,Needs Attention
+2405,Finance,Mid,30,7,137509,2,2,4,1,3,1,54,No,Yes,2,4,53.33,67.67,High Burnout,Medium Engagement,Needs Attention
+2406,Marketing,Mid,51,5,56627,2,5,2,5,5,4,40,Yes,Yes,2,2,60.0,93.33,High Burnout,Medium Engagement,Needs Attention
+2407,Customer Support,Mid,43,2,45198,1,1,2,5,2,2,35,Yes,Yes,5,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2408,Sales,Entry,50,1,99521,1,1,5,1,5,1,41,No,Yes,1,3,53.33,69.0,High Burnout,Medium Engagement,Needs Attention
+2409,Finance,Mid,53,11,141439,2,1,3,4,4,4,60,No,No,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2410,Sales,Senior,29,6,136471,5,1,2,5,1,1,49,No,No,4,5,73.33,74.33,High Burnout,High Engagement,Moderate
+2411,HR,Mid,21,11,59475,5,2,3,4,4,1,41,Yes,No,4,3,76.67,79.0,High Burnout,High Engagement,Moderate
+2412,Engineering,Entry,55,11,135752,4,3,1,5,4,4,53,No,Yes,2,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2413,Customer Support,Senior,31,11,148998,1,4,4,4,3,4,54,Yes,Yes,1,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2414,Sales,Mid,54,10,49403,4,2,5,5,2,4,56,No,Yes,3,4,76.67,100.0,High Burnout,High Engagement,Moderate
+2415,Engineering,Senior,36,0,33681,1,1,4,4,1,1,64,No,No,4,1,50.0,84.33,High Burnout,Medium Engagement,Needs Attention
+2416,Finance,Mid,29,2,121555,2,2,5,2,5,2,45,Yes,No,1,3,60.0,96.67,High Burnout,Medium Engagement,Needs Attention
+2417,Engineering,Mid,52,11,148884,5,5,1,4,3,3,57,Yes,Yes,3,5,70.0,89.67,High Burnout,Medium Engagement,Moderate
+2418,Customer Support,Entry,35,10,123122,5,1,4,2,2,3,48,No,Yes,2,4,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2419,Sales,Entry,32,3,145260,2,4,1,2,1,1,47,No,No,5,5,53.33,43.0,Medium Burnout,Medium Engagement,Needs Attention
+2420,HR,Manager,53,12,72292,4,1,5,1,4,1,54,Yes,No,4,2,66.67,97.67,High Burnout,Medium Engagement,Needs Attention
+2421,Finance,Entry,34,13,133057,4,4,2,2,2,2,60,No,Yes,4,3,56.67,66.67,High Burnout,Medium Engagement,Needs Attention
+2422,Sales,Manager,28,0,135386,3,4,4,3,2,4,61,Yes,Yes,3,1,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2423,Customer Support,Mid,28,4,132306,1,3,1,2,2,1,59,No,Yes,5,5,53.33,61.0,High Burnout,Medium Engagement,Needs Attention
+2424,Finance,Entry,47,9,35629,4,3,4,4,4,5,43,Yes,No,1,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2425,Marketing,Entry,32,2,123246,2,2,4,2,5,4,43,No,No,2,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2426,Engineering,Entry,21,1,125864,4,2,4,4,3,1,50,Yes,No,1,4,66.67,85.0,High Burnout,Medium Engagement,Needs Attention
+2427,Customer Support,Manager,31,14,107814,5,4,3,4,5,5,46,No,No,3,5,83.33,100.0,High Burnout,High Engagement,Moderate
+2428,Marketing,Mid,59,2,38417,1,1,1,3,1,2,44,No,No,4,1,36.67,86.0,High Burnout,Low Engagement,Critical Attention
+2429,Sales,Mid,51,7,148888,3,5,1,2,3,5,40,Yes,Yes,4,1,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2430,HR,Mid,37,15,64765,1,5,4,2,1,1,52,No,Yes,1,3,40.0,36.33,Medium Burnout,Low Engagement,Moderate
+2431,Finance,Entry,53,5,104499,5,1,2,5,4,3,36,Yes,No,2,1,63.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2432,Engineering,Mid,52,12,144088,5,1,4,5,5,1,61,No,Yes,3,5,90.0,82.33,High Burnout,High Engagement,Moderate
+2433,Finance,Entry,49,13,86574,5,3,3,1,2,3,54,Yes,No,2,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2434,Sales,Senior,41,6,132828,5,5,5,4,3,2,43,No,No,3,1,70.0,45.33,Medium Burnout,Medium Engagement,Moderate
+2435,Finance,Mid,41,11,120545,2,4,3,3,2,2,53,No,No,2,2,46.67,62.0,High Burnout,Medium Engagement,Needs Attention
+2436,Engineering,Mid,43,5,158206,3,2,2,5,1,4,40,Yes,Yes,1,5,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2437,Sales,Mid,26,5,57675,5,3,4,2,2,4,36,Yes,Yes,5,3,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2438,Finance,Mid,42,15,155609,5,5,1,1,2,3,49,No,Yes,3,2,46.67,64.33,High Burnout,Medium Engagement,Needs Attention
+2439,HR,Manager,58,11,131711,4,1,4,3,4,3,51,No,No,1,1,56.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2440,Customer Support,Mid,57,15,102267,3,5,2,2,4,2,50,No,Yes,4,4,63.33,50.0,Medium Burnout,Medium Engagement,Needs Attention
+2441,Sales,Entry,28,2,70563,1,4,1,2,5,5,62,Yes,Yes,4,5,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2442,Customer Support,Mid,55,11,41332,3,3,3,4,1,3,55,No,Yes,2,4,56.67,88.33,High Burnout,Medium Engagement,Needs Attention
+2443,Sales,Entry,31,12,153745,3,1,5,4,4,3,42,No,No,4,3,76.67,99.67,High Burnout,High Engagement,Moderate
+2444,HR,Entry,44,13,49177,3,4,5,5,4,5,44,No,No,5,2,80.0,100.0,High Burnout,High Engagement,Moderate
+2445,Customer Support,Manager,41,7,119254,5,2,4,5,5,4,44,No,No,3,4,86.67,100.0,High Burnout,High Engagement,Moderate
+2446,Marketing,Senior,22,11,98447,5,3,3,2,3,4,52,Yes,No,2,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2447,Engineering,Manager,39,6,87104,2,4,2,2,5,3,44,Yes,No,3,4,60.0,91.0,High Burnout,Medium Engagement,Needs Attention
+2448,Marketing,Mid,59,6,114335,1,4,5,5,2,4,43,Yes,Yes,3,4,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2449,Finance,Mid,48,5,144938,4,1,3,5,2,4,62,No,Yes,1,3,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2450,HR,Entry,37,4,110730,3,2,4,2,4,4,58,Yes,No,4,5,73.33,100.0,High Burnout,High Engagement,Moderate
+2451,Marketing,Entry,26,9,34951,1,4,1,3,4,2,53,No,No,3,4,53.33,62.0,High Burnout,Medium Engagement,Needs Attention
+2452,Sales,Senior,39,7,136402,1,3,4,2,5,1,35,No,Yes,5,3,66.67,45.0,Medium Burnout,Medium Engagement,Needs Attention
+2453,Finance,Mid,58,4,58333,2,4,4,3,5,3,38,No,Yes,5,4,76.67,67.0,High Burnout,High Engagement,Moderate
+2454,Finance,Senior,48,8,51673,4,5,3,3,1,3,58,No,No,4,5,66.67,70.33,High Burnout,Medium Engagement,Needs Attention
+2455,Marketing,Senior,22,8,144421,3,3,5,2,2,2,37,No,Yes,4,3,63.33,61.33,High Burnout,Medium Engagement,Needs Attention
+2456,Marketing,Entry,58,0,70870,4,3,3,1,5,1,44,No,No,2,4,63.33,51.0,Medium Burnout,Medium Engagement,Needs Attention
+2457,HR,Mid,57,5,151945,2,4,1,5,3,1,46,Yes,Yes,2,1,46.67,62.33,High Burnout,Medium Engagement,Needs Attention
+2458,Engineering,Senior,24,6,157536,5,1,3,4,1,2,52,No,Yes,2,5,66.67,91.33,High Burnout,Medium Engagement,Needs Attention
+2459,Marketing,Entry,42,2,101101,1,3,2,2,5,5,57,No,Yes,4,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2460,Marketing,Senior,46,15,52821,3,5,4,3,4,5,54,No,No,3,2,63.33,97.67,High Burnout,Medium Engagement,Needs Attention
+2461,Customer Support,Mid,56,6,55494,5,1,5,2,5,1,40,No,No,1,3,70.0,68.33,High Burnout,Medium Engagement,Moderate
+2462,Sales,Entry,33,10,129477,2,1,1,5,4,5,55,No,Yes,2,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2463,Customer Support,Mid,52,10,156083,4,1,4,3,4,5,36,No,No,1,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2464,Customer Support,Manager,37,6,104160,1,3,3,4,2,5,44,No,Yes,5,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2465,Finance,Entry,56,15,142698,3,1,2,4,2,1,36,No,Yes,4,2,56.67,65.67,High Burnout,Medium Engagement,Needs Attention
+2466,Engineering,Senior,39,13,141560,5,4,3,4,5,5,64,No,No,5,2,80.0,100.0,High Burnout,High Engagement,Moderate
+2467,Sales,Entry,55,12,30835,5,1,4,1,5,3,43,Yes,Yes,2,4,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2468,HR,Senior,48,10,155126,1,5,1,3,3,1,61,No,No,3,1,40.0,42.33,Medium Burnout,Low Engagement,Needs Attention
+2469,HR,Senior,21,1,48646,4,2,5,3,1,2,44,No,No,2,5,66.67,76.0,High Burnout,Medium Engagement,Needs Attention
+2470,Marketing,Mid,38,6,153777,2,5,4,1,1,5,36,No,No,1,1,33.33,85.67,High Burnout,Low Engagement,Critical Attention
+2471,Marketing,Mid,53,14,107360,4,3,1,3,5,4,42,No,No,2,1,53.33,94.67,High Burnout,Medium Engagement,Needs Attention
+2472,HR,Senior,32,0,67335,4,1,4,1,2,1,58,Yes,No,3,4,60.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2473,Marketing,Mid,28,4,99351,4,1,2,2,3,2,51,No,Yes,3,3,56.67,90.67,High Burnout,Medium Engagement,Needs Attention
+2474,Engineering,Senior,44,8,144934,1,4,3,5,1,3,51,No,Yes,4,3,56.67,75.67,High Burnout,Medium Engagement,Needs Attention
+2475,Customer Support,Entry,36,6,32429,1,1,5,4,5,2,63,Yes,Yes,4,3,73.33,100.0,High Burnout,High Engagement,Moderate
+2476,Marketing,Senior,24,6,71950,2,5,1,1,2,5,38,No,No,3,2,36.67,87.0,High Burnout,Low Engagement,Critical Attention
+2477,Finance,Senior,58,10,90654,4,3,5,1,2,4,52,Yes,Yes,3,5,66.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2478,Marketing,Manager,47,12,137422,1,2,5,1,2,5,46,Yes,No,1,2,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+2479,Sales,Entry,29,11,139934,2,1,5,2,4,2,51,No,No,2,5,66.67,90.67,High Burnout,Medium Engagement,Needs Attention
+2480,Engineering,Mid,36,1,149975,2,2,1,1,2,1,43,No,No,4,5,50.0,60.33,High Burnout,Medium Engagement,Needs Attention
+2481,Sales,Mid,32,7,98143,4,1,1,5,5,4,63,Yes,No,1,5,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2482,Sales,Mid,51,2,121186,3,3,5,5,3,4,53,No,No,2,4,73.33,100.0,High Burnout,High Engagement,Moderate
+2483,Finance,Mid,44,14,134234,4,5,3,4,5,2,48,No,Yes,4,3,76.67,48.67,Medium Burnout,High Engagement,Moderate
+2484,Engineering,Entry,34,7,127889,3,3,4,2,2,5,48,Yes,No,1,2,46.67,100.0,High Burnout,Medium Engagement,Needs Attention
+2485,Engineering,Senior,45,2,132326,2,2,5,5,3,2,64,Yes,Yes,5,2,73.33,100.0,High Burnout,High Engagement,Moderate
+2486,Engineering,Mid,54,9,107527,1,1,2,3,1,4,51,No,Yes,5,4,53.33,100.0,High Burnout,Medium Engagement,Needs Attention
+2487,Engineering,Entry,23,6,116704,5,2,5,3,1,2,36,No,No,4,5,76.67,70.67,High Burnout,High Engagement,Moderate
+2488,Engineering,Senior,44,1,61099,2,5,1,3,5,4,42,Yes,No,1,3,50.0,94.67,High Burnout,Medium Engagement,Needs Attention
+2489,Finance,Mid,29,15,69385,1,3,4,1,3,5,39,Yes,No,2,1,40.0,100.0,High Burnout,Low Engagement,Needs Attention
+2490,Marketing,Entry,46,3,65919,2,2,2,1,5,1,61,No,No,2,1,43.33,72.33,High Burnout,Medium Engagement,Needs Attention
+2491,Sales,Manager,40,10,126952,4,2,4,3,3,1,41,Yes,No,1,4,63.33,79.0,High Burnout,Medium Engagement,Needs Attention
+2492,Engineering,Manager,30,5,90782,3,5,4,4,3,2,56,No,Yes,5,3,73.33,54.0,Medium Burnout,High Engagement,Moderate
+2493,Marketing,Mid,39,10,101116,2,1,2,4,5,4,63,No,No,1,1,50.0,100.0,High Burnout,Medium Engagement,Needs Attention
+2494,Marketing,Entry,23,8,102590,1,2,5,1,3,1,50,Yes,No,5,1,53.33,85.0,High Burnout,Medium Engagement,Needs Attention
+2495,Sales,Senior,44,4,119626,4,5,5,3,2,4,50,No,No,5,2,70.0,80.0,High Burnout,Medium Engagement,Moderate
+2496,Finance,Mid,25,12,70387,5,1,5,4,3,5,51,No,Yes,2,3,73.33,100.0,High Burnout,High Engagement,Moderate
+2497,HR,Mid,23,8,45823,4,1,3,1,3,2,56,No,Yes,4,1,53.33,94.0,High Burnout,Medium Engagement,Needs Attention
+2498,HR,Mid,47,14,76015,3,3,5,3,5,4,61,No,No,3,2,70.0,100.0,High Burnout,Medium Engagement,Moderate
+2499,Marketing,Mid,36,4,132877,4,5,2,2,1,2,41,No,Yes,1,3,43.33,44.0,Medium Burnout,Medium Engagement,Needs Attention
+2500,Customer Support,Mid,35,9,45339,5,1,3,3,4,4,54,No,No,5,5,83.33,100.0,High Burnout,High Engagement,Moderate
